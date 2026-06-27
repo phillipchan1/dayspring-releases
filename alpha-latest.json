@@ -1,11 +1,11 @@
 {
-  "version": "1.0.198",
-  "notes": "- ✨ You can now get direct scripture reference results without using AI, so answers feel more straightforward and dependable.",
-  "pub_date": "2026-06-26T14:51:16Z",
+  "version": "1.0.199",
+  "notes": "- ✨ Add an option to photograph a handwritten entry and turn it into a drafted journal entry you can review and edit.",
+  "pub_date": "2026-06-27T15:41:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlIUlg2NENmOTJEcXpQOGdwdFd4elBIcjBHcTVhTmlLcUNodlk0WVFvOFNTSlBCZEFSMGRXRVdUaFQ2MlFKVVlmZSszQXFkaEsrVXVMOWlrSEVEc2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDg1NTg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQlh6aTIwNWF3ZFdRWklGd3hmVWt5dzEySllSRzlxNlRGK2NXcHFtdjhxOGdaL1RaeWVVWUxrSjFsWVpLc2hRbytuWXlZYXhoeTVqd2hqUnZFeTJ2Qnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.198/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpObU5LRGdqMTcwY1hHaXdoQW82Y0srRDhYYUxLbjdlU2N3SHlNME9vL2RqUHZhaXUvUU5JWUZxTndlZW1rZnZENkdJNEZ1bWN1eDhnOWdCaWRsb2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc0OTgxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNmhUdjRQOU1vaXJBQjRvVHdNbFRmcXFMaE5FbHRsMjJsVThjTjVNQlJMZFdCVnZPN282OUVFaGwzM1dkR0tPUGFnK0hEWWZuUEE4SUNocERvc0c0QUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.199/Dayspring.app.tar.gz"
     }
   }
 }
