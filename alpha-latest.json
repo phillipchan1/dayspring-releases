@@ -1,11 +1,11 @@
 {
-  "version": "1.0.199",
-  "notes": "- ✨ Add an option to photograph a handwritten entry and turn it into a drafted journal entry you can review and edit.",
-  "pub_date": "2026-06-27T15:41:19Z",
+  "version": "1.0.200",
+  "notes": "- ✨ Scan is now always available on alpha, so you can find it without needing any extra setting",
+  "pub_date": "2026-06-27T15:51:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpObU5LRGdqMTcwY1hHaXdoQW82Y0srRDhYYUxLbjdlU2N3SHlNME9vL2RqUHZhaXUvUU5JWUZxTndlZW1rZnZENkdJNEZ1bWN1eDhnOWdCaWRsb2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc0OTgxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNmhUdjRQOU1vaXJBQjRvVHdNbFRmcXFMaE5FbHRsMjJsVThjTjVNQlJMZFdCVnZPN282OUVFaGwzM1dkR0tPUGFnK0hEWWZuUEE4SUNocERvc0c0QUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.199/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9xYzhMUW5UQmMvWldrN0xYVWFVdElJSTlCL0RBU21TclRSamIzaGluYzVHYktuR2xuSklPV0lvSEZhbkt6WnI3TWkwUGdWczBLbUJ4cjhwRnUvZ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc1NjE4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbWhQYS8vUnhscy9EazZRL2M4aWF3OGozb2psZ3dwY0YzMXg3Z081SHA1MWszRlRydzFwRjZBZlY1T3ZwdUxBdUJNU0lSeHJxWml0YXJQVG9XRExTQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.200/Dayspring.app.tar.gz"
     }
   }
 }
