@@ -1,11 +1,11 @@
 {
-  "version": "1.0.200",
-  "notes": "- ✨ Scan is now always available on alpha, so you can find it without needing any extra setting",
-  "pub_date": "2026-06-27T15:51:20Z",
+  "version": "1.0.201",
+  "notes": "- Fixed a rare syncing issue where a new journal entry could accidentally get blended into an existing entry.",
+  "pub_date": "2026-07-05T15:03:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9xYzhMUW5UQmMvWldrN0xYVWFVdElJSTlCL0RBU21TclRSamIzaGluYzVHYktuR2xuSklPV0lvSEZhbkt6WnI3TWkwUGdWczBLbUJ4cjhwRnUvZ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc1NjE4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbWhQYS8vUnhscy9EazZRL2M4aWF3OGozb2psZ3dwY0YzMXg3Z081SHA1MWszRlRydzFwRjZBZlY1T3ZwdUxBdUJNU0lSeHJxWml0YXJQVG9XRExTQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.200/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBpcHZTclozemM4UHlnSzhlcWdudFRpbXFlQUVMdmorRU9PVkxtQWI3STRzL3V2K2krWXJaV3FtOHJRVjdlYUdid3I4TjF4cWkzMnNCdWJES2ZEaVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjY0MDE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKczRHQmhmdTRvaU1PcnVNRFVYR3VDaElvOTVjRVpYS1MyU09SaFN6L3lDTzBLMnJxdzRtTmxSbXpZaVVQeXdZMG1PUGRhOFR6V09nRDF3UEp0OW1FQlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.201/Dayspring.app.tar.gz"
     }
   }
 }
