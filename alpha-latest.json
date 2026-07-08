@@ -1,11 +1,11 @@
 {
-  "version": "1.0.203",
-  "notes": "- Fixed editing so nested ordered lists keep their correct structure instead of flattening numbering",
-  "pub_date": "2026-07-08T13:50:23Z",
+  "version": "1.0.204",
+  "notes": "- Fixed a display issue in the editor where nested numbered list markers weren’t showing the correct depth labels while journaling.",
+  "pub_date": "2026-07-08T14:49:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhwNzd3UktRYUtMNDdwdnJMeDVTWmRWbG4yM3JSYTVNY3lmaUp6ZjRTWDJnNXBoa0laR29UaHVyRlJySTgyQ1NUVnJLNzcxOTU1c3BRdGVyb2FuTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTE4NzE5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUFRWMTFQN1BDY3pnVFI3cUw4dzU4UktLdzkvQ08wSEpzRHdHQUU0RjdFVW5YSmNNSGhUbHh6QUEyUWR4R3ZzcnRLK3BzQmpOMFA3L0NIbnMxRVJOQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.203/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmcvNlZXTzNBTEpyRnY1eGhzSnl3bmh0cmRDYWJieW9PZ2Q4dm9MWTB6NmVleW1XTXo0S0dZK0xDQXdIRXBWUXdGclRpTVdMYi9ZMG1ENE9icUhDNWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTIyMzIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKR0FnR2ZqSkNBcG5SVU5pUEZWNDBrUFd0ZGUxcnJPMVFLY2F0NjNvOHBQSFcyM0NrNy9HYUlvOUpqeGpHQmpkalJTdGNtR2ZCN1FnUmdmYjZhS0Z6QVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.204/Dayspring.app.tar.gz"
     }
   }
 }
