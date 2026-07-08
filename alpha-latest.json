@@ -1,11 +1,11 @@
 {
-  "version": "1.0.202",
-  "notes": "- ✨ Your journal opens even faster by using cached info so entries feel instantly ready.",
-  "pub_date": "2026-07-06T03:39:37Z",
+  "version": "1.0.203",
+  "notes": "- Fixed editing so nested ordered lists keep their correct structure instead of flattening numbering",
+  "pub_date": "2026-07-08T13:50:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNmTzlWMy9OUi91YUhXSC9rWWhTQXFPU1FseXh2VDVYSFo5Y3ltUjZPVVg2enRIU3dGZ1Bka0RaTUVaSGVsK0NZVXVBMGdEOHJVMElzb2dOODgrUmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzA5Mjc2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdDd2UWdkSXZPMHoxKy9YUnFvV0YxbTJURlVHU0M5S3daOGdnUnJ5Ykc4cnl0LzJNVFFPSVBmM0pBQkoyMHlYV1YxREp0MEN2QjhlYTYwL1duZ1FnQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.202/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhwNzd3UktRYUtMNDdwdnJMeDVTWmRWbG4yM3JSYTVNY3lmaUp6ZjRTWDJnNXBoa0laR29UaHVyRlJySTgyQ1NUVnJLNzcxOTU1c3BRdGVyb2FuTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTE4NzE5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUFRWMTFQN1BDY3pnVFI3cUw4dzU4UktLdzkvQ08wSEpzRHdHQUU0RjdFVW5YSmNNSGhUbHh6QUEyUWR4R3ZzcnRLK3BzQmpOMFA3L0NIbnMxRVJOQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.203/Dayspring.app.tar.gz"
     }
   }
 }
