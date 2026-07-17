@@ -1,11 +1,11 @@
 {
-  "version": "1.0.205",
-  "notes": "- The paywall now opens the Stripe checkout in your system browser on desktop so it feels smoother and more reliable.",
-  "pub_date": "2026-07-14T13:56:54Z",
+  "version": "1.0.206",
+  "notes": "- 🎨 Added 6 new color palettes and a light/dark theme picker so Dayspring can match your vibe.",
+  "pub_date": "2026-07-17T19:45:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5Ld1ppTkJjTGRwT1Q4eC9hMW5Id0tvZ2pPRjVYZjJXWE9Gb3NLY3NFTW54QjN6VFJkdFZ0YXVSZS9XL3BZTUJBeWlUeDltWkxVaERjaVpQSlZlVEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDM3NjE4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRWRBRWllQjVjczFXRWxPMm5xRk02QmJqT0U2Q1UwanJVQjc1QVY5SjZoaHJUcnFYdmxNVHhOYStscEhvYjgwbGdVdFlRZGlGd2RkYXN3eXhDZXVVQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.205/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdGZC96dFBGVzdaRXpJdWR5dkVET0RmcGRSd3UzSkdlNkxDdkphUGpDZi9pTmZ1dXJHbG1mWTA0Y0FnbjN6MS9QZE1EekVoa0t6djlwbTIzb3NUamcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzE3ODU0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKak9nWi9jVTB0L0VrL1FqTTFFM2wyQy9Oem1ZVTdSeUUyTzNTWDBFbE54TWxYRWdEK1IvYXFwTGdqTFMxekFIbGR1WitFV2FCV2NyQS9WV01JSHdqRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.206/Dayspring.app.tar.gz"
     }
   }
 }
