@@ -1,11 +1,11 @@
 {
-  "version": "1.0.208",
-  "notes": "- ✨ Meet the Well with Find & Ask: search your past entries instantly (even with meaning) and ask questions to pull up helpful context.",
-  "pub_date": "2026-07-26T01:01:01Z",
+  "version": "1.0.209",
+  "notes": "✨ Minor improvements to make journaling smoother and avoid wasted background work.",
+  "pub_date": "2026-07-26T03:54:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmk4aU45UTd2MWtSblhHUG5BUFVUU2w5bWtmOTIzRjYvd3ltMzJ0YXFMUSs3cjJSUXMvT3ZVY1lOOHFjT3lxK2VNQ2trQTE0UDdVV0licm5Yc3NjS2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDI3NzkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZTVyWkh4U1B0SkJsMUQ2YXdYOVA1bnc1UjgyaXJNM1NYQnh3SUUvYWh4UEpQekc4UTZIZ09QVGI0WHNHVDZxRTU2QlJ1elp2YkdkU0Q5N3BTV21kQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.208/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9lbVZzdG8vMUwvckFiWEtFaVJmeWVnWjc3cHpHcUNPMFBmNXQ2WWROd1dFbUM5alJ6N3Jia0cvMmJzdERPTldMbGI5NzM5d2FPODN3cjBISTQwd1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDM4MTUxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaGhVaTVOeUs5QkEzOXJnaS9FVmtMbkJ3NmU1dDJIS0wvYnBFcGdrNmhMSzVCTWpBTHlCc3IxNTZmN1J6MjVld0ZPcXRFTGFrSVlLallQeC91Y3YvQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.209/Dayspring.app.tar.gz"
     }
   }
 }
