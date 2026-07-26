@@ -1,11 +1,11 @@
 {
-  "version": "1.0.207",
-  "notes": "- Fixed a rare issue where accidentally dropping a file could send the app away from your WebView.",
-  "pub_date": "2026-07-19T14:30:11Z",
+  "version": "1.0.208",
+  "notes": "- ✨ Meet the Well with Find & Ask: search your past entries instantly (even with meaning) and ask questions to pull up helpful context.",
+  "pub_date": "2026-07-26T01:01:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnF4Y1RxUVdMMTFTTUpQNHI2OXRCRW1RSzFTaXZ3TkJHOURlNEtPZ0ViS0lTdjZ2UTRlSDE3RTVTNVh4WGxTOVVaQzRvUjhlSUZzaVNWb0F4QytaQUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDcxNTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUTZDbUVLVkNPZkdVWVgrVDhMUmdMSkJCWXFqbm9kblZDQXRQZk5tRm42OTFvbi9BZEt0K0x3dytySytHNkhwbjJlSWdrSGRFRU0wQ1FwTVh2YmxqQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.207/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmk4aU45UTd2MWtSblhHUG5BUFVUU2w5bWtmOTIzRjYvd3ltMzJ0YXFMUSs3cjJSUXMvT3ZVY1lOOHFjT3lxK2VNQ2trQTE0UDdVV0licm5Yc3NjS2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDI3NzkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZTVyWkh4U1B0SkJsMUQ2YXdYOVA1bnc1UjgyaXJNM1NYQnh3SUUvYWh4UEpQekc4UTZIZ09QVGI0WHNHVDZxRTU2QlJ1elp2YkdkU0Q5N3BTV21kQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.208/Dayspring.app.tar.gz"
     }
   }
 }
