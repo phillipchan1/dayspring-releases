@@ -1,11 +1,11 @@
 {
-  "version": "1.0.209",
-  "notes": "✨ Minor improvements to make journaling smoother and avoid wasted background work.",
-  "pub_date": "2026-07-26T03:54:09Z",
+  "version": "1.0.210",
+  "notes": "- Fixed journaling “thread” grouping so conversations are organized by subject instead of the devotional register.",
+  "pub_date": "2026-07-27T17:28:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9lbVZzdG8vMUwvckFiWEtFaVJmeWVnWjc3cHpHcUNPMFBmNXQ2WWROd1dFbUM5alJ6N3Jia0cvMmJzdERPTldMbGI5NzM5d2FPODN3cjBISTQwd1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDM4MTUxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaGhVaTVOeUs5QkEzOXJnaS9FVmtMbkJ3NmU1dDJIS0wvYnBFcGdrNmhMSzVCTWpBTHlCc3IxNTZmN1J6MjVld0ZPcXRFTGFrSVlLallQeC91Y3YvQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.209/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdSaFpJTlZkeUZFSkRka0I2QVFwNUhCcUN6ZW0yUjBkU3BBaXZBMEg5R0lFMSt6b1lPOEJsT3hLV0ZLZW5PRWdwc21Da2hoUnVhTzQzaXhldVoxWndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTczNDI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcHBzWHJ4SDZEUWkwQk9qamwwY0ltdTJ4Q2IrYk5XQmRrMmNIODNjQzF4ZXJhcnhLaUpGb3hadGhsZGNoaTZrY2RBbFdDM1lGWHhrUVN3MiszWjdOQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.210/Dayspring.app.tar.gz"
     }
   }
 }
