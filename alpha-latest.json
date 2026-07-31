@@ -1,11 +1,11 @@
 {
-  "version": "1.0.217",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-07-31T03:06:01Z",
+  "version": "1.0.218",
+  "notes": "- Fixed the App Store in-app purchase screenshot so it displays correctly.",
+  "pub_date": "2026-07-31T19:39:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnN1aGtXK3JUQlBIOEptS2R4WFJtMVhYdVkrQW1JUmRDbTY3VUFiQ0VvaXdUQi9Cek0yOE5HMUpwdm0xa2NVYjNUWklnNmNQWEgvcmVHWVpjSHVxV3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDY3MjY2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcmVYN1RKdFBaajc1eEI5K3pTZzdqTnZCR28wNE9KREw5aE9uM0Q2dU1EUlZhNFIrVENvejhKdkVBK2RXNHJJT2RZV290SzRlbTBZZE1ieU9XY1ZnQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.217/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmkzUmF4Q3pLQWpTWFYxbDVqcVR3SlIwZUhrTDVPVStTYzhuRk1Sd3VzUEdZSCtId0k1ZytpNVZuSnpPUVZUdGNoSzNnczZ3TnYxSkpDSERmWTdiMmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI2ODkwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWkNxV0RxdHpaN21kNk5ZTCtWK3hFVHh1U1kvbk5mWUF6cUNDL3Axcm0xakJWNFJVSzJPMSt1VTFicXdCaTNGdHozeUw3STl6RC82S2EwVEhkUDByQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.218/Dayspring.app.tar.gz"
     }
   }
 }
