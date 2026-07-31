@@ -1,11 +1,11 @@
 {
-  "version": "1.0.213",
-  "notes": "- Prices displayed in the iOS App Store listing are now pulled from the official store settings, so they stay accurate (instead of relying on a hardcoded USD value).",
-  "pub_date": "2026-07-30T17:20:35Z",
+  "version": "1.0.215",
+  "notes": "- ✨ Export works correctly on iOS again.",
+  "pub_date": "2026-07-31T02:57:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxjZ0JaNzFnd25jVE9LU2JFQXdML1JuMitXWWR5QkVQRlB5azFRaFZiZ2ZLY0dxNlB4OHNNemQ1ZzdWbmcyeklpejJ2dUg0NlpNS005dSthYmhzQ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDMyMTcwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSTQ0Rk1mdXkrYTFEckxqYUpKdHFpTzZzRzV6elJKQ0h4NTJ2dHIrNDMva1NyL3VEZUlwWWQxeDFKbWc5VGVZN2RwL012czYySW9PMlU3WHRHSzFSQ3c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.213/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm53VlVXZEZCMkhDaDIzbjZjY0FDcDFHandWb29JaFROUWFpc3g0ZjRsSmZJZG1kOEZtR2U0OUV4SUlWVzZtWk40WXI3Z2NIdWVub2t4K3FIYTUxL2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDY2NzE5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKelZuNHUzNVptMjluWUxlSnQ1TkVySnhIY1kzNXFMZmM3b0NvWFdjRjN3OEh4VVJjTzZNWHBvNXFxOG1VZkREZ2duMXczWmwwdFNjQWRFbHA1VnJRREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.215/Dayspring.app.tar.gz"
     }
   }
 }
