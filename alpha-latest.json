@@ -1,11 +1,11 @@
 {
-  "version": "1.0.219",
-  "notes": "- ✨ Prevented Google and Apple from creating duplicate accounts for the same person.  \n- Kept app package details from drifting between releases, so updates stay smooth and consistent.",
-  "pub_date": "2026-08-01T16:26:49Z",
+  "version": "1.0.220",
+  "notes": "- ✨ Keeps your entries safe: when two devices edit the same entry, Dayspring won’t erase your work\n- Smooths out sync so edits aren’t lost or overwritten, even during fast races between devices\n- Fixes tricky multi-device moments so syncing “just finishes” end to end\n- Stops photos from disappearing when your network is spotty\n- Makes offline writing more reliable by ensuring prayers and scripture references (and other entry details) survive syncing\n- Prevents one failed write from getting stuck and blocking the rest of your outbox\n- Uses the server as the deciding factor for update times, so everything stays consistent across devices\n- Adjusts onboarding on phones so archive import isn’t offered where it doesn’t work properly",
+  "pub_date": "2026-08-01T18:16:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtqOXRiaFJsNVZQeHQyUlNNTHBNb3hQT1RqU3gzZ1IzK2loTjRKTHlRRzk4Q3NjaWNPZFozckoxZE94YnF2QkVJcVlGY1pPc3hJZU9sYVVHVkFLRHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAxNzA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZW5GRWp2SWxrRUkwTytpbEpueDZJVmtha21sVk8yL0hvYTRUUVdHbTBvNFdQMzBhSGFDNUl2aVd6WlRvM2FOb0pQYTF6RGZPaTVDVXY2aTErcnplQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.219/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnU3SC9sSnFHbnY5aUZqN1lhQWxPekNPNmJHVUJjV0ZMNjZhRnpjT2RnZG93UkpWd04yblZTelJrblVPOThKN1dzd3lvVU52UEgyQ1k3SExzM2QxVndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjA4MjgzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZXNvYmtzb1ZPYng5TmZ5WDk3ZGUzMnhSQVRCUGdCamlEU1MrMVhKbkRaU1BvNkxSQUVvUXEvUHUrVWZzK3JZWG9xb1VmZUhqbUxFb1ZXNlkvRWQ1Qnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.220/Dayspring.app.tar.gz"
     }
   }
 }
