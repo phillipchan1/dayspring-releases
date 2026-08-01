@@ -1,11 +1,11 @@
 {
-  "version": "1.0.218",
-  "notes": "- Fixed the App Store in-app purchase screenshot so it displays correctly.",
-  "pub_date": "2026-07-31T19:39:24Z",
+  "version": "1.0.219",
+  "notes": "- ✨ Prevented Google and Apple from creating duplicate accounts for the same person.  \n- Kept app package details from drifting between releases, so updates stay smooth and consistent.",
+  "pub_date": "2026-08-01T16:26:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmkzUmF4Q3pLQWpTWFYxbDVqcVR3SlIwZUhrTDVPVStTYzhuRk1Sd3VzUEdZSCtId0k1ZytpNVZuSnpPUVZUdGNoSzNnczZ3TnYxSkpDSERmWTdiMmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI2ODkwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWkNxV0RxdHpaN21kNk5ZTCtWK3hFVHh1U1kvbk5mWUF6cUNDL3Axcm0xakJWNFJVSzJPMSt1VTFicXdCaTNGdHozeUw3STl6RC82S2EwVEhkUDByQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.218/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtqOXRiaFJsNVZQeHQyUlNNTHBNb3hQT1RqU3gzZ1IzK2loTjRKTHlRRzk4Q3NjaWNPZFozckoxZE94YnF2QkVJcVlGY1pPc3hJZU9sYVVHVkFLRHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAxNzA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZW5GRWp2SWxrRUkwTytpbEpueDZJVmtha21sVk8yL0hvYTRUUVdHbTBvNFdQMzBhSGFDNUl2aVd6WlRvM2FOb0pQYTF6RGZPaTVDVXY2aTErcnplQ1E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.219/Dayspring.app.tar.gz"
     }
   }
 }
