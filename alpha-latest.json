@@ -1,11 +1,11 @@
 {
-  "version": "1.0.221",
-  "notes": "- ✅ The app is now fully usable on a real iPhone\n- ✨ Improved how import notices in your writing are measured and fixed so the prose feels right\n- 📱 Updated Dayspring’s App Store iPhone listing with clearer, refreshed screenshots and text\n- 🎉 Added an iPad 13-inch listing set to help the app look great on larger iPads\n- 🖼️ Generated a new iOS App Store screenshot gallery",
-  "pub_date": "2026-08-01T21:34:30Z",
+  "version": "1.0.223",
+  "notes": "- Updated the App Store listing to point to usedayspring.app and highlight “journal” keywords.",
+  "pub_date": "2026-08-01T21:52:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVKbnJnTXlGcGU2WUJzWElpak9zbjBhUnFOSjhZeWhiU21NRXdsNXNxZldQa0lmS3J1N2ZYdVJyaE9SR29MZkFCam9rSm44RmlVbWNOTnVudkFNMndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjIwMTcwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTkZvSExYS0VXNnVoSmYyU010aENBU3p4TEJEQnFTSWxuTW8zbVVxMW5DS3lZU0g2N1lrZFF2YnFTN2ZCVlRTWE9mYldVM1d3ZmYvY1ZuenV4UDVyREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.221/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9uNUNQWXZkQkF0ZG1NcDMvNXNMYlVrNlIyZ3hUZ1Y5N1dMdXd1VStZb0ZoYjRrTnNzV3huaHZkWHY0S3hCZmpkS240TWdPVjVheWx4TUlJVzB3aVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjIxMzAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd3QzS1ROS0c1dFM0dDJzMmNJVFVHMjB6UzZjOGdCSmRVZkJFelNNbjlOUGVyWWNZcWs3djA0S3FiajlHZE96Ym9xT3daVUlpSVZNQTh2Zjd2bDFWQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.223/Dayspring.app.tar.gz"
     }
   }
 }
