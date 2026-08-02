@@ -1,11 +1,11 @@
 {
-  "version": "1.0.223",
-  "notes": "- Updated the App Store listing to point to usedayspring.app and highlight “journal” keywords.",
-  "pub_date": "2026-08-01T21:52:58Z",
+  "version": "1.0.224",
+  "notes": "- ✨ Added two new journaling rituals—Then vs. Now and Threshold—to help you reflect with more structure and meaning.",
+  "pub_date": "2026-08-02T15:19:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9uNUNQWXZkQkF0ZG1NcDMvNXNMYlVrNlIyZ3hUZ1Y5N1dMdXd1VStZb0ZoYjRrTnNzV3huaHZkWHY0S3hCZmpkS240TWdPVjVheWx4TUlJVzB3aVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjIxMzAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd3QzS1ROS0c1dFM0dDJzMmNJVFVHMjB6UzZjOGdCSmRVZkJFelNNbjlOUGVyWWNZcWs3djA0S3FiajlHZE96Ym9xT3daVUlpSVZNQTh2Zjd2bDFWQkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.223/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZUaVRoaUxMSjdySXNHdG5id3NOLzd1TzJQeC9RWlZESHM4Z2hZUk5YK1A1T0dzZ21pTDlOcWVqZE0xbndWNXhmS1FOUW4vV1pMRkxyQU5sUDFSVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Njg0MDQzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUU5kaVJTQWpaMDh2SC84bmNRSkd2eHZkV0lSVGtyalBpU0pHZkZ4WCtiTjNZMTZadloxWTE0YlBCaEhpN2F3VmlINE81aTA3clF6d0orQ1Vvc0FvQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.224/Dayspring.app.tar.gz"
     }
   }
 }
