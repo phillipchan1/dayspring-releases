@@ -1,11 +1,11 @@
 {
-  "version": "1.0.224",
-  "notes": "- ✨ Added two new journaling rituals—Then vs. Now and Threshold—to help you reflect with more structure and meaning.",
-  "pub_date": "2026-08-02T15:19:09Z",
+  "version": "1.0.227",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-08-03T02:59:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZUaVRoaUxMSjdySXNHdG5id3NOLzd1TzJQeC9RWlZESHM4Z2hZUk5YK1A1T0dzZ21pTDlOcWVqZE0xbndWNXhmS1FOUW4vV1pMRkxyQU5sUDFSVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Njg0MDQzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUU5kaVJTQWpaMDh2SC84bmNRSkd2eHZkV0lSVGtyalBpU0pHZkZ4WCtiTjNZMTZadloxWTE0YlBCaEhpN2F3VmlINE81aTA3clF6d0orQ1Vvc0FvQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.224/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnEySWJLNlA0aUcwZEdaN3R1Vks4UitQVmNZa2t5MytYbmRveXp6Z3dCVFFxWXVUT094VFJzU3NPdk80NlFsVDg0ZnFRSUxoL0dZVTdrcnIrMzdmRmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzI2MDgxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOWFCZnUxQVBWclpTeXRJdkFJOTBKTjhnRVdFaXNnZStJeDhHQ3ppR0xDR2w3dkdQdlJUQlBsdmF2bGwvaEdleGQ2Y2hxd2tsS0xZakdjelJsVUJtQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.227/Dayspring.app.tar.gz"
     }
   }
 }
