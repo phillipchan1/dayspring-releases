@@ -1,11 +1,11 @@
 {
-  "version": "1.0.228",
-  "notes": "- ✨ Added an emoji slash command with a searchable emoji picker to quickly find and insert the perfect reaction.",
-  "pub_date": "2026-08-05T01:06:59Z",
+  "version": "1.0.229",
+  "notes": "- The emoji picker feels smoother now: searching won’t steal focus, and keyboard arrow navigation works consistently.",
+  "pub_date": "2026-08-05T13:30:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBFM2x1dDNCQm5VZWc4bnpMbGZscFhqZUFhakZUMW1LSi83R0ZiSnZ4STZ6dm44SkFLR0JoTXlrS1hsUExLNXo2MG94RmtWcTJQQmNQb1FLbGhaeWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODkyMTI0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMXFkSDd5Ti9HUXVzZzBxZDBjK2FMUWxuUnNZYmk0Si9JWDNIemozWEhUZ29MMkI3TnpHV1AzZFBJK3RFZ1o2R285ejRDY1NNcGZzWXVpRTFzendCQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.228/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlGRFo4MmVjRGZ0NG0vT1ZiMHpMUnUwcXp2T1ZiWTNuSXVRZEw4RW9OWlZ0dDVQOTk2Ry91SXQ2cEs4a0EvcllrMkUwOGhDcGxld0o1REVBOUpUOGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTM2NzQyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKazJVTVZMRmpjUFdqZnJuWHI4cDcvNHNVZmF3U2lyNWxOMEJwRG1INCtmbU1tR0xSdDExUGN4cEVnbk5VaWpCQnJnOHVtNTBaMFU5RFNpclhrMWtQQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.229/Dayspring.app.tar.gz"
     }
   }
 }
