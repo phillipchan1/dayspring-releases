@@ -1,11 +1,11 @@
 {
-  "version": "1.0.229",
-  "notes": "- The emoji picker feels smoother now: searching won’t steal focus, and keyboard arrow navigation works consistently.",
-  "pub_date": "2026-08-05T13:30:43Z",
+  "version": "1.0.230",
+  "notes": "- Fixed the checklist “enter” behavior so continuing to type in a checklist item works correctly without getting swallowed by the list controls.",
+  "pub_date": "2026-08-05T13:50:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlGRFo4MmVjRGZ0NG0vT1ZiMHpMUnUwcXp2T1ZiWTNuSXVRZEw4RW9OWlZ0dDVQOTk2Ry91SXQ2cEs4a0EvcllrMkUwOGhDcGxld0o1REVBOUpUOGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTM2NzQyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKazJVTVZMRmpjUFdqZnJuWHI4cDcvNHNVZmF3U2lyNWxOMEJwRG1INCtmbU1tR0xSdDExUGN4cEVnbk5VaWpCQnJnOHVtNTBaMFU5RFNpclhrMWtQQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.229/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWml1MHZWYnJTdGNZNSszcFFCdVA2S3I2MS9sK0NzSkVKbkFoeHNyNEkySS91YkNlRnF6VFB0ZUZLNjVkNC95VU9UOGlpdnVlSEU3eTVwV0NCNEF1OXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTM3OTcxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKV2Y5cUtOVWJpckF0RGNoSDh6TmRoZ0pvcVFjVm5VTURVRVpmRjMxci9hZlU2RWJIWWhxUEpRcnhsZXhwV2Zudk5HMTJaN21OWGVINlZrc01ldi92REE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.230/Dayspring.app.tar.gz"
     }
   }
 }
