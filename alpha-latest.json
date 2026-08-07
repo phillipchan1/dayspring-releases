@@ -1,11 +1,11 @@
 {
-  "version": "1.0.230",
-  "notes": "- Fixed the checklist “enter” behavior so continuing to type in a checklist item works correctly without getting swallowed by the list controls.",
-  "pub_date": "2026-08-05T13:50:44Z",
+  "version": "1.0.231",
+  "notes": "- 🎉 Added Pages to let you browse your archive in a new read-friendly view (now available in alpha)\n- Added Pages as a dedicated read surface for your archived entries",
+  "pub_date": "2026-08-07T13:39:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWml1MHZWYnJTdGNZNSszcFFCdVA2S3I2MS9sK0NzSkVKbkFoeHNyNEkySS91YkNlRnF6VFB0ZUZLNjVkNC95VU9UOGlpdnVlSEU3eTVwV0NCNEF1OXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTM3OTcxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKV2Y5cUtOVWJpckF0RGNoSDh6TmRoZ0pvcVFjVm5VTURVRVpmRjMxci9hZlU2RWJIWWhxUEpRcnhsZXhwV2Zudk5HMTJaN21OWGVINlZrc01ldi92REE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.230/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1WcTF2ZTIwdWhhYU1ia0t3NVU3OE9tYUpHMll6VjkxMU9vSFpocXErUkt4R3BTNysyVng3aWRJeElwK2dWZTNISzZjTzcrWWdBRTRKd3BnY1pZT0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTEwMjUxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeE1LZDJSNkwwZGl5M2R6WjZDQ1hTRHJYbGhZbk54bk1YT3lLNFYrM1B3MnlMNklkMFNnZTUzTzJteXlLUlRVRzNzbi9uemlUekR0eTlRTm85V0pwREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.231/Dayspring.app.tar.gz"
     }
   }
 }
