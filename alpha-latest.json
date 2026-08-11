@@ -1,11 +1,11 @@
 {
-  "version": "1.0.238",
-  "notes": "- Bring back the Entries list in Pages mode, so you can switch between browsing your entries and reading them comfortably.",
-  "pub_date": "2026-08-11T13:30:51Z",
+  "version": "1.0.239",
+  "notes": "- Fixed the writing font dropdown in Settings so it no longer gets clipped near the bottom.",
+  "pub_date": "2026-08-11T14:15:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnF3WDB3WWU3SXZhNW5sWVVoazRDK1BlNUpxVDF5WC81MERvYmVYdmxyeVU0dzNQVFB2aW51YmtSdnMyS1E4a21weUhpczllOUhlNi9SSlB2QTlOSFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MTgwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZFVmWUl4d1ZHL3dmRVdsbkpjUjVmM0N2SUo2THZLazQ5WWVaQjR1UVVnd2RLcFRjOUlybXFtaWd0UlNvWUhncm0vbElsdWEzT2p5cDJ2SmJzVFlQRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.238/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhDeitSMUtZMW5TYzQ0RWs3bERXWGxyMTlJeDd4bVBmZHlXNk42NXk2dDMyVDUyajN0YWpUbFNiL1JsbVV1MFpxdCs0SVMyalRYcE1JZ09QeWV6NmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU3ODY5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMEpBOVlGTDZFWnprd0FkelExUGtDT1JBNEVoVC9vazBoSjRrVW1LandUblFTdEE1RFBxdHZMYk9JcHJHMjJRbXcyZkZ4aHFaMVNWZEFkTXFERTZEQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.239/Dayspring.app.tar.gz"
     }
   }
 }
