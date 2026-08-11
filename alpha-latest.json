@@ -1,11 +1,11 @@
 {
-  "version": "1.0.235",
-  "notes": "- ✨ Introduced a “way out” option so subscriptions end cleanly without trapping you in ongoing payments.",
-  "pub_date": "2026-08-11T05:38:47Z",
+  "version": "1.0.237",
+  "notes": "- Let your writer’s words be the loudest part of your ritual",
+  "pub_date": "2026-08-11T05:57:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRCcWNNUDNjZ1E4cCtKNlFpOXhzQ3VmSjBqdVAvd0hoZHIyYUxBcnB6aDQ1Z29ibW54K3ppWDY1ZXVQeTNYa1JBNDFRR1V1NlkyeEx5Mms0aWJiQ2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDI2ODIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKanFZVS9PVkhWTU1IdGdIdERCMG04Wk5YWkd2RHd3bFEzWTVoOHIrbFVVS21rc1IzYno2Wnp1Ukk2ZHV4TE5HZ0RpQmVMVGVHM2tTVlk2TjVRUEJTRHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.235/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJaNTZ0c1ZKSCtHQlVrMEV2WEtyaVFCTUZ0eWR1alJoZEkxbC9lNkRKQ3NhbnpNYndZTkhaUnZFakFMMGJRd1Z0UEx5WTRhMnVqQ2VSdXVVWmdoNWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDI3OTk0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKYXVKTmNiOHZERGxvZk1CN1dYRlh6bkJzL3g5OC9wUEtwMEJMdDFjenE0UVdUUnVQTExZaWRtY2dxSHZLVEM3ejVBMzF3TWlWNFcvWmkyTVQ4NFpuQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.237/Dayspring.app.tar.gz"
     }
   }
 }
