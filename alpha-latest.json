@@ -1,11 +1,11 @@
 {
-  "version": "1.0.232",
-  "notes": "- 🎉 Reworked the reading layout so it feels like one continuous “open book” (instead of separate Wall/Shelf/Open areas)\n- Your journal wall now lets you select, rename, export, and delete your entries right from the wall\n- Pages supports quick access with ⌘1, taking you straight to the entries\n- You can now see and interact with filter text directly in the view (with filters written like sentences you can pull off and reuse)\n- ✨ Highlights and underlines are easier to spot on page cards, with underline/highlight kept while markdown syntax stays hidden by default",
-  "pub_date": "2026-08-10T21:43:02Z",
+  "version": "1.0.233",
+  "notes": "- Fixed the journal overlays so they reliably stay anchored in place like before.",
+  "pub_date": "2026-08-11T05:32:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhCQUZqM1MzamVUUTYxa1o3VDlZS0JGMWdVNlVORmxSeXNDNnJCSXVleDBJRmZRQmJFOERwMDNmL2J4NWJFV2hza3BBSndWdWRIZDUzbHQxOHA3WUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk4MzM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd3pONnIvTmxzSTdjREhERXZRbVE5cGVVQjNwOXp3Q0hiaG9XeEQyRU9CYTI0VTZ5b2NSb284akJPcmdjUVJzN1NiTHN1VnhzeUdaN2c5MVA5SkpWQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.232/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnExNWhyR25wVzFTSXdiYjJyLzdIVzVkUzE1WXppOERCRGhrT1FBVGJacUZ2STUwMENSb0hwQmhnb0p2NDNwNml4Z05SZ0FyNXY2MmhvZUVSaXRSOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDI2NTM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKb0xVQWxGZ3lPNVVCYXdLc1JUVnIwai9ISjdmVzBEYXNtK1d5aEVLRGwwdzdIVXZ2SGRTeWM0a3JEN2hWMnBRMzNhcUhOLzNIa012MFdBN1RaeEZTRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.233/Dayspring.app.tar.gz"
     }
   }
 }
