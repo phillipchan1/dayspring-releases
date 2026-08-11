@@ -1,11 +1,11 @@
 {
-  "version": "1.0.239",
-  "notes": "- Fixed the writing font dropdown in Settings so it no longer gets clipped near the bottom.",
-  "pub_date": "2026-08-11T14:15:41Z",
+  "version": "1.0.240",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-08-11T16:20:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhDeitSMUtZMW5TYzQ0RWs3bERXWGxyMTlJeDd4bVBmZHlXNk42NXk2dDMyVDUyajN0YWpUbFNiL1JsbVV1MFpxdCs0SVMyalRYcE1JZ09QeWV6NmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU3ODY5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMEpBOVlGTDZFWnprd0FkelExUGtDT1JBNEVoVC9vazBoSjRrVW1LandUblFTdEE1RFBxdHZMYk9JcHJHMjJRbXcyZkZ4aHFaMVNWZEFkTXFERTZEQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.239/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBpd2RlQUIrNVNUbndnbExDZnpOR3FpcGVYQmFRZCt1RGRQQUVxTi94NHZFejE0VDBmYlJ5ZXlxdXFLV2c0ZVNQbHBXVlJ1L3JHK1E0MVVRMjZ3blFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDY1MzEzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbVFxYlFQdC95NDdsM1pJYzRFZmhUeDFRU1c0ejdNMGdKTk42MXBXM3RmQnVBQlNlRWZxNzZnZUpRcXY2bWNHM1BLYXhINXVscDJEeXFaODlPUjVQQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.240/Dayspring.app.tar.gz"
     }
   }
 }
