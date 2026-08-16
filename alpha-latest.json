@@ -1,11 +1,11 @@
 {
-  "version": "1.0.242",
-  "notes": "- Fixed the sign-in screen so it no longer shows misleading “Signed in” text.\n- Improved the sign-in page’s font preview so it’s easier to choose a look you like.\n- Lowered the minimum sign-in page font size for better readability.",
-  "pub_date": "2026-08-16T18:21:10Z",
+  "version": "1.0.243",
+  "notes": "- Fixed mobile so tapping an entry no longer bounces back to Ascent",
+  "pub_date": "2026-08-16T21:21:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm83cUNId3ltZE9UbFIxbStwdlg1dEkyM2ZHYlQyQ2hSTllmRmtJNTZMakpTRjV3Z05iMXlQNkVocFNGN1NQZmFQbVJ2ajVlREIwKzhTTkVMT21RRFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTA0NTczCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdWh4cmlSdjZoUVZnS3E5bEdvZ014NC84ZG1INUo3bzNEc0NDZ2lyOS9BWkczT2ZxSTZnUEpMVlU2RFh0U09lazJFM25oVVZ6VU9od2xSSW5FcVlzQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.242/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJ1Q0c1L1BoZnNPZ1FSdStNdHRLWTdkaGVteDQzT2tZZjQzWkQyYWFoVWdTMVlZT3BZSVNyQVlWVnpadTF5eDFJTXBWdXV5a2RHR3A4YW8yUkRYOEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTE1Mzg1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaFkydC9lckp4OFpnQUgvcW1mRXBzdTZEWWFIV1BNV0VpRmNMTm1wY0dEZFNPR1FPRngyaGRvRUM5Sk94OW9vb3BOeUQza3JVVloxdis5eXMxMHJQQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.243/Dayspring.app.tar.gz"
     }
   }
 }
