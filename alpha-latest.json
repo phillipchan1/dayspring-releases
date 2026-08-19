@@ -1,11 +1,11 @@
 {
-  "version": "1.0.246",
-  "notes": "- 🔒 Lock your journal with a single PIN that works across every device.  \n- ✨ Fix a bad Apple key faster so you’re back up and journaling in about a minute.",
-  "pub_date": "2026-08-17T16:37:55Z",
+  "version": "1.0.248",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-08-19T01:13:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJKY0dnL2NZcVFhamVxbVFoT09LTFNkUEtMYWJQOUN1UldVSHBCVkdQd2tkUEcwRHJwY3p0MzZzTlUrU3J0R2d2T1lPVS92dDJNb0hKQ2hzQW1wMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTg0ODIwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKYzQ0dytnK1g3NS91Tmp0Wnh3Z1RITGRUTkRLTStTNWlYN3pianU4Ky9IZTUxcVpzQ3Zjb3lDUms4dk9YcDQwL0x1VjVIZGJ6UWFuZlIwUzFLeTJMQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.246/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBDUkJaSXoxcGpCQ3NZaWliMzVqNjhkYXp2UnVVKzRkcFlRTm9TQ29BWnNtcnZ4elpFRjdVRCtHb0ZEYXlkVzVWQXZVbVhCMnd6RzFCV2V0YkVWVkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTAyMTQwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSnhFSUVnRkVVMUJVL01hS2RpWGkwZHBLWEo1cXB3TmI1a28wNEtuRjIyaURDRFJ0d2NiNWVmOEFMZEVMZGpkWFQyS1RZVHFMR2Q3VVlFa0RqM0FSREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.248/Dayspring.app.tar.gz"
     }
   }
 }
