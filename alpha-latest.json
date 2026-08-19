@@ -1,11 +1,11 @@
 {
-  "version": "1.0.249",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-08-19T13:35:14Z",
+  "version": "1.0.250",
+  "notes": "- ✨ Ensured feature broadcasts use an up-to-date list of email addresses from your connected sync account.",
+  "pub_date": "2026-08-19T18:17:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxWZ016QVhEb3lXTnVJbVZPUTFNL0VZQTNYTG1lWnkvajE0aVhVNFN6cnppejMyUHppZm5rTjQvVE9jMDJBK0c1ZDV5ZGRNODhrengybWhjcjZvNWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTQ2Njg1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQzZubUg1WmlJWXpFaFlmaDdrV0QrRlBOaFp0WFg5UHJuWDBDVGhEenBoMStyTjA2ay9aMTA3bVA2OFZwTDM1TkpVc1BKOHZVblpFWjRSN2hmWHQwQmc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.249/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRhMkFoNTM3SHJ4cGtXOHduU3lRc0Q4TWdJVm9pUDVlSmVFaTJOT3cvaFJDd1ZZdmxXeXppYmZSQjR2cUt6dm1KMGs0cW16TEx2V2tOazJmd2wzMFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTYzNTcyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdG9FUXpwTG83VjBrWVhDK3B1UTMyQ21mcEZGM2FLdkkxaTJDdUY0SlE0Si9CYmNrSkVjNHF1MVNJK2lLTllVRVJ0ME5icHEydXZDSi9ybFl1YlIyQlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.250/Dayspring.app.tar.gz"
     }
   }
 }
