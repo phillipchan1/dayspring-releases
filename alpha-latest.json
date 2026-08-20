@@ -1,11 +1,11 @@
 {
-  "version": "1.0.251",
-  "notes": "✨ Your in-app help experience is now brought together with the app in one place, with updates to the marketing and help pages handled within this project.",
-  "pub_date": "2026-08-20T03:21:45Z",
+  "version": "1.0.252",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-08-20T13:31:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1pejBRWXpVUmJnamNUZWFjSFZHbnlQcFRZQVNYU1hWb0JSU05WQ1Fzck1PMW9IMWhicURSZ3cxdGQ4OTlrL2c0VndaVEZTTmtpc0VVeXdxc3VFK3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTk2MjEzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKelBobUZ1V3cvUERZSnRRSGpxU2lCeHBrRjlQQ1VxcUw1SEJsaXZRZC9GMzdZY1hNM0lONFdNckZQbnBxa3BBcXRTSm83MTVtM01TOWsrM1piS0Z5QUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.251/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhSMG1yY1A3VVBML2lvTy9qZVJxOWx0M2lCRlJ1THQxQXA1bk9JY253Zmp6anhyVDU5TVNMMnpqdVYzZDc2TDdkbmw2a1kzZWVVZjgvbmxxVjl4b1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjMyODA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZWZzVWxPMUFEeXBaUTVlRng2RGtXREJXRkNlL0xiQlIzNGZuQmJMMExEYi9MdEdlNzRvMkRKV295YkNORzdtbVRLRnRxMmJOWU04dWZXVGQweDlJQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.252/Dayspring.app.tar.gz"
     }
   }
 }
