@@ -1,11 +1,11 @@
 {
-  "version": "1.0.257",
-  "notes": "✨ Improved entry text handling on iOS so writing and searching behave more reliably without odd formatting or missing ranges.",
-  "pub_date": "2026-08-23T18:55:14Z",
+  "version": "1.0.258",
+  "notes": "- iOS now uses a cleaner format bar for choosing how your text looks while you write.",
+  "pub_date": "2026-08-23T21:32:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnY1eExJV1daWndrRlQwMllvNFVGeDdoWXR2UWlwUno2M0hIdmlLcHp3ZjRVSEx6OWpwdHFLM3dxOEM4ODczRThqZG1rRGtabm5zV1IrQXZaMHhCY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTExNDUxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRkNqMWFUaXpYUEx1RXNTSFdwL0lyTmRpZStaSlQzUUJBK0c3YzNLeGtDWWE4cjBGK3VwYnhDNzZ6QllZck5oZ1FMUVMwUTNNRlBYTi9xNEZTZUFnQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.257/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFpVWxuRkV4MTBLMGhLa2djTTBUK0Y1aXhVeWRlTHFvVW5meEZvYUdWK1kzcG5KN2xkYVJtaStLditkdEN6SXRaTmRSb2hVdVBwZjc0eE1Ca0t1VWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTIwODMxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNWZtMDhFMUtHVjB0dGdUZTBCRFlDWUlJQ1V6SVhzWkZvZnkvUjNMN3g5bVFsUndJR0Y0OEhzL2NkMm1aSzlaMVNGLzNPYVN3OFNhem9sRFZMMzhzQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.258/Dayspring.app.tar.gz"
     }
   }
 }
