@@ -1,11 +1,11 @@
 {
-  "version": "1.0.254",
-  "notes": "- When creating a numbered list, Dayspring now respects the start number you type so it won’t jump back to 1.",
-  "pub_date": "2026-08-23T18:26:51Z",
+  "version": "1.0.255",
+  "notes": "- ✨ Added a cleaner format bar for iOS so it’s easier to style your text while writing entries.",
+  "pub_date": "2026-08-23T18:38:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnAvcGlzeXNveG5RclVZV3JTeG9XWlRqSVpwMmpWYS93MkNxaHhpNXY3Z0wvSEI4eXZzYndlNWxHUHFBU1hFQmFKRTJFZWI0U3FQanpuQm9rQkVrTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTA5NzE2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcHdNU0dCNW5ES295TWZPTjdwRmljNjlOZkRmaWMwdWF1bkRkRmMxcnFDTWM2V0ZreDhKVDZIVnE1aHhLMHVDVldRVWhreW5xV3JpdTUwelUzcmFKQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.254/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1ReUxDdUp1WXhnK2hkbjdHT1kvMzR5VTZPYllSekhpSHVRQllRT29DY2F4UWFIb2ZWUzB6Z2ZQUENBT0t3UzVuMktsSU9SOVlUbFhiNHp6cjc5N0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTEwNDEwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ2JqWkZmUVh1S245bEcyM20waE9tTFhiZ3pyZG5pbnZRK2p3MjhXN213cXg3czJpNnJzMDM2M1B3Slo2bkVVQ0IxT1J2TmExYzhXNzBqZS9RTzcrQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.255/Dayspring.app.tar.gz"
     }
   }
 }
