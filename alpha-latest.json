@@ -1,11 +1,11 @@
 {
-  "version": "1.0.258",
-  "notes": "- iOS now uses a cleaner format bar for choosing how your text looks while you write.",
-  "pub_date": "2026-08-23T21:32:10Z",
+  "version": "1.0.259",
+  "notes": "- 🎉 Added the Dayspring Meta creative collateral kit to help you spark new reflections and journal ideas.",
+  "pub_date": "2026-08-26T00:48:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFpVWxuRkV4MTBLMGhLa2djTTBUK0Y1aXhVeWRlTHFvVW5meEZvYUdWK1kzcG5KN2xkYVJtaStLditkdEN6SXRaTmRSb2hVdVBwZjc0eE1Ca0t1VWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTIwODMxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNWZtMDhFMUtHVjB0dGdUZTBCRFlDWUlJQ1V6SVhzWkZvZnkvUjNMN3g5bVFsUndJR0Y0OEhzL2NkMm1aSzlaMVNGLzNPYVN3OFNhem9sRFZMMzhzQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.258/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdZdjNBUGRUUHFiNEtyYktILzBjQW9wTFgvTU9ia1h4TG9mTUEwbVV1M0cyL0ZjZXU1d083NzhCSmhnOElUWEZhTEtkR0p0c21DazRLN3VrK2J2R2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzA1NDU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd0gxZm9xMjE4a3hzaEJWblZielE0WmpTeFluKzBYcDNUekV2ZDROaEpHRFkvYlhsM3JnNDVlOWM4cXJSTm42R2ZKTWdvSjYzQ2ZZL0RWZEVkNVdVQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.259/Dayspring.app.tar.gz"
     }
   }
 }
