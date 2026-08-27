@@ -1,11 +1,11 @@
 {
-  "version": "1.0.261",
-  "notes": "- 🎉 Redesigned Pages so it flows like a “return” surface and removed the old entries panel.  \n- Journals now continue across leaves instead of scrolling within a long page.  \n- Improved how Pages is laid out, including the subject masthead and a cleaner band-style header.  \n- Search now looks for markings the journal noticed too, not just what you typed.  \n- Subjects now properly count and display the pages they light up, preventing names from being stolen.",
-  "pub_date": "2026-08-27T16:03:19Z",
+  "version": "1.0.262",
+  "notes": "- 🧩 Cards now feel more like portraits—closing them returns you right back where you were.\n- Faster page opening when you click into a view, so everything feels snappier.\n- ✨ A refreshed header layout with clearer controls and a bit more breathing room.\n- The zoom controls are in the more natural spot, and cards now lift as you zoom.\n- Smoother interactions in your archive without it getting rebuilt every time.",
+  "pub_date": "2026-08-27T18:17:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxVRVBMRjJRQkZsakpqaXdJTHZyUlltUFRwaEgvajBKaS9iUGlrcnRpUmZkbjhxaFUzNFpNeXFqeGpWMFB4a2NGUFBkZjZPZGM5SGdaUzlncmJnT2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODQ2NzI3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ1VOWFQrTjFBbmlRQjZqVEtYK2Q1eEtiTVRTM2NKTDZVUzlwcFRadlR4c0w3TllKelFOWmE4L1FhY1FJaUVsTGdrRW5VOU5peThFQU12aURHY2cxQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.261/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZuSEE1WmRnVkhTRHVNVkozL0JlWHBnRXpNai9NUUhQRmw3ay9reFRVdHVaRU9YdVZ4Z0ZlUUVRdmlQZitleVE3d3VrY1lONDducmUrUkFMVkpNU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODU0NzY0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUDhtUGxwSUtEUTNyNzZmV01SMlFDNCtHV2wyQkhmUWNndTJRbEszZHVVVDVqb2dKYVFmWDN0aHUrelhrcTM1TXlzLzVWRlArNmloMTFuMjJHSW5RRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.262/Dayspring.app.tar.gz"
     }
   }
 }
