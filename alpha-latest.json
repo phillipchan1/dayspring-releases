@@ -1,11 +1,11 @@
 {
-  "version": "1.0.260",
-  "notes": "- Kept the writing-canvas dawn glow visible even in focus mode, so journaling still feels cozy and easy to settle into.",
-  "pub_date": "2026-08-26T13:35:29Z",
+  "version": "1.0.261",
+  "notes": "- 🎉 Redesigned Pages so it flows like a “return” surface and removed the old entries panel.  \n- Journals now continue across leaves instead of scrolling within a long page.  \n- Improved how Pages is laid out, including the subject masthead and a cleaner band-style header.  \n- Search now looks for markings the journal noticed too, not just what you typed.  \n- Subjects now properly count and display the pages they light up, preventing names from being stolen.",
+  "pub_date": "2026-08-27T16:03:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBuS0FtOWFNUHUyOTZLQUdUak1Vb2tKaUF3aE1rZ3puYTRXeGhJNERrUGxvd3VKcXBqeStMdzBQMFUwcjFnSzhBUUtrdUZETXBkK1RtNzhVelRydFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzUxNDQ2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTDlQc3JuNEJqVWd1WU1pSUpLRkVVVkZwdC9OUW01RUZhTm9XTDB1ZFFUYmVaRUdxQnNPcU1aTVZyTW9GdHkxMmxzWUg4eXBEN2preDZlcHliL2k1Qnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.260/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxVRVBMRjJRQkZsakpqaXdJTHZyUlltUFRwaEgvajBKaS9iUGlrcnRpUmZkbjhxaFUzNFpNeXFqeGpWMFB4a2NGUFBkZjZPZGM5SGdaUzlncmJnT2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODQ2NzI3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ1VOWFQrTjFBbmlRQjZqVEtYK2Q1eEtiTVRTM2NKTDZVUzlwcFRadlR4c0w3TllKelFOWmE4L1FhY1FJaUVsTGdrRW5VOU5peThFQU12aURHY2cxQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.261/Dayspring.app.tar.gz"
     }
   }
 }
