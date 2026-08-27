@@ -1,11 +1,11 @@
 {
-  "version": "1.0.263",
-  "notes": "- Opening a journal page now takes you straight to it, with a clear way to get back out when you’re done.",
-  "pub_date": "2026-08-27T20:22:36Z",
+  "version": "1.0.264",
+  "notes": "- Updated the app’s journal pages labeling so the journal spine now clearly says “Journal.”",
+  "pub_date": "2026-08-27T20:46:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxUSndTUTlFOTJvR2tuK2Y0YXYyMW9kZ01BYjg0akhhNTdTQllROWhzQVp2em15MzNQNlVPR0ttb3VkUUtrRVZ2eDducVgxTnROWHFPVS9rcU1uUUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODYyMjg5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSnlDeFEvVzNuOVZsZzNsNksrVXMzOVRTU3VqVC9tNVNCNTNQV2paZHZ3OVdWbDhPQ09vZmh4QWtPRVFuNXhRaTMrbzk2YllIY0hpaGpFTDVMSkIxREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.263/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm12RlNxM21YRkpiMm9NamtnNWEvTW1BbUdvSG52UlJSVjNraUowY2xscWRtS2xMSkdxTVNndGF0KzVTYkZWRER3c1hCRkY3Y1NodXY4eHgyd2F3UWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODYzNzMxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ2UvaENLRGpEUDRSQUJ6Yk81T2FqZ0xySTFsVTR6VGI0aGFjYVE5M2hrbXdlUXljZUdva3JjbGtiOFFiekV6K3Y3NHhyeWFIK1pBUHdFaUQzNGdoQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.264/Dayspring.app.tar.gz"
     }
   }
 }
