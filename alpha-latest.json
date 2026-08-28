@@ -1,11 +1,11 @@
 {
-  "version": "1.0.271",
-  "notes": "- A new way to view your entries with a smoother “reach the bottom” reading experience, plus a display that feels more like a gentle stretch.",
-  "pub_date": "2026-08-28T17:50:56Z",
+  "version": "1.0.272",
+  "notes": "- ✨ A journal page that isn’t available anymore will now close itself automatically, instead of lingering.\n- When a saved “mark” can’t be loaded, Dayspring will clearly show that it didn’t load.",
+  "pub_date": "2026-08-28T17:59:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmp4VlBJQytLc0xlRjA1aklGeHNaaS9LakJOSUt2UHBXd2ZVSTFXOXIyY2ZZKzMzZzRGVFlPL2ozU2kvM2Fka3ZMTThrVjB1cGxXYXFTbUM4WTh4SkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5NTc3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKU3oxUGJETGZlRHhsOTlPOERkK1NzTWk1RHc3RWpPNUFXOGlNKzE2RzZTRzRQcDdsU2hiMndQZkw2RUNweUFaOEVXVWRadHRUNCtYYWsyZ0ppakdoRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.271/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNjM2c1elExeEFJYXpFMmZkeU9SSDI5emt2M2tGbE0zeHVJZHpQaENnUFpJVDdTV3F0dnhySGRGRndYT1ViZlJ4Q3lNUVY0Y01nVFljbU9qUzdXVWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwMTExCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbTVUd0ZyZmplczI4S0phc1cwSnZUWDR6WnJ5R0NwV0EvL2NIYnVtZjBZVGxyT0luYVhxbTFRQXVXenlXOVJpUm0vYkU4NlAxMDNGdzdFeWpBb0lEQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.272/Dayspring.app.tar.gz"
     }
   }
 }
