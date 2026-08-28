@@ -1,11 +1,11 @@
 {
-  "version": "1.0.266",
-  "notes": "- ✨ A smoother one-page entry viewer, with your filter staying in place as you view",
-  "pub_date": "2026-08-28T01:32:04Z",
+  "version": "1.0.267",
+  "notes": "- ✨ Make the app react to gestures based on what your finger is doing, not how the screen last looked.\n- Improve the way the entry viewer responds, including a smooth way to swipe it away.\n- Make the filter sheet feel more natural to dismiss, so you can flick it away instead of it sticking around.\n- Give phone-specific layouts their own attention so details look crisp and don’t lose specificity.",
+  "pub_date": "2026-08-28T04:18:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtJTGR3RlI5c3dXamtyeFNXdGZXT2ZWTjlsYldLUVVYMmJ1TjNWWktabmdCMkp5SlNyaFFnbzg0YmNma3BqMnVRTXo1WEFTSHlQMnI4REJ2b1dTa2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODgwODI4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKanVuem92ODdLL2dhUytNT1J0bUJ1NE45TUdGQ3pFTFpscm1wZENxTXUyT3E3aGN6MlVwWU5VRFphVmlMeGFUWjZrYTlLbkpmQjIrWnFvYVczd1JJQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.266/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhvNVorR09pNDQ4SmpRZThESFpFczh6L01yUmZOdXl5azMvMUh6RkN1NXArd3RyS1dvb0VXczRoWmN3SFRPcUdaL3JpQ3NUMXpiZnFkZ0lXRXdrYVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODkwNzk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKN2lkYnBqN250T2xpdTRVYjc0UHpoRHZxTDdCZWd0b1hpU0JnMEZkaVpRdGIwN01GVis3UGNoUGV0RlRTbk9NRGhiUWNFZVp1V0dQZkoxVkdGZUFTQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.267/Dayspring.app.tar.gz"
     }
   }
 }
