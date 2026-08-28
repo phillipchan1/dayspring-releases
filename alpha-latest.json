@@ -1,11 +1,11 @@
 {
-  "version": "1.0.270",
-  "notes": "- The note margins are now gone, and the “+” button sits on the left side for easier tapping while you write.",
-  "pub_date": "2026-08-28T17:10:06Z",
+  "version": "1.0.271",
+  "notes": "- A new way to view your entries with a smoother “reach the bottom” reading experience, plus a display that feels more like a gentle stretch.",
+  "pub_date": "2026-08-28T17:50:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpXUjhQM3I5T2hPSkY2TzR0bHVBcGlZSklrcTJ2cXZFUndZNk1KVUpYSHB1bkN5K2xPUk0zYStuMnU5T3dhODhBK3YzbjhMU3BiVTVlV0FaS2ZENFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM3MTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKT25BZVZyRnhwZXpLamNoYjIrTlpJZXN4eHBnc05RNk1ZVHlvaVZQVkNwNC93L1V6QzlzMFJURjlBTUZJOVloR0VBQ1Y1a3pFWDlDRG95ZHBDTzRyRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.270/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmp4VlBJQytLc0xlRjA1aklGeHNaaS9LakJOSUt2UHBXd2ZVSTFXOXIyY2ZZKzMzZzRGVFlPL2ozU2kvM2Fka3ZMTThrVjB1cGxXYXFTbUM4WTh4SkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5NTc3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKU3oxUGJETGZlRHhsOTlPOERkK1NzTWk1RHc3RWpPNUFXOGlNKzE2RzZTRzRQcDdsU2hiMndQZkw2RUNweUFaOEVXVWRadHRUNCtYYWsyZ0ppakdoRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.271/Dayspring.app.tar.gz"
     }
   }
 }
