@@ -1,11 +1,11 @@
 {
-  "version": "1.0.269",
-  "notes": "- The cursor now stays where you expect when you open a new blank line for writing.",
-  "pub_date": "2026-08-28T15:29:17Z",
+  "version": "1.0.270",
+  "notes": "- The note margins are now gone, and the “+” button sits on the left side for easier tapping while you write.",
+  "pub_date": "2026-08-28T17:10:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm4vRkJOU3gvU1FxS0wrNnNsQVBwVjhGMXRkMWFGUHhYUXhsUzdETncwUXZ6MzNkVWhPUG1kY1ZiYUs5K0o1aGwvSkxJV0kvYjhGOVA5Wkl4aWs0eVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTMxMTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZU03NmRDUkdZeHROeGJKYThLblo0MGhUL3lValYybXFoZUtub3VHczVYV25XSXBjdzJ6YnlMWjhMdytJckZMSmQ0cVJnaW8rdUM3cmZwUWEvdlM0REE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.269/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpXUjhQM3I5T2hPSkY2TzR0bHVBcGlZSklrcTJ2cXZFUndZNk1KVUpYSHB1bkN5K2xPUk0zYStuMnU5T3dhODhBK3YzbjhMU3BiVTVlV0FaS2ZENFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM3MTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKT25BZVZyRnhwZXpLamNoYjIrTlpJZXN4eHBnc05RNk1ZVHlvaVZQVkNwNC93L1V6QzlzMFJURjlBTUZJOVloR0VBQ1Y1a3pFWDlDRG95ZHBDTzRyRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.270/Dayspring.app.tar.gz"
     }
   }
 }
