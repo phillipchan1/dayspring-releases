@@ -1,11 +1,11 @@
 {
-  "version": "1.0.268",
-  "notes": "- Restored the phone’s “read surface” so entries look the way they’re meant to while reading.",
-  "pub_date": "2026-08-28T05:39:02Z",
+  "version": "1.0.269",
+  "notes": "- The cursor now stays where you expect when you open a new blank line for writing.",
+  "pub_date": "2026-08-28T15:29:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnYvMWgxUkxSRGF1eEdueXEvVUdnakNXdHZqQ05BZFZJYU9BVkl2ekwvNDUybkd0TStVWnhwOXg1QXpMQStuQUNWUHdHai9Zc0pRY2kyUjlTUjBodmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODk1NjQ5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOUFzOTUxejFRV1ZSTmNvTXQ3aCsvcC8rbERndXJCUkN4dUxpay94VWx5Tm4reG9QcGM5RldJV0xjNzFpNmJIVUZMZHFmY3A2R2Y2MGYzaUZuUm1PQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.268/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm4vRkJOU3gvU1FxS0wrNnNsQVBwVjhGMXRkMWFGUHhYUXhsUzdETncwUXZ6MzNkVWhPUG1kY1ZiYUs5K0o1aGwvSkxJV0kvYjhGOVA5Wkl4aWs0eVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTMxMTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZU03NmRDUkdZeHROeGJKYThLblo0MGhUL3lValYybXFoZUtub3VHczVYV25XSXBjdzJ6YnlMWjhMdytJckZMSmQ0cVJnaW8rdUM3cmZwUWEvdlM0REE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.269/Dayspring.app.tar.gz"
     }
   }
 }
