@@ -1,11 +1,11 @@
 {
-  "version": "1.0.265",
-  "notes": "-✨ Reading a page now shows exactly the content of that page, making it feel simpler and more focused.",
-  "pub_date": "2026-08-27T21:03:43Z",
+  "version": "1.0.266",
+  "notes": "- ✨ A smoother one-page entry viewer, with your filter staying in place as you view",
+  "pub_date": "2026-08-28T01:32:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm0rOEVTak15RVJlWWV4QWx3Y3JCZndGNFlDSlF3WUg4RXBNcDJ0Rmp6Um81VXRtd0w2VmhXRlFtQ2pkalJDN3c4TFozYjNUN2RvMm50dEtnMnliMndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY0NzI3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVGdzNUp6Z0U3aExwbTZOM05aK3pQRmVUUnJieGltMng1YzlEaVp6QXR3ZE03ekpyTkpqOHZpTmZMNnNiek9jZHJ6MnB3UEdHSkFrMWxHbEZBR1kyQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.265/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtJTGR3RlI5c3dXamtyeFNXdGZXT2ZWTjlsYldLUVVYMmJ1TjNWWktabmdCMkp5SlNyaFFnbzg0YmNma3BqMnVRTXo1WEFTSHlQMnI4REJ2b1dTa2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODgwODI4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKanVuem92ODdLL2dhUytNT1J0bUJ1NE45TUdGQ3pFTFpscm1wZENxTXUyT3E3aGN6MlVwWU5VRFphVmlMeGFUWjZrYTlLbkpmQjIrWnFvYVczd1JJQ1E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.266/Dayspring.app.tar.gz"
     }
   }
 }
