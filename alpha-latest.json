@@ -1,11 +1,11 @@
 {
-  "version": "1.0.273",
-  "notes": "- An entry can now be left using the same “back/close” behavior as other iPhone screens.",
-  "pub_date": "2026-08-28T18:16:36Z",
+  "version": "1.0.274",
+  "notes": "- Fix improved text highlighting in journal writing, including smoother handling of “Prec” and better stylesheet display\n- Strengthen native autocorrect while typing on the writing surface",
+  "pub_date": "2026-08-29T16:08:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtDbmVzYlJaZThXVlJxZ2U3T3ZBNGJpcXhxSHM5WmZHazV1ZHZLbnFqVXJoN2pvWGZBdFljdmxhWkIramRFWmtuRUtPeDhNZDhveWV1QU9NTGp4MWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQxMTA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKa0Q3ZzRNWkVjVklyRGNnN0VxWVdFUUFrNVEwNTFLNFJjMXRXSm84bHNPeDhIMnRtVnF2ZHJrd3luWnZMV0hScXVhWG5pZzdNYlllaFpEYWNlT0s3Qnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.273/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnEzSFA4aFdvbEY1Si8zaEtxQkcxNzlGVTlLZ1pLQ0k2KzR6SUZieDJhWWo4VUNzaW9KdXh6YTQxcXk3Y0JqZjVaKzZyNHJvOGR2OEhQZmd6aGdtOVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDE5ODczCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdkdOSzU4N2FNZ3QzUTdtWW9nbnhmZHNWZ004d1hjSGt4OXdIaHBiSzZGRDYvZkhreUZoSnhZZ1RzcUV5RHUxQWsrdHhzZGNYbmZyZWRWYlUybXBzQlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.274/Dayspring.app.tar.gz"
     }
   }
 }
