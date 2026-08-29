@@ -1,11 +1,11 @@
 {
-  "version": "1.0.276",
-  "notes": "- Updated the Vellum divider gem to be a clearer lozenge for easier, prettier section separation.\n- Improved how section breaks render in themes, so the “---” divider shows up as a theme-painted break.",
-  "pub_date": "2026-08-29T19:02:04Z",
+  "version": "1.0.277",
+  "notes": "- ✨ Moved the Ritual access to the top bar on mobile’s blank page for quicker, easier journaling.\n- Kept the capture sheet open when iOS registers a ghost click, so you don’t lose your flow.\n- Prevented accidental touch selections from a scroll on slash rows, keeping the right sheet from opening by mistake.\n- Fixed mobile slash sheet dismissing after the first scroll tap, so it stays put while you browse.",
+  "pub_date": "2026-08-29T20:08:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnN2ZlNId29tK1pFNHhEdWRTOHlQVnhPU2Z0TkFoUU5kOVlJZ3NTRUNtRFQ2bU4xQy9VQlJ5aEdUeVF4b1d2SS9rdGlrU2R6dnhsUFpUUkZsYk03ZEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMwMjIxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQjFwbjd0T1lCVlpNM0Q1OGcweFJMaTU4YnU5d3RzRWMxK3liSHh1blFLckhJWDVFQVdJei9mQVNEOTN3Q3h5SEpzdlVRMG1qdHc3WDVzNjhQbGNlQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.276/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm8zeFIyRmEyWUNqZFQ3QU9pTVJpZ0NXZGJLZUx6YjhlUEV4SUZjYWFFZ1dONVBFYjhQcGd3Z2R3VmQrM2t5cUQ5SjFyNjJxbnIwN1lZUGxzWmorVEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDM0MjMyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVTBrRFBWR0dzaXZ2Lzk2UERZYzMrSmd3Mk1IYXBqaVI4UHJkTlhXKzJsZTFxODh4YWlrZEdzYTBTWTdBWmpkR2NpdWFpU2F5YmZ4cURjcERpdFRkQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.277/Dayspring.app.tar.gz"
     }
   }
 }
