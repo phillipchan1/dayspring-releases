@@ -1,11 +1,11 @@
 {
-  "version": "1.0.275",
-  "notes": "- Emojis are no longer shown in the slash command menu on touch devices.",
-  "pub_date": "2026-08-29T18:58:41Z",
+  "version": "1.0.276",
+  "notes": "- Updated the Vellum divider gem to be a clearer lozenge for easier, prettier section separation.\n- Improved how section breaks render in themes, so the “---” divider shows up as a theme-painted break.",
+  "pub_date": "2026-08-29T19:02:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmg5dXMxRVFtdFpNbFlXQXRqbkE4UnQ0REI5WGdyZkhnWk9wc3E4Y1JjNHcwUERMYkVRUnlRNitqV1R2MDBzQnFBN0F5WjdmYTREazJCUjJ2Rjk4RFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMwMDQwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZTVRV3lpcE1YaUFUZmR6RmR4QUpXU2JXNnJOby9NRVRneFlleDRQUysrb2kwWUhCZzh4TmVWdUN0R2t6cnFFMFNHeDBubmhTZG14cHI0TDJpV2NpQmc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.275/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnN2ZlNId29tK1pFNHhEdWRTOHlQVnhPU2Z0TkFoUU5kOVlJZ3NTRUNtRFQ2bU4xQy9VQlJ5aEdUeVF4b1d2SS9rdGlrU2R6dnhsUFpUUkZsYk03ZEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMwMjIxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQjFwbjd0T1lCVlpNM0Q1OGcweFJMaTU4YnU5d3RzRWMxK3liSHh1blFLckhJWDVFQVdJei9mQVNEOTN3Q3h5SEpzdlVRMG1qdHc3WDVzNjhQbGNlQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.276/Dayspring.app.tar.gz"
     }
   }
 }
