@@ -1,11 +1,11 @@
 {
-  "version": "1.0.274",
-  "notes": "- Fix improved text highlighting in journal writing, including smoother handling of “Prec” and better stylesheet display\n- Strengthen native autocorrect while typing on the writing surface",
-  "pub_date": "2026-08-29T16:08:40Z",
+  "version": "1.0.275",
+  "notes": "- Emojis are no longer shown in the slash command menu on touch devices.",
+  "pub_date": "2026-08-29T18:58:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnEzSFA4aFdvbEY1Si8zaEtxQkcxNzlGVTlLZ1pLQ0k2KzR6SUZieDJhWWo4VUNzaW9KdXh6YTQxcXk3Y0JqZjVaKzZyNHJvOGR2OEhQZmd6aGdtOVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDE5ODczCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdkdOSzU4N2FNZ3QzUTdtWW9nbnhmZHNWZ004d1hjSGt4OXdIaHBiSzZGRDYvZkhreUZoSnhZZ1RzcUV5RHUxQWsrdHhzZGNYbmZyZWRWYlUybXBzQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.274/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmg5dXMxRVFtdFpNbFlXQXRqbkE4UnQ0REI5WGdyZkhnWk9wc3E4Y1JjNHcwUERMYkVRUnlRNitqV1R2MDBzQnFBN0F5WjdmYTREazJCUjJ2Rjk4RFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMwMDQwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZTVRV3lpcE1YaUFUZmR6RmR4QUpXU2JXNnJOby9NRVRneFlleDRQUysrb2kwWUhCZzh4TmVWdUN0R2t6cnFFMFNHeDBubmhTZG14cHI0TDJpV2NpQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.275/Dayspring.app.tar.gz"
     }
   }
 }
