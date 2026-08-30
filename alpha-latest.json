@@ -1,11 +1,11 @@
 {
-  "version": "1.0.283",
-  "notes": "- Made row echo labels easier to read on phones.\n- Updated journal rows to show the anniversary year and eyebrow.",
-  "pub_date": "2026-08-30T18:31:22Z",
+  "version": "1.0.284",
+  "notes": "- Fixed a few composer bugs and smoothed out the pacing so things flow better\n- ✨ Gave each ritual its own dedicated screen, with a voice that fits the moment",
+  "pub_date": "2026-08-30T21:25:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmg4Uy84US9PM1J4V1drVmw2bHpRejI5SVFqRlhGajZxSllVSkFqZ1lvRE55WGdkYmI1aXNSTkliMGh3akVHY0RNRitDOHhWOXYyeXlYcnE4MWlkOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTE0Nzg3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKY1RtWThoNDFEOHVnSDFhbG5vM3lJZ0dCUFdtdnhLN2tnOVM4K29hWC9TQVlIa2FoakEvYkpkMHpjY25TNVBrVW1tTmExb0RZZFJCdUMzMWREOUYyQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.283/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnV3Z3RaUFlON0lsS251TVNFVnU1UmdvTmwyR1N2WHRvL0dMS1lmWGF3Sy9ocERBNVJ6YlA3aU9ORUtWT0hYSXdkUGMreE45UmtxKzBLQ2lNRkhvUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTI1MjM0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVHNQczI1VVlMUk5SSGFQaHRVU1lURUU3UENGSE9UVFhlRVc2MDZyY3psN0tyaFdvUk5EUVlWbXhSdE85VUtkN3QrYkJ4ZjFTRktiRi9IcHN2SVZ4REE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.284/Dayspring.app.tar.gz"
     }
   }
 }
