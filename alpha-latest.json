@@ -1,11 +1,11 @@
 {
-  "version": "1.0.284",
-  "notes": "- Fixed a few composer bugs and smoothed out the pacing so things flow better\n- ✨ Gave each ritual its own dedicated screen, with a voice that fits the moment",
-  "pub_date": "2026-08-30T21:25:03Z",
+  "version": "1.0.285",
+  "notes": "- Kept the writing composer visible when switching screens on iOS so you don’t lose your place.",
+  "pub_date": "2026-08-30T22:31:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnV3Z3RaUFlON0lsS251TVNFVnU1UmdvTmwyR1N2WHRvL0dMS1lmWGF3Sy9ocERBNVJ6YlA3aU9ORUtWT0hYSXdkUGMreE45UmtxKzBLQ2lNRkhvUEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTI1MjM0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVHNQczI1VVlMUk5SSGFQaHRVU1lURUU3UENGSE9UVFhlRVc2MDZyY3psN0tyaFdvUk5EUVlWbXhSdE85VUtkN3QrYkJ4ZjFTRktiRi9IcHN2SVZ4REE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.284/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNzeEhzalYvbmU5WDJSaHl6RlFkRzJPYWhhKzNVZlRxMUhUeUFQZ3g0aVBhcnRVY0lqQmxQU2hmTjJXeUdrWXBONmduS0Y3U3ZNNXlDR3k5UWxNZndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTI5MjAzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQW9SWHZBMWNSSFEwaVhHNFZIb2JJSnhYWHlBaWJGYURYWTZwdzFLaCtPMWZ1Rjg3SXBnTTVraXdlaEFzV3NFUGpTakJrblQ0NGRKRFV4VlovZ25JQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.285/Dayspring.app.tar.gz"
     }
   }
 }
