@@ -1,11 +1,11 @@
 {
-  "version": "1.0.285",
-  "notes": "- Kept the writing composer visible when switching screens on iOS so you don’t lose your place.",
-  "pub_date": "2026-08-30T22:31:10Z",
+  "version": "1.0.286",
+  "notes": "- Improved the journal composer swipe so it’s handled directly by Dayspring, making swiping feel smoother and more consistent.",
+  "pub_date": "2026-08-30T22:49:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNzeEhzalYvbmU5WDJSaHl6RlFkRzJPYWhhKzNVZlRxMUhUeUFQZ3g0aVBhcnRVY0lqQmxQU2hmTjJXeUdrWXBONmduS0Y3U3ZNNXlDR3k5UWxNZndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTI5MjAzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQW9SWHZBMWNSSFEwaVhHNFZIb2JJSnhYWHlBaWJGYURYWTZwdzFLaCtPMWZ1Rjg3SXBnTTVraXdlaEFzV3NFUGpTakJrblQ0NGRKRFV4VlovZ25JQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.285/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnM1dEhLMEhRNGIzU3ZncVZheGtGUjJWdDBhWXBrMkZYc2pFdFprYmZZaERGYnhLWDRkbjJYNDJZeUgrOEE0SDhWRDdiZStWMyt4OWFzRHFLd3hVQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTMwMjc5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVUdmQ3Y3OWIvT29RWm9yQ25lQlVpYm1yeDYwTFRFL2xaQmxkVUg1SFRkUTlVZExISk11YmFFVnNQZTl0ZlJzOG5jbVBDOERuMnZjKzFOT3JFUW1VQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.286/Dayspring.app.tar.gz"
     }
   }
 }
