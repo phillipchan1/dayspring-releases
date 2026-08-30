@@ -1,11 +1,11 @@
 {
-  "version": "1.0.280",
-  "notes": "- Re-enabled autocorrect in the journal editor after the journal was reloaded.",
-  "pub_date": "2026-08-30T14:59:07Z",
+  "version": "1.0.281",
+  "notes": "- You can back out of a gesture mid-action if you change your mind, so nothing has to feel final before you’re ready",
+  "pub_date": "2026-08-30T15:30:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFzL2hTL2dsRU9aQndCQWJlZzh1d0UzeTM3Nk9kZldyNGJCaW9XdGxhaUpKbi8wMTdCemFtQ1dlcktySXY0RTcrQ2ZFREo2ZGltVWtXdGs4cDRTTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTAyMDg0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUUlFMzBoV0R2ZzhoOUc5ZWFzQXVJN2VEMHFMK1JmdVlkYnJMcXBnWGlad3p2dFJUbi9UakhvUTY0OGQ2ak5vQkdwUlFlRG9sUy8vK0dRVkpPVGFFRHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.280/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBFM3RaejF4UTE4amJvUDNmQVZ2U1BkZjlNL25Ba2ZZcFdHM1pLWm1mWDZaNUI4dFhIR1VJZVFveDZsNGo0MGY2MC9yd1pCTXR1ZzMreGtmanpaNmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTAzOTM0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL3MycS8rKzlnemxvQWJnQTF3ZEJwd2tIN0VpMkpFa3ljelZ5alQ2MlkrSHdsVVNSNjA5cGFhU0hqY0diZGlVdUgyLzRJWmlHMnNFbVJTSmVNQmx5RGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.281/Dayspring.app.tar.gz"
     }
   }
 }
