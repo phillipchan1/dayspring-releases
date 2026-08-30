@@ -1,11 +1,11 @@
 {
-  "version": "1.0.278",
-  "notes": "- When opening your Rituals library, the keyboard will automatically dismiss so you can browse without it getting in the way.",
-  "pub_date": "2026-08-29T20:55:49Z",
+  "version": "1.0.279",
+  "notes": "- ✨ Put a door into your ritual right on every page, with a quieter status beside it  \n- Open your ritual one movement at a time",
+  "pub_date": "2026-08-30T14:44:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnMrK1BtbHVNbXN6R3NET1AyYm92S2V5V3ZXempMYVNOSDRUck4xUWNnNHp6aUlnMTRiK1V6Q0s0dEFKeGg0RUxHclJ1ekg1QzJ4Zm0xeVN0YzNvRXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDM3MDQ4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZHN2Qm12M29FcktFUGhCTi9ESmVNYjZGMWtYSmVienpGRWdFK2pXNnVVckQ5Y3FTN2Z2a2lubGZHbE9JK1p4a3JFSjJnaExsSTRvblp1Yy9FbEs1QVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.278/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNPalZpbSt1K01UbVRYNE81K2Jvc3hDNm16MWs5Yk9MNDYwQ2RRQkhSS0U3NHRKMUo3L0RsdTlLSUhtRWxqMjdsY2ZKd1VFRm91Y005YzVYb2lWSmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTAxMTM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcXp4RXhxNXF1R3Rob3VwaFNuajlVOFNQam5DYW05akttQk1PcWhGWFc0YWNaUDJqZGwzTmFnT0liSmZjbENNa0F4MC96TEkxNjNqSjUwYldGMWpBQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.279/Dayspring.app.tar.gz"
     }
   }
 }
