@@ -1,11 +1,11 @@
 {
-  "version": "1.0.282",
-  "notes": "- The back-swipe motion now stays smooth even as you drag it across your entry text.",
-  "pub_date": "2026-08-30T16:14:33Z",
+  "version": "1.0.283",
+  "notes": "- Made row echo labels easier to read on phones.\n- Updated journal rows to show the anniversary year and eyebrow.",
+  "pub_date": "2026-08-30T18:31:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm50bWVUelFwNkhxTVlmd3BHUnp0ZDhSTGNzL1VjdjdEUUJvbUJqNWEvUWR3Zzg5aXZBdldyeENKTHJjLzNveXAwa01iaWNsTW5BRUJFbFlCVjdubHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTA2NjEyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMk5La0hhVGo0Ri81RlhISGEwdWRXK3pDMGlDT09zb01sYXRtb0ljMDVhNk1DTmtnYXRDMXFaYnhlOHJDeWNPV3BBWU9SeGNQSWd5SG5NU2dGeTFLQkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.282/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmg4Uy84US9PM1J4V1drVmw2bHpRejI5SVFqRlhGajZxSllVSkFqZ1lvRE55WGdkYmI1aXNSTkliMGh3akVHY0RNRitDOHhWOXYyeXlYcnE4MWlkOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTE0Nzg3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKY1RtWThoNDFEOHVnSDFhbG5vM3lJZ0dCUFdtdnhLN2tnOVM4K29hWC9TQVlIa2FoakEvYkpkMHpjY25TNVBrVW1tTmExb0RZZFJCdUMzMWREOUYyQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.283/Dayspring.app.tar.gz"
     }
   }
 }
