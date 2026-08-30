@@ -1,11 +1,11 @@
 {
-  "version": "1.0.286",
-  "notes": "- Improved the journal composer swipe so it’s handled directly by Dayspring, making swiping feel smoother and more consistent.",
-  "pub_date": "2026-08-30T22:49:05Z",
+  "version": "1.0.287",
+  "notes": "- Swiping now cleanly makes your decision, without the masthead snapping or shifting as it used to.",
+  "pub_date": "2026-08-30T23:47:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnM1dEhLMEhRNGIzU3ZncVZheGtGUjJWdDBhWXBrMkZYc2pFdFprYmZZaERGYnhLWDRkbjJYNDJZeUgrOEE0SDhWRDdiZStWMyt4OWFzRHFLd3hVQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTMwMjc5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVUdmQ3Y3OWIvT29RWm9yQ25lQlVpYm1yeDYwTFRFL2xaQmxkVUg1SFRkUTlVZExISk11YmFFVnNQZTl0ZlJzOG5jbVBDOERuMnZjKzFOT3JFUW1VQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.286/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmp1VGtlQlJNOU9EcGFqbnV6UGJoVlhjdW9yT3E1RWQzYUtDVlYrdEI2V3AxSnRMZmNBRGNyN2QwUUhRVklrV1BZNThjK0ZGcmhKb2l2RCswZndKREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTMzNzc4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeEdHS3R0eGU1M3pLSjJmSVJGM1czVGFhSGwzN1RuREpGazVZTWVWR0tsTEpQdkxIT3RsenlKc1RvT092akRXeitCNlFBTDNaVURzY0pvS2w4TVdIQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.287/Dayspring.app.tar.gz"
     }
   }
 }
