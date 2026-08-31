@@ -1,11 +1,11 @@
 {
-  "version": "1.0.287",
-  "notes": "- Swiping now cleanly makes your decision, without the masthead snapping or shifting as it used to.",
-  "pub_date": "2026-08-30T23:47:41Z",
+  "version": "1.0.288",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-08-31T01:08:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmp1VGtlQlJNOU9EcGFqbnV6UGJoVlhjdW9yT3E1RWQzYUtDVlYrdEI2V3AxSnRMZmNBRGNyN2QwUUhRVklrV1BZNThjK0ZGcmhKb2l2RCswZndKREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTMzNzc4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeEdHS3R0eGU1M3pLSjJmSVJGM1czVGFhSGwzN1RuREpGazVZTWVWR0tsTEpQdkxIT3RsenlKc1RvT092akRXeitCNlFBTDNaVURzY0pvS2w4TVdIQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.287/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNHMi8yd0s4aWhudy9LeG1UbXFzVUxlbXRkY2puMlBsVEV3R2hZMys5Ky9adjNlZG54bzJmb2FUazkvelB6QitoU25pS3FkcFFld2tZRm1BL1Rjc0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTM4NjU0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaElxUHpIbUd3dXpnMmFhbHYzZW8vR0sxanE5bklmRDRFN0hBSmUzTHdwOVJBc2xQbS9xZ3FEeUdabkdaZ0RtdEpZQzNobEcvdmJ4dkpZbFFZVzl1QWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.288/Dayspring.app.tar.gz"
     }
   }
 }
