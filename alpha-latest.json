@@ -1,11 +1,11 @@
 {
-  "version": "1.0.288",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-08-31T01:08:57Z",
+  "version": "1.0.289",
+  "notes": "- Fixed a jump in the screen position when the keyboard opens while editing a ritual.",
+  "pub_date": "2026-08-31T14:29:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNHMi8yd0s4aWhudy9LeG1UbXFzVUxlbXRkY2puMlBsVEV3R2hZMys5Ky9adjNlZG54bzJmb2FUazkvelB6QitoU25pS3FkcFFld2tZRm1BL1Rjc0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTM4NjU0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaElxUHpIbUd3dXpnMmFhbHYzZW8vR0sxanE5bklmRDRFN0hBSmUzTHdwOVJBc2xQbS9xZ3FEeUdabkdaZ0RtdEpZQzNobEcvdmJ4dkpZbFFZVzl1QWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.288/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmp0V2d3eEZ4ZGJ0bVlaWUwrdlladDFibnY0OWpQMjRZalNMMnh2N1AyZGgyLzNyUWxEd2pJbzZLMERQU2FFWVVYOWt3MVB3ZVZjYU9FbmI4dFZ2OWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg2NzI0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSzJBVTZpYlJuMVpwcnFuMGF2ZTJoMDJ5Y1FJaTYxMTV0cll1T2FFVVpDN0Z2ZWdMNUZqWktNRGJoNnd1aUQyNDVNYitVYUNlY1VmYitEdHNsM2ZUQ3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.289/Dayspring.app.tar.gz"
     }
   }
 }
