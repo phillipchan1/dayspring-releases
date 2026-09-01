@@ -1,11 +1,11 @@
 {
-  "version": "1.0.290",
-  "notes": "- After deleting an entry, the next available entry now feels easier to jump to, with smoother finder-style focus so you can keep writing without interruption.",
-  "pub_date": "2026-08-31T15:42:13Z",
+  "version": "1.0.291",
+  "notes": "- 🎉 Enjoy a smoother, more consistent look as Dayspring switches from reading to editing your entries, with typography that feels unified.",
+  "pub_date": "2026-09-01T14:31:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9OSkMwUDlxVUVKOGwvQkJsNzJKVHpHSDh6Zk1mR0NiNWRyTWVqVmZ0TTJ1UFBzeklkdHBORU55eENuRG1mTlBESE1jSlJXcW1TamY3dkNVckZCUmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTkxMDU2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUVFQY3V0SXgrSC8vWEVYQzM3emt5WGVKcWszTGZLZmt0TTdIMEpPcS9rSkIvdnhCMjBlaWxJcWc4a2s5L040SU9CeDlicC9VWmI2NmlFbW1JM0daQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.290/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlXYkFZM3QzZEdQTzBnZVRLRkp5TEtMVTBBOUppN2RwdldYUXRteW9qbktKMGVlUWhiSGFLeWh3ZXlkSmw3QXpCR1FmdlFmSklHUHVYcjIzU0FNbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjczMjE4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaDdSWHoyci85ZTFUeUJiN3RyenVSeHJwL3MzcStHVEtNZVBKVHpHNXNaaWNWbkoxTkdRSDVxWjdkWkhHTFB2UWNPdmx0b3RGUVVBcGdJaFQ2a0xJQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.291/Dayspring.app.tar.gz"
     }
   }
 }
