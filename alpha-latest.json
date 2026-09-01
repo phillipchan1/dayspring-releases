@@ -1,11 +1,11 @@
 {
-  "version": "1.0.294",
-  "notes": "- Make the mouse Back button move through your journaling history consistently across the app.",
-  "pub_date": "2026-09-01T17:39:18Z",
+  "version": "1.0.295",
+  "notes": "- Improved how you browse your archives and move between entries, so finding your way through past days feels smoother.",
+  "pub_date": "2026-09-01T18:28:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1FNWdtSTdIVklNbkRvcDNhRnMvS1hWSUVpemVjeTVUQVJhZ1lXQnk2OU1yK1JHN1dSSFcrQnVMQnE5bm1JLzlrMmdyM0Z1MzM3M1pqRHFGVGFnUlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mjg0NTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSi9lYVI0ZnZFSWlZMVVJN2VmSnVnSThmTEpFWjNNSVlEUWE4RjJtWU10V2JRWVI1Zyt5NVJtcmFXaW5rcHc1ekpTR0hQMmxWeWh5dS9tRnNBOXF1RGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.294/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1QdHdySVREZ0gzSXc3Sm1FWis0eHN4QTdmald4aW1hSTdUVlNhN3NhQ2R1RnRreFJJWEs3UE9IWExxM09ybDJjc0gzcFB1SnFOK2VSeGVEckFLK2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mjg3NDQ2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZFdKYmdIbERFdFF4cDdyLyt5Mml1ZDU2RlhPdXV0VWFISHA5VkM5M1RrVkRwd2xrL0RRZ2cwSUdqYjVCL1VXMFZGN2ZGWHdqY1h3d3J6V1QzbkxrRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.295/Dayspring.app.tar.gz"
     }
   }
 }
