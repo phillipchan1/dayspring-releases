@@ -1,11 +1,11 @@
 {
-  "version": "1.0.292",
-  "notes": "- ✨ Pages now start at a sensible default zoom, so it’s easier to settle in while journaling.\n- Pages are better anchored to your latest entry, making it quicker to pick up where you left off.",
-  "pub_date": "2026-09-01T17:20:30Z",
+  "version": "1.0.294",
+  "notes": "- Make the mouse Back button move through your journaling history consistently across the app.",
+  "pub_date": "2026-09-01T17:39:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhrR2JkcjlySnlOd1Bva3UzKzg2QTFUTmIySXloZGMvK2gzNTlCaXVkWERDd0djUHM5OXArMEJPMHJjdGZ4eXRYTkRKZDRKMHdYTE1LQXJDVTVpUkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjgzMzI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNk1JVFlzcnBObmwxSEpqSndqcnJGWFcrcW5hMVJrNG45VmtZdVhXWnBmdGNFUzM0NWtCQWtPb2VOWHFMYzVwZENiQ003cmpPRm5UTGgzZEN6bHppRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.292/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1FNWdtSTdIVklNbkRvcDNhRnMvS1hWSUVpemVjeTVUQVJhZ1lXQnk2OU1yK1JHN1dSSFcrQnVMQnE5bm1JLzlrMmdyM0Z1MzM3M1pqRHFGVGFnUlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mjg0NTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSi9lYVI0ZnZFSWlZMVVJN2VmSnVnSThmTEpFWjNNSVlEUWE4RjJtWU10V2JRWVI1Zyt5NVJtcmFXaW5rcHc1ekpTR0hQMmxWeWh5dS9tRnNBOXF1RGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.294/Dayspring.app.tar.gz"
     }
   }
 }
