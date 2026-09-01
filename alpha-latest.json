@@ -1,11 +1,11 @@
 {
-  "version": "1.0.291",
-  "notes": "- 🎉 Enjoy a smoother, more consistent look as Dayspring switches from reading to editing your entries, with typography that feels unified.",
-  "pub_date": "2026-09-01T14:31:16Z",
+  "version": "1.0.292",
+  "notes": "- ✨ Pages now start at a sensible default zoom, so it’s easier to settle in while journaling.\n- Pages are better anchored to your latest entry, making it quicker to pick up where you left off.",
+  "pub_date": "2026-09-01T17:20:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlXYkFZM3QzZEdQTzBnZVRLRkp5TEtMVTBBOUppN2RwdldYUXRteW9qbktKMGVlUWhiSGFLeWh3ZXlkSmw3QXpCR1FmdlFmSklHUHVYcjIzU0FNbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjczMjE4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaDdSWHoyci85ZTFUeUJiN3RyenVSeHJwL3MzcStHVEtNZVBKVHpHNXNaaWNWbkoxTkdRSDVxWjdkWkhHTFB2UWNPdmx0b3RGUVVBcGdJaFQ2a0xJQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.291/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhrR2JkcjlySnlOd1Bva3UzKzg2QTFUTmIySXloZGMvK2gzNTlCaXVkWERDd0djUHM5OXArMEJPMHJjdGZ4eXRYTkRKZDRKMHdYTE1LQXJDVTVpUkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjgzMzI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNk1JVFlzcnBObmwxSEpqSndqcnJGWFcrcW5hMVJrNG45VmtZdVhXWnBmdGNFUzM0NWtCQWtPb2VOWHFMYzVwZENiQ003cmpPRm5UTGgzZEN6bHppRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.292/Dayspring.app.tar.gz"
     }
   }
 }
