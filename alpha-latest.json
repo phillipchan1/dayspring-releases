@@ -1,11 +1,11 @@
 {
-  "version": "1.0.296",
-  "notes": "- ✨ Pages now hand off smoothly into editing, so you can start writing right where you left off.",
-  "pub_date": "2026-09-01T21:17:26Z",
+  "version": "1.0.306",
+  "notes": "- ✨ Improved the macOS alpha login flow so your sign-in works smoothly without OAuth-related hiccups.",
+  "pub_date": "2026-09-06T22:34:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlMOG1jdUFRTGhHV3JOMjBSSWt2c2orb0NXTHJ4cnhuUGs5K0JHR1RNU2Q5aVV6VngvQkhqTlMxMUwwTWZNTEVHeXd5emlKSzBGeWNOYzVCMllXQ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mjk3NTU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTVdTNUdidWc5MDZqN0pnclBvY1F1UGxtVnRVSVRZb1p0U1dVbXUzUElKRFNKV3lEbmdOMHBXL2RROFp0Y0NDeExnUHQ4dGJ2UDBRMVhIcE11SnlCQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.296/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJVMDVINldLU010UXEzeW5DNXZnTmFqTWlDMThleFBHTDNNSGVLSllUTlBkOEkxbmh1ZmxNQTAza3Q0N1Y2WFh4YlJXaldKZ2pKd1NkeUJEaFdKZEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzM0MzYxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKR2NVVjhUODFaSCtTbldiWGJyaUNENEJNNFlMMGMvdmlxNTU5a2hrV2ErTUltd0VMcHBUWWh5QzhIbXR4U3I4VUJEbzE4VDhpMWM5RzZnc0YrWDdkQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.306/Dayspring.app.tar.gz"
     }
   }
 }
