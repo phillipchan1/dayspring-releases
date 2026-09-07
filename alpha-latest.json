@@ -1,11 +1,11 @@
 {
-  "version": "1.0.308",
-  "notes": "- Removed an outdated hidden option for ThreadsRopes—everything it was meant to reveal still stays in place.",
-  "pub_date": "2026-09-07T14:38:57Z",
+  "version": "1.0.309",
+  "notes": "- ✨ Life Map is now wired into the app with a rail button and a handy preview, so it’s easier to explore your journal’s “who/what” relationships.\n- Life Map no longer mixes up the person your journal is addressed to with the journal subjects, keeping your map accurate.\n- Life Map’s time-splitting and how results are gathered now feel smoother and more consistent when you search through your entries.\n- Fixed a few stuck issues so Life Map and related journaling views behave reliably again.",
+  "pub_date": "2026-09-07T17:04:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9UTmhram81OEpuTFFrOGpMNnM1UHoycDBNbWN4STBIZU1tb3kvRlJKdExyeHJ2S0MzeEY0WkVTQUEwd3hSWDJMdGZlc2ZaYWZxQ3lDWnJkQmlCbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzkyMDQ2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQXJGbDZFeVRxcktnVFc2ZVdtMUtTTGVaV2xURlM1RlZBZyt5OVBuR0xWbXpxTzdlK3ZHU2wrN054N21wckNweEZML1ZOMGFLTXZDaDJZODhJYWhmQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.308/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlwRk9wcFRCSGNXeWhzaWoxRmx2V2kvVzR4SVY0T1FLVkRTZFJuUndPY3NKbHRCQklxR25zRm1YYnNCYnBwZE9TbTJzM0MySlN5NFJRaXMxUlZMVFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODAwNzgyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZi9ZRDVUc0JsVC9aZHVkWkFHOUNZMHZZNWZJZXNlc25IWTlXZ2hGL25JUnlMeFlvelJZbDhQdmpDc0VDNHZrSFhzYzZOdFBBUSthemtkc2ZpeDlJQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.309/Dayspring.app.tar.gz"
     }
   }
 }
