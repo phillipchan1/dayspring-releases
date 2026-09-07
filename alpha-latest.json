@@ -1,11 +1,11 @@
 {
-  "version": "1.0.307",
-  "notes": "- A one-time little note now explains when entries move to a new place, and it only shows up the moment it actually happens.",
-  "pub_date": "2026-09-07T04:36:15Z",
+  "version": "1.0.308",
+  "notes": "- Removed an outdated hidden option for ThreadsRopes—everything it was meant to reveal still stays in place.",
+  "pub_date": "2026-09-07T14:38:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBkc0FYRkx2U0puSHlVU1ZoQXE2eHNKR0RycnVUL2x2ZU1zcVdSZ3BiYzN1b0xaVjNqUHFpVnFYNTZMcFBJR1pTUVMzSjhLRGZCRWpWVWpEV3ZTMlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzU1OTIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdU5lTHE3VkhiaFV0WDZ6bGZqYmgzdnUxam5aQkYxYy9YUUV6RXNjSDFGN05YK2dNVE9RellrUllMTE80WFhraDRkanNiSDB1dmd1SlRFNHcwYms0Q0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.307/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9UTmhram81OEpuTFFrOGpMNnM1UHoycDBNbWN4STBIZU1tb3kvRlJKdExyeHJ2S0MzeEY0WkVTQUEwd3hSWDJMdGZlc2ZaYWZxQ3lDWnJkQmlCbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzkyMDQ2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQXJGbDZFeVRxcktnVFc2ZVdtMUtTTGVaV2xURlM1RlZBZyt5OVBuR0xWbXpxTzdlK3ZHU2wrN054N21wckNweEZML1ZOMGFLTXZDaDJZODhJYWhmQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.308/Dayspring.app.tar.gz"
     }
   }
 }
