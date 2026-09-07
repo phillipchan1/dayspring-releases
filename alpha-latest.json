@@ -1,11 +1,11 @@
 {
-  "version": "1.0.309",
-  "notes": "- ✨ Life Map is now wired into the app with a rail button and a handy preview, so it’s easier to explore your journal’s “who/what” relationships.\n- Life Map no longer mixes up the person your journal is addressed to with the journal subjects, keeping your map accurate.\n- Life Map’s time-splitting and how results are gathered now feel smoother and more consistent when you search through your entries.\n- Fixed a few stuck issues so Life Map and related journaling views behave reliably again.",
-  "pub_date": "2026-09-07T17:04:12Z",
+  "version": "1.0.310",
+  "notes": "- ✨ Life Map now loads your discovered highlights by default, and the map button reflects the quieter icon style.",
+  "pub_date": "2026-09-07T18:03:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlwRk9wcFRCSGNXeWhzaWoxRmx2V2kvVzR4SVY0T1FLVkRTZFJuUndPY3NKbHRCQklxR25zRm1YYnNCYnBwZE9TbTJzM0MySlN5NFJRaXMxUlZMVFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODAwNzgyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZi9ZRDVUc0JsVC9aZHVkWkFHOUNZMHZZNWZJZXNlc25IWTlXZ2hGL25JUnlMeFlvelJZbDhQdmpDc0VDNHZrSFhzYzZOdFBBUSthemtkc2ZpeDlJQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.309/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJ4ZDI1QU1EcHR3ZVp6MGpPbVQxdTREUjNSN1ZISjdqVi8veFZKUElHcGdOZWxwdnhyTk1tcVhFVmZRM2VmL0I1RGp4aGZFRmhiTVk5Y3phdFBtaUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODA0MzQwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeGRERDEvSkVmcVpHbkFySjUranFaUXY4emxXM0g3K2hxSzNYajAxUkwrbWFjVDlQWmRidi96d0oxVU1YYnFSQ2ZMWGI5d0toc1RGSEdScXE2b2Q2RFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.310/Dayspring.app.tar.gz"
     }
   }
 }
