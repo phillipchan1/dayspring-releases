@@ -1,11 +1,11 @@
 {
-  "version": "1.0.313",
-  "notes": "- Fixed the Life Map scrolling so everything moves smoothly on the canvas.",
-  "pub_date": "2026-09-07T21:28:32Z",
+  "version": "1.0.314",
+  "notes": "- The “You” menu is now easier to use, no longer getting cut off by the side rail.",
+  "pub_date": "2026-09-07T21:41:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZtZ0NUMStabGVHRkQ3ZXhjNmNLWm1Kak1kWVNKcGlzUloxTEthQTQwdHNSR24yRHUrUTM5eDdhYmlRWUo5cjBGdTZKaVdyMnNwMVlDb1VrZzUzdmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE2NjUwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbGwyR2NwM0Z4emkzTkp3YnFaalN0cURoS0FnbW5Jdi91TFFkUm43V2lpRStjR09PcSt2UmZyMnRzM0hONHpzcXErdnhjSXB0c3FXaDVvS2tVNVRvQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.313/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmptNjlPZU9yVnROZnVPdHNiQWl5VHhDaVl3L1B0L3FtNnRoYjAzRFhsTnhvWHVjaDl6RC90dnFNYlVZNUZaODdGZFg5UkhEUlRubGQ3SDNwQ2lWSEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE3NDIwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUzRBc0QyMDBIaFBZcTByNldCTndyalAzbHFkeW5zYU0vWENIVlRTNVJ2Ti9iQ1BxZXIzUTkyUkJOak80a3NnT2ZQNlNSRE9HWkxqbkcyUU9uWDdiREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.314/Dayspring.app.tar.gz"
     }
   }
 }
