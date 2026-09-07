@@ -1,11 +1,11 @@
 {
-  "version": "1.0.311",
-  "notes": "- 🎉 Added a new “You” menu in the app so Life Map and the Concordance are easier to find and revisit.",
-  "pub_date": "2026-09-07T21:20:54Z",
+  "version": "1.0.313",
+  "notes": "- Fixed the Life Map scrolling so everything moves smoothly on the canvas.",
+  "pub_date": "2026-09-07T21:28:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVNZEY2a2IwbmtWZU1ycHFveVUvOTBweVZUVENsUlBQNlZ4VmdFWGQxZFJFMmJTMnorQ0cxK2dqaGJsaGN5cStCSmVubU1TTzd5RUlKZ0NNbS9EMFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE2MTg5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZVJHT3NsN0VCN1MxUUp6ejVLY2tVaDZZcFEySmFYM2d4Q1NaTS9iTjRzT2ZzQUgyV1daczgyem1CSFFtZDhyQ1gyT3RrUlhGY1g5ZVgrWUtkQVZ3QUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.311/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZtZ0NUMStabGVHRkQ3ZXhjNmNLWm1Kak1kWVNKcGlzUloxTEthQTQwdHNSR24yRHUrUTM5eDdhYmlRWUo5cjBGdTZKaVdyMnNwMVlDb1VrZzUzdmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODE2NjUwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbGwyR2NwM0Z4emkzTkp3YnFaalN0cURoS0FnbW5Jdi91TFFkUm43V2lpRStjR09PcSt2UmZyMnRzM0hONHpzcXErdnhjSXB0c3FXaDVvS2tVNVRvQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.313/Dayspring.app.tar.gz"
     }
   }
 }
