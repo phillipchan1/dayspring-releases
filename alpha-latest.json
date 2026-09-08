@@ -1,11 +1,11 @@
 {
-  "version": "1.0.319",
-  "notes": "- Fixed a bug on iPad where tapping to sign in could fail to register.",
-  "pub_date": "2026-09-08T14:28:14Z",
+  "version": "1.0.320",
+  "notes": "- Fixed a rare issue on iOS where a type/edit screen could lose its correct cursor placement.",
+  "pub_date": "2026-09-08T14:36:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5TY2pUQ1FLWVd0UmZ4empZQW9rNVA4c2FjV1dhYWhNeEM1MDNrWW44dzVUQlFqQnN1UVNHcllsZTBDTzUrc2tialJNeVZCOG0yS3FHWmtIWmNnS2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc3ODI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMlc0MU9wRTRoMGE1RUlYTEtIRzc3VTVpZkhmRllxdGNnNjlvNHpIWnpaME9uWHJML3NWWDBFUFlYZDhoYUlZV2ZnVjMvRDQxeEZQVkpqamJlMjJqREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.319/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnE1eXlZM0Y3N3daRXMvRDRud1IyRjBxRjB6RSs5aExPUFNRcmg3UUVka3o2aTdoeFp3RXFUV3lFUVVMVHRyNEtzMEpMSXhyVU4vVmFQbW9qM1czWVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc4MzE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKK3ArZXpGSFJRRXJFaUpTOVBWNVhJcEdhMTZNQnV0ai95aWVwTFlOeEpyZmpCRzFXVEJYeG9obzEzYXRtWC8zdkRjdkNYbDNDOHAvUUxSZW1zTG1VRHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.320/Dayspring.app.tar.gz"
     }
   }
 }
