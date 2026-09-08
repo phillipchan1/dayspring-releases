@@ -1,11 +1,11 @@
 {
-  "version": "1.0.322",
-  "notes": "- The format bar now pops up at the cursor with a slightly bigger, faster feel, so you can style your writing more easily.",
-  "pub_date": "2026-09-08T18:32:57Z",
+  "version": "1.0.323",
+  "notes": "- Fixed a small issue on iOS where tapping Sign In could be unreliable on certain touch setups.",
+  "pub_date": "2026-09-08T20:20:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm4rWENOVXNnWktNQ01ZTmVzMklqdnY0M2FaMzVaNmRuc2RORUVUYzc0aDRoK3hmeS82MlR6YTVlYTVnWVVybGk3QU5CQ01xR0p1ZTJNeVhkMk5USUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODkyNTI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd3Y4bkYzUmVVNklxU24reWVVV0JWbGZUaUkyWHFHVlc4c2Q3RnBZQjF5USt4ZGFXNldBYXZhMUZJM0ZXaEtXaFpYbEZxeDBNL0lGaG5DbFpmRmtKQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.322/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1RQWJIcTdqd291SnFyZXlmNW0wR0piK0RNYnVBeFMyTDB1cC9UWWVBSlVWVTh1d09rWkRrcXY5TTNjb3ZXWUlVRkh2UGE2bTFRT0lBNGY4dFh6RGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODk5MDQ1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdzI1WkFCVGV3aW5rRXVoVU5UYVNSTXA5MFoxcm1Cbit1U0xLQS9NRTNEc0RYampzZ3ByVE1PbE5Oc2FtWGRnUXB1NThxSEJZck9wZEdNQzNEY0M0QkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.323/Dayspring.app.tar.gz"
     }
   }
 }
