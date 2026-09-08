@@ -1,11 +1,11 @@
 {
-  "version": "1.0.320",
-  "notes": "- Fixed a rare issue on iOS where a type/edit screen could lose its correct cursor placement.",
-  "pub_date": "2026-09-08T14:36:25Z",
+  "version": "1.0.322",
+  "notes": "- The format bar now pops up at the cursor with a slightly bigger, faster feel, so you can style your writing more easily.",
+  "pub_date": "2026-09-08T18:32:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnE1eXlZM0Y3N3daRXMvRDRud1IyRjBxRjB6RSs5aExPUFNRcmg3UUVka3o2aTdoeFp3RXFUV3lFUVVMVHRyNEtzMEpMSXhyVU4vVmFQbW9qM1czWVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc4MzE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKK3ArZXpGSFJRRXJFaUpTOVBWNVhJcEdhMTZNQnV0ai95aWVwTFlOeEpyZmpCRzFXVEJYeG9obzEzYXRtWC8zdkRjdkNYbDNDOHAvUUxSZW1zTG1VRHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.320/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm4rWENOVXNnWktNQ01ZTmVzMklqdnY0M2FaMzVaNmRuc2RORUVUYzc0aDRoK3hmeS82MlR6YTVlYTVnWVVybGk3QU5CQ01xR0p1ZTJNeVhkMk5USUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODkyNTI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd3Y4bkYzUmVVNklxU24reWVVV0JWbGZUaUkyWHFHVlc4c2Q3RnBZQjF5USt4ZGFXNldBYXZhMUZJM0ZXaEtXaFpYbEZxeDBNL0lGaG5DbFpmRmtKQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.322/Dayspring.app.tar.gz"
     }
   }
 }
