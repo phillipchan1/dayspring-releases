@@ -1,11 +1,11 @@
 {
-  "version": "1.0.315",
-  "notes": "- Life Map: “Look for” now shows the four lists, and the timeline now offers eras.\n- ✨ Timeline: the app now fills in missing “position” data automatically so history looks more complete.",
-  "pub_date": "2026-09-08T04:51:47Z",
+  "version": "1.0.316",
+  "notes": "- ✨ Your journal now turns inline markdown into formatted text right after you finish typing the mark.",
+  "pub_date": "2026-09-08T13:25:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNPd3JpN3R1NitOT3BEeStVWFlSS2h1SXg5ZzBZNEdEMEJ1eDRtd2d2MTh1VDd5aUQ1S0VOcWl1bjc1RHFHUVBYd214QS9kN25kNWJzei9oVnBkdkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODQzMjQzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTXVOYUp1TFYveHJQVDM5dUJIcC9FU1J4UGY1QW84cXVDdDQxVjNsSjFmMWRvU1dERWozVWovNksrcWdkTWU5UkUyVkkxalpsVkNmUGJsTEthUDhBQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.315/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmgwSUhneTU5RDhCS1BnRTlMQnE3NURPcEVYRjgyTlYwQXBLMi80RlhxQzZhNldvbWUxemtQVTlEWll1NnRtYW1scEVCbWpsOTljb2Y3VjkwTStudVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc0MDY3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKajBzcjgvNlBBS2RrNnY3Um1SMEljYkNDVy9jR1hJdS9ObUUrTHRzMGprZXZOeDhBZlZUZU5RSXBLcWh6d3pCcytMOEdxTDExLytLZVQ1S2lzZGpBRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.316/Dayspring.app.tar.gz"
     }
   }
 }
