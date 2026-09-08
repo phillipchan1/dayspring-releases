@@ -1,11 +1,11 @@
 {
-  "version": "1.0.317",
-  "notes": "- Show the opened verse in the chapter pane, not just the chapter.",
-  "pub_date": "2026-09-08T13:45:25Z",
+  "version": "1.0.319",
+  "notes": "- Fixed a bug on iPad where tapping to sign in could fail to register.",
+  "pub_date": "2026-09-08T14:28:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5zZzJwNmhERk1ZMWEvNG9FemU0cExEM3lmaWNqNmRqaEY5Q0VQUGpUWXU3TlVUSExGR1FqZzF0SzgwSHJMTUk5WjFaTExoK1BRanhPWVc2OFV5eFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc1MjU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTFRmYnBMN3Q3bHQzN2dmZTkxVGVxU2xqdFA5NDEzR2txbG1DUHlwZExUdXJ0RjB1T01rSU9hTXh3L3V4cHdTWktCa3YvQnpLb0JGbjJXQlI1L3JwQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.317/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5TY2pUQ1FLWVd0UmZ4empZQW9rNVA4c2FjV1dhYWhNeEM1MDNrWW44dzVUQlFqQnN1UVNHcllsZTBDTzUrc2tialJNeVZCOG0yS3FHWmtIWmNnS2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc3ODI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMlc0MU9wRTRoMGE1RUlYTEtIRzc3VTVpZkhmRllxdGNnNjlvNHpIWnpaME9uWHJML3NWWDBFUFlYZDhoYUlZV2ZnVjMvRDQxeEZQVkpqamJlMjJqREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.319/Dayspring.app.tar.gz"
     }
   }
 }
