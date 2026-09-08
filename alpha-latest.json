@@ -1,11 +1,11 @@
 {
-  "version": "1.0.323",
-  "notes": "- Fixed a small issue on iOS where tapping Sign In could be unreliable on certain touch setups.",
-  "pub_date": "2026-09-08T20:20:53Z",
+  "version": "1.0.324",
+  "notes": "- Fixed an iOS issue where signing in could cause the app to feel stuck while it waited for authentication.",
+  "pub_date": "2026-09-08T20:29:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1RQWJIcTdqd291SnFyZXlmNW0wR0piK0RNYnVBeFMyTDB1cC9UWWVBSlVWVTh1d09rWkRrcXY5TTNjb3ZXWUlVRkh2UGE2bTFRT0lBNGY4dFh6RGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODk5MDQ1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdzI1WkFCVGV3aW5rRXVoVU5UYVNSTXA5MFoxcm1Cbit1U0xLQS9NRTNEc0RYampzZ3ByVE1PbE5Oc2FtWGRnUXB1NThxSEJZck9wZEdNQzNEY0M0QkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.323/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhSUDZwK2lYUVVUcVAydGZiQXhuMFY2bnU0N1JDYVhzQ3N6amJ4NkppUXJFV3FTcVg5QklmeTZOT2xKSUVjeGVxd2MwNVpXUTVnSE1JdmxKb3R2K3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODk5NTAwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaG5FRkhYK1pMNFlDZ1FKbmYyV1p1d1M3MTZBZ0hkSHd6RGkwbHpabnYwTkp4dGhNKytmckdhRm84Vm9QdHd3NnZWeEhDY2RGeDk3bGdma3F6RzI2QVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.324/Dayspring.app.tar.gz"
     }
   }
 }
