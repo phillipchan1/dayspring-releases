@@ -1,11 +1,11 @@
 {
-  "version": "1.0.316",
-  "notes": "- ✨ Your journal now turns inline markdown into formatted text right after you finish typing the mark.",
-  "pub_date": "2026-09-08T13:25:25Z",
+  "version": "1.0.317",
+  "notes": "- Show the opened verse in the chapter pane, not just the chapter.",
+  "pub_date": "2026-09-08T13:45:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmgwSUhneTU5RDhCS1BnRTlMQnE3NURPcEVYRjgyTlYwQXBLMi80RlhxQzZhNldvbWUxemtQVTlEWll1NnRtYW1scEVCbWpsOTljb2Y3VjkwTStudVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc0MDY3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKajBzcjgvNlBBS2RrNnY3Um1SMEljYkNDVy9jR1hJdS9ObUUrTHRzMGprZXZOeDhBZlZUZU5RSXBLcWh6d3pCcytMOEdxTDExLytLZVQ1S2lzZGpBRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.316/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5zZzJwNmhERk1ZMWEvNG9FemU0cExEM3lmaWNqNmRqaEY5Q0VQUGpUWXU3TlVUSExGR1FqZzF0SzgwSHJMTUk5WjFaTExoK1BRanhPWVc2OFV5eFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc1MjU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTFRmYnBMN3Q3bHQzN2dmZTkxVGVxU2xqdFA5NDEzR2txbG1DUHlwZExUdXJ0RjB1T01rSU9hTXh3L3V4cHdTWktCa3YvQnpLb0JGbjJXQlI1L3JwQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.317/Dayspring.app.tar.gz"
     }
   }
 }
