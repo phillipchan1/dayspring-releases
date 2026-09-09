@@ -1,11 +1,11 @@
 {
-  "version": "1.0.332",
-  "notes": "- Put a blank next page at the front of the journal wall so there’s always a fresh spot to start right away.",
-  "pub_date": "2026-09-09T21:38:30Z",
+  "version": "1.0.333",
+  "notes": "- ✨ Made the new page feel clearer and easier to start using right away.",
+  "pub_date": "2026-09-09T22:57:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdldTdtcFB4T0lsZXpUWHhKaUE2NU0wNFVIOFpRcWtTbFY2cDRtL0NOMG9ERTE5WlM3NkpBRXB4YVdXclNkcmwwS2dHQmZwcFNYUUJkelVRS3c4VndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkwMDM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKREcyZ1kwR0xYVXR2dm1SK1NhRGdqZEVjZ0RPOU5vTUVyUEl0cE1ib0xwSzZrQ1p2ajJjYVVkdmJVZTZqYm5leGJCckdrZFhUTDgveStyNS9reGdtQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.332/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1GWFlrbTgzazNjVTVyL2NidFhkVm1kZ2Q4cGN2WTdXNGxJOHVhMnBRR0dQdlNnNkwwSkpzNWxGN1ErdlY4OEg1ZzBQMmNVMXRlSEpaanBWWkNIdGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk0NzMyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWU0wbUZ3WGlMUmhEb0JRa1ZUYWZhWHNyVGFyeFlNRmU2ZDlSRVpsbXV5bDN0djZtZ1g5SDBpUkUzdEx5QTlYd3VWbWJDdEVvejB4RG5uMm1MWW16QlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.333/Dayspring.app.tar.gz"
     }
   }
 }
