@@ -1,11 +1,11 @@
 {
-  "version": "1.0.331",
-  "notes": "- Keep your rituals easy to write, easy to remove, and always visible right on the page.",
-  "pub_date": "2026-09-09T13:33:52Z",
+  "version": "1.0.332",
+  "notes": "- Put a blank next page at the front of the journal wall so there’s always a fresh spot to start right away.",
+  "pub_date": "2026-09-09T21:38:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm53Q1JjdWRvUzlyN1hvdGFEeVljZmxkR0NuaUsxNnZvQXB5Vk9IWlZNN3pWT083b1ZlUWxrZWlBa0JyRWNGWW1hVXY1S1RVZ25meTVXcVh2N3lJTUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTYwOTY3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKekdjVDJkeWZ0TitmWGtIMGRXRTY1Q1hCeGNOWWllUGV4L0JvenVTS3RkVmVnR09aQ2hEdFI2YnpadmYzbWUzUlFBMDU1RzU0eHFJaTFYMlJFY1pBRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.331/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdldTdtcFB4T0lsZXpUWHhKaUE2NU0wNFVIOFpRcWtTbFY2cDRtL0NOMG9ERTE5WlM3NkpBRXB4YVdXclNkcmwwS2dHQmZwcFNYUUJkelVRS3c4VndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkwMDM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKREcyZ1kwR0xYVXR2dm1SK1NhRGdqZEVjZ0RPOU5vTUVyUEl0cE1ib0xwSzZrQ1p2ajJjYVVkdmJVZTZqYm5leGJCckdrZFhUTDgveStyNS9reGdtQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.332/Dayspring.app.tar.gz"
     }
   }
 }
