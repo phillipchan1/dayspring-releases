@@ -1,11 +1,11 @@
 {
-  "version": "1.0.326",
-  "notes": "- ✨ Your entries can now include a quiet colophon that captures the circumstances of writing—like the time, place, and even the weather.",
-  "pub_date": "2026-09-08T23:04:32Z",
+  "version": "1.0.327",
+  "notes": "- Kept the writing menu in place while resizing, so it doesn’t jump around.",
+  "pub_date": "2026-09-09T03:57:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdnb2crTlVYRTRMTk5GY0hzTmdHNTZPWEoxbVFTc3AzOHhxQlhpdVVBdk1uaVM0bE9TZnM0bUNuS2VnV1BWWlRDN3NhVnRIaElDUVFCeHEra3o3UVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTA4Nzg4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNGUyOHBXUG45M2plZDNucUNuSldsOEMzNWVDRkZDcTJzUkVaZGYyOHQ1d0VFM0dvbHJuLzJMWHVTQ21aR25EQ0tDYkhWNmVQZUZOUXkxZmwwUHZBQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.326/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBkSU5GNWJKK0FORjhUT08rZ3JzUUk0STZDVEtmR2RidmtFcThnSG5SdWhCMDdaYVRvMnFjYlZIbDRyRzFIbHVIZS9ycmZCOGxkUUlyOURzSEl6cEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTI2MzcyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSEdQK2IzRjZQb0dKT1hUT0hua3RKcUhmQmJiZkJpdi9Tb2FNbDBRRmpENmNuWklPdjNSUUtIMTk2dUlpV1A3MjZ2emw3Ny9EZTI2ZnFBTU1RRGRLQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.327/Dayspring.app.tar.gz"
     }
   }
 }
