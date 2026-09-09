@@ -1,11 +1,11 @@
 {
-  "version": "1.0.328",
-  "notes": "- Made the formatting menu easier to spot so you can style your entries faster.",
-  "pub_date": "2026-09-09T04:04:29Z",
+  "version": "1.0.329",
+  "notes": "- Made the subject density band on insights screens clickable and usable, so you can quickly narrow down entries by topic.",
+  "pub_date": "2026-09-09T12:56:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9OQ2pQbm9TcVlrZEI1bXEzRGFIUjltY0oyZm8zQkhQODJXK1p6ejF6a1JMczgwNnFQRDhJM1ZMZFg5WFgrK2kybDEvUlZTT1dwME5OdXErb0g4NkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTI2ODEzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMUpXbGJhNVZJUEg3b1FlSXAvL2pTL09WdU1UN0JBb2x1UmFxMnBpWmhqKzJKWU1sZDBKZWt1ZVhmaGdLVGxOTjVUT3hEc1cxR0hUcG1rNXpVaVIyQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.328/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnMzcEQ1NzN4UHdKckdHaWo5cERSMlFYamJhemxjeitNZUJwV1U5azlLVm5LWXlubkZtbkZTa2p6anRTa2lCZjVtOFM5ak5LTGlWTmJBaEdaV3l3Tnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTU4NzMxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKYjlNUHN6N1cxM1d2ZEhPZkRBaE02T2M5akdYSVBuZmd4eGJDVWprRllEQXlvaG1JN2NlMXQwWmNQaVd6bjBBMm5ybXpiYjRUSFNBZXV5MVRRYTJrQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.329/Dayspring.app.tar.gz"
     }
   }
 }
