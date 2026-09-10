@@ -1,11 +1,11 @@
 {
-  "version": "1.0.333",
-  "notes": "- ✨ Made the new page feel clearer and easier to start using right away.",
-  "pub_date": "2026-09-09T22:57:03Z",
+  "version": "1.0.334",
+  "notes": "- Fix mobile login alignment so the login screen looks properly spaced and easier to tap.",
+  "pub_date": "2026-09-10T00:16:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1GWFlrbTgzazNjVTVyL2NidFhkVm1kZ2Q4cGN2WTdXNGxJOHVhMnBRR0dQdlNnNkwwSkpzNWxGN1ErdlY4OEg1ZzBQMmNVMXRlSEpaanBWWkNIdGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk0NzMyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWU0wbUZ3WGlMUmhEb0JRa1ZUYWZhWHNyVGFyeFlNRmU2ZDlSRVpsbXV5bDN0djZtZ1g5SDBpUkUzdEx5QTlYd3VWbWJDdEVvejB4RG5uMm1MWW16QlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.333/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh4b1JjZzhpMytmOXdFdGMrKzYyYkxlOHRvRW1abkFOSXFET3NEb1FYYlFpVkV2bzJ1VjZLY2s5c1hVZjdiUmNSZUx4NFRoYTNLaFAzRU55c2QzS2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk5NTExCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMGo0clhpcWpPZHdIaFJyaHcwQnUvNG85cnMwa2RNdnZxRy80ZkJ3ZE9WQVBBRnJmcVdJK203RndaTUp6UjdFNnA5bGR3UnV5WVhlSWVDd0tHT3RFQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.334/Dayspring.app.tar.gz"
     }
   }
 }
