@@ -1,11 +1,11 @@
 {
-  "version": "1.0.337",
-  "notes": "- Fixed an issue where the keeping playground could stop scrolling smoothly.",
-  "pub_date": "2026-09-10T14:18:55Z",
+  "version": "1.0.338",
+  "notes": "- ✨ Expanded the Keeping engine to use seven signals for gentler, more helpful insights about your journaling.",
+  "pub_date": "2026-09-10T14:56:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBpNmpISm1qakNWOVpPTWtYSUNNanY4a002MkY2amwzS01NVlpSM3c1OW41ZlVHOU9wQzlteDBBTlNkK2h3RHZuRm5WbFAxbjY2TDlNSkZERmVjQlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUwMDI4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKY2hyNjYxL1lXSU5YUG1LTGVzL3NqZGlRRUsyR2pSUnFidGNxTWlxQ0pZRUEzbnBVVEtnanE3ZmllT0l6QytGSUM0dVFoU2dNQWEwbWQxZ3ZLUjBYQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.337/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJWSUpmN2hWZG9WZlNVZXZtM3ZoUkFtR1pXRUh4TThWTjl5K1NmQnJEU1hPQ0FQcjVGNytxWnVCRzEwOWFwWlYrcUNhdjR5OUJJS0NKY3ZncEd1WWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUyMzA5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcVdhSFNRRGFVWUxFclppK1k4aGNwaFFtRHBQQ1crVXk2UWxGL0N0Mlh1clpSK2xPSmsyazZUaEFvZStCd0luZUh1M3ZsZ09XY0JkOXhaUm12WFVkQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.338/Dayspring.app.tar.gz"
     }
   }
 }
