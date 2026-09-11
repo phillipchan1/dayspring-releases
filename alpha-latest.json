@@ -1,11 +1,11 @@
 {
-  "version": "1.0.338",
-  "notes": "- ✨ Expanded the Keeping engine to use seven signals for gentler, more helpful insights about your journaling.",
-  "pub_date": "2026-09-10T14:56:16Z",
+  "version": "1.0.339",
+  "notes": "- Store listings and app store screens now show the correct release info for this version, without preview or internal trial details. \n- In-app store purchase actions should feel more reliable and easier to tap on iOS.",
+  "pub_date": "2026-09-11T14:19:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJWSUpmN2hWZG9WZlNVZXZtM3ZoUkFtR1pXRUh4TThWTjl5K1NmQnJEU1hPQ0FQcjVGNytxWnVCRzEwOWFwWlYrcUNhdjR5OUJJS0NKY3ZncEd1WWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUyMzA5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcVdhSFNRRGFVWUxFclppK1k4aGNwaFFtRHBQQ1crVXk2UWxGL0N0Mlh1clpSK2xPSmsyazZUaEFvZStCd0luZUh1M3ZsZ09XY0JkOXhaUm12WFVkQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.338/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNJaXZ4dlJBcXNFRVNPWCtSdERDWUY5Qm91Nzc0WjFXaWJ2MnZ4NURYUHo4TVdIRmZlYk1LSXdyWXU4YnBZS3F0Y0xHMDRHeUc3KzJOMEJoWDVqK2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM2NDU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMDRnd2FoR3FrenhodEl3Q1BaU3RnNzV5dGl6YVNKaHkyVEQrL2VCbWJSV3g2N1JMbzZGUW1PV2p0Wm1BZm5rS2ZuNjJlNVhJUXNVYTVxQXV0VTlZQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.339/Dayspring.app.tar.gz"
     }
   }
 }
