@@ -1,11 +1,11 @@
 {
-  "version": "1.0.339",
-  "notes": "- Store listings and app store screens now show the correct release info for this version, without preview or internal trial details. \n- In-app store purchase actions should feel more reliable and easier to tap on iOS.",
-  "pub_date": "2026-09-11T14:19:38Z",
+  "version": "1.0.340",
+  "notes": "- Retired practices won’t show up in generated lists anymore, so your journal setup stays clean and relevant.",
+  "pub_date": "2026-09-15T22:51:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNJaXZ4dlJBcXNFRVNPWCtSdERDWUY5Qm91Nzc0WjFXaWJ2MnZ4NURYUHo4TVdIRmZlYk1LSXdyWXU4YnBZS3F0Y0xHMDRHeUc3KzJOMEJoWDVqK2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM2NDU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMDRnd2FoR3FrenhodEl3Q1BaU3RnNzV5dGl6YVNKaHkyVEQrL2VCbWJSV3g2N1JMbzZGUW1PV2p0Wm1BZm5rS2ZuNjJlNVhJUXNVYTVxQXV0VTlZQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.339/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh6SVhrM0x6TDUwZk9sNDh5a1c5clN4aW5UeDF6R0lOSnNqYm5Va09aM0kwTmRDcjFIQW0wV3dPUTN2SU5DZXNhOFBXRG9oUHF1SzkyQ0VUTEdTVkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTEyODAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbEppUk16Vmp1ajVvYklWWTBZaVBVTkNnSG9oT2k2WjlhUGpjNUpMODcxUU1aVCtIWlNsMWhKUWJ2SUhBWm1QckEvNUNQMEpYMml4L085ZmlyRXFsQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.340/Dayspring.app.tar.gz"
     }
   }
 }
