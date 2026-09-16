@@ -1,11 +1,11 @@
 {
-  "version": "1.0.341",
-  "notes": "- Updated the Practices intro article to make the “13-form rebalance” walkthrough clearer.\n- Updated the rituals copy in the 13-form library, and added a new beta testimonial.",
-  "pub_date": "2026-09-15T23:59:20Z",
+  "version": "1.0.342",
+  "notes": "- ✨ Open the Summit and see your four Remember reminders together on a single calendar for a clearer view.",
+  "pub_date": "2026-09-16T00:59:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpvTk1xMXM2eENobDIzaE5lNFlkTXdZeW5za3FkWXlmUitvZGNDa2p3KzJ5MDNLajc4ZE5VbWJJS2ZYaWJJbFFGenF5L3lZd0MrK1czU05xSnVpRmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTE2OTExCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMU9rNUY3ZXh6andOK3IvWFFxcVhhK29HaUttYXpRb3VaM3pmaG03MTdHd2tJY245aGllRVRtNE02em5RSzR1YXBqZGRnaE9jOVhWRWhwcmhNaWR6QUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.341/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFXTUd1TmtQcmtRZ3RTY1dpOWthZlFyTkFVQ05hbHRpcnowTW1lelBTSVBMbFdyMys0RW1TVTVmWlQvMzZLVEZPVjJQVTNkeHozYXBzQU5VS243cFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTIwNDkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeml6MmdsbDRJakE0NkdUVTdrb1MwNXEvVVIwNksyUkNhcGJnQldvYU9HWm52dU5MWElFRmtldnZBMFJjQjlpQnRNNm1JM014dEN0bUk5U0kyYzU4Q0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.342/Dayspring.app.tar.gz"
     }
   }
 }
