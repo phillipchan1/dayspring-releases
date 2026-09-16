@@ -1,11 +1,11 @@
 {
-  "version": "1.0.340",
-  "notes": "- Retired practices won’t show up in generated lists anymore, so your journal setup stays clean and relevant.",
-  "pub_date": "2026-09-15T22:51:25Z",
+  "version": "1.0.341",
+  "notes": "- Updated the Practices intro article to make the “13-form rebalance” walkthrough clearer.\n- Updated the rituals copy in the 13-form library, and added a new beta testimonial.",
+  "pub_date": "2026-09-15T23:59:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh6SVhrM0x6TDUwZk9sNDh5a1c5clN4aW5UeDF6R0lOSnNqYm5Va09aM0kwTmRDcjFIQW0wV3dPUTN2SU5DZXNhOFBXRG9oUHF1SzkyQ0VUTEdTVkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTEyODAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbEppUk16Vmp1ajVvYklWWTBZaVBVTkNnSG9oT2k2WjlhUGpjNUpMODcxUU1aVCtIWlNsMWhKUWJ2SUhBWm1QckEvNUNQMEpYMml4L085ZmlyRXFsQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.340/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpvTk1xMXM2eENobDIzaE5lNFlkTXdZeW5za3FkWXlmUitvZGNDa2p3KzJ5MDNLajc4ZE5VbWJJS2ZYaWJJbFFGenF5L3lZd0MrK1czU05xSnVpRmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTE2OTExCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMU9rNUY3ZXh6andOK3IvWFFxcVhhK29HaUttYXpRb3VaM3pmaG03MTdHd2tJY245aGllRVRtNE02em5RSzR1YXBqZGRnaE9jOVhWRWhwcmhNaWR6QUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.341/Dayspring.app.tar.gz"
     }
   }
 }
