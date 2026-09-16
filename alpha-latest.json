@@ -1,11 +1,11 @@
 {
-  "version": "1.0.344",
-  "notes": "- Updated the Meta ad visuals with a Facebook Page cover photo and profile icon.",
-  "pub_date": "2026-09-16T02:54:55Z",
+  "version": "1.0.345",
+  "notes": "- Paid ad flow now shows a clear Enter → Use → Exit sequence.",
+  "pub_date": "2026-09-16T03:05:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm00RFJNK2J2R0htWFZjbDZkWFgvdnN4d1ZkMUo2OUxtbVJKcDFXb2I0TkJMTjVJQ3BWcFIyOFk3MHdRSnJsaTJtRDFPQlpLbm1iTDVKcVVBZFlHRkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI3NDU0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVFM4YlJ2NnhiaVpxZm9ZRS8vUko3M1RjcEhVaVQvRlZCY1ZzVjNHNWc1Qy9JRC9CZHFHZnRvd2p1TWFYNGdwRjlIYURyQ2d4ZXpySk5RZ0pxWnFrQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.344/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNsZzhobVlXZWlwM0p6MzhOa2s2MGhEbFVFWWdweW5vZHJuZndXL1YxQVZ0OHBUTEg3WTdnTVQ4QlcrR045QkFwaEthUzBSdzNqVzRtWEVmMnNOaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI4MDI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdmFYVCt6ZitKZjA5YkRieS9tSmtEK2pobkpBZUcyYVlTK2NpMXNOVmNqV3ZYQU5lYk9LV3BOZjFiRTlKaUxSM080bHVabmZxYk5pV0MvUTZ0Z011RGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.345/Dayspring.app.tar.gz"
     }
   }
 }
