@@ -1,11 +1,11 @@
 {
-  "version": "1.0.342",
-  "notes": "- ✨ Open the Summit and see your four Remember reminders together on a single calendar for a clearer view.",
-  "pub_date": "2026-09-16T00:59:11Z",
+  "version": "1.0.343",
+  "notes": "- ✨ Added a gentle ritual prompt so it’s easier to come back to your journaling and pick up where you left off.",
+  "pub_date": "2026-09-16T01:04:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFXTUd1TmtQcmtRZ3RTY1dpOWthZlFyTkFVQ05hbHRpcnowTW1lelBTSVBMbFdyMys0RW1TVTVmWlQvMzZLVEZPVjJQVTNkeHozYXBzQU5VS243cFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTIwNDkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeml6MmdsbDRJakE0NkdUVTdrb1MwNXEvVVIwNksyUkNhcGJnQldvYU9HWm52dU5MWElFRmtldnZBMFJjQjlpQnRNNm1JM014dEN0bUk5U0kyYzU4Q0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.342/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlnMDRhM1MxcVczNDF3VTZCdGZPajZsODJLbnhhU3FZZmwxeUM4NWozbUhQUWlSTTdkOVNHWWVBQjNkRnh1ZkZCSE95c2VLSDAwMVluL2xMc3RtOWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTIwODE3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQzNEZkVTYWxDTEw0K01PZkVrd1VvUDUvTzFUbm9FenZSaDk0S2poWWdYUU5KdEk5WjkyckhocTJFdzJWN2E5cW40djdkUjB2MFVrSm5MUDI1c2ZsQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.343/Dayspring.app.tar.gz"
     }
   }
 }
