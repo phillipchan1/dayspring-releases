@@ -1,11 +1,11 @@
 {
-  "version": "1.0.345",
-  "notes": "- Paid ad flow now shows a clear Enter → Use → Exit sequence.",
-  "pub_date": "2026-09-16T03:05:26Z",
+  "version": "1.0.346",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-09-16T03:23:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNsZzhobVlXZWlwM0p6MzhOa2s2MGhEbFVFWWdweW5vZHJuZndXL1YxQVZ0OHBUTEg3WTdnTVQ4QlcrR045QkFwaEthUzBSdzNqVzRtWEVmMnNOaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI4MDI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdmFYVCt6ZitKZjA5YkRieS9tSmtEK2pobkpBZUcyYVlTK2NpMXNOVmNqV3ZYQU5lYk9LV3BOZjFiRTlKaUxSM080bHVabmZxYk5pV0MvUTZ0Z011RGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.345/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRtTE9yVVQ4eGFSUkdFR3MzQnJDUE55SVdPVkVyd1lkQ1dzZHRhZWliK1V2Mm81Y2FTMXRyS3FCbjFVd0w2ampHOXZndklDcU9SenNrVE82WmlJdGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI5MjExCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaThCT3BuVytkS3B6dm5zSnVHZW9oRzd1eUljVHBSSFpzS0xBUHV3dXh1Vk02RTl4Nm0zRmdRSUNrVElRZTQySEVIVDBkWGRKZ0I5T3RzK2tTaW9NQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.346/Dayspring.app.tar.gz"
     }
   }
 }
