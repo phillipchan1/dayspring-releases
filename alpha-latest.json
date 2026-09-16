@@ -1,11 +1,11 @@
 {
-  "version": "1.0.343",
-  "notes": "- ✨ Added a gentle ritual prompt so it’s easier to come back to your journaling and pick up where you left off.",
-  "pub_date": "2026-09-16T01:04:27Z",
+  "version": "1.0.344",
+  "notes": "- Updated the Meta ad visuals with a Facebook Page cover photo and profile icon.",
+  "pub_date": "2026-09-16T02:54:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlnMDRhM1MxcVczNDF3VTZCdGZPajZsODJLbnhhU3FZZmwxeUM4NWozbUhQUWlSTTdkOVNHWWVBQjNkRnh1ZkZCSE95c2VLSDAwMVluL2xMc3RtOWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTIwODE3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQzNEZkVTYWxDTEw0K01PZkVrd1VvUDUvTzFUbm9FenZSaDk0S2poWWdYUU5KdEk5WjkyckhocTJFdzJWN2E5cW40djdkUjB2MFVrSm5MUDI1c2ZsQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.343/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm00RFJNK2J2R0htWFZjbDZkWFgvdnN4d1ZkMUo2OUxtbVJKcDFXb2I0TkJMTjVJQ3BWcFIyOFk3MHdRSnJsaTJtRDFPQlpLbm1iTDVKcVVBZFlHRkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI3NDU0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVFM4YlJ2NnhiaVpxZm9ZRS8vUko3M1RjcEhVaVQvRlZCY1ZzVjNHNWc1Qy9JRC9CZHFHZnRvd2p1TWFYNGdwRjlIYURyQ2d4ZXpySk5RZ0pxWnFrQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.344/Dayspring.app.tar.gz"
     }
   }
 }
