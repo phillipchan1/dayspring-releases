@@ -1,11 +1,11 @@
 {
-  "version": "1.0.347",
-  "notes": "- ✨ Let years you’ve outgrown become fresh starting points—open the years behind you and continue with something to build on.",
-  "pub_date": "2026-09-16T03:46:39Z",
+  "version": "1.0.348",
+  "notes": "- ✨ Made it clearer what the App Store offer actually includes, so the listing matches what you’ll use in the app\n- Improved how the purchase screen is reached, making the next step feel more direct and easy",
+  "pub_date": "2026-09-17T21:01:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmt5aWRQY21xZWFOcWRtaFdpNzZKSmJhZVdDN3d3aGlCMXh2LzVHRmV5N0VlRDAyQUZCcmdtUUZrOUJHWUFINUY5SDFseWJhZzVWWWNXSjdUTnA2dUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTMwNTA1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcXFEc1I5aXNUYUFOSDF0WnhRdk5TejU5M3A0cUVOaWRjc094Z2NvYUFkcFBNNXdOQ1drOWJ6dlhnNVpLcHA5Y3pMbk1YWjhkTDRrRTRVV1VvdERBRHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.347/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmg4Uysya3QzQ3VlUUphLzJncXVmYnlSb05FY3NWNjIwMWpJQzc4dXVNM2haekxCTlNVSmE3czQ3aS9wRWlaLzUwM0JuRElsSmZkaFZoNC93ZGt3RHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njc4OTk5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTWorK05JWU1iTXRmTjFLT2lRQ1RMWWxsZ2R1VmROODk2NS85dkcwNXA4K1duNjJiVTlHNGJ4eVE4T28rVFJaYmtWY2xDZ1hpc0pkQnhFQkhZWjBXQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.348/Dayspring.app.tar.gz"
     }
   }
 }
