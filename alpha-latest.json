@@ -1,11 +1,11 @@
 {
-  "version": "1.0.349",
-  "notes": "- Added an email sign-in option for cold web visitors, so they can get into Dayspring without relying on a free-trial pitch.",
-  "pub_date": "2026-09-17T22:50:09Z",
+  "version": "1.0.350",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-09-17T23:08:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVDRDFhaFRlQnk1NlZ3RTlSdzZGOWsxM3B3dkc3STBSNDFiaGxrY3haK2FTZG9EUGlZZlV0UE1JbzQ2OFhVS1Bpb3RaZWZGQmh3aXY4L3Z6NXRZS0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg1NTYzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcGppbmxkTGs0UTZaeG5QcTBhVTBnM0s4TUtiU3NkVExiMVJVa1F5a3VSR2VTQk5ST0JqUnZvcDdPTzNKL0YzSjZjREtPcndBRk5qbVZZbEcwU1UrREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.349/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVPWTQ3MFN2TnhQbVkrTHcwNFNjeU9EZWJKMjF6U2dSRnJVOXNXcUpXYWtiN09nd293ODBoYTJWZ29IZmVBNHJwMllFaUhqRmx0ZTBGRGJlUTd6bUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg2Njc3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNC8vRFgvM2l2WUJhR1BWZXZuVXViRmFqV21xd1JQUytydWFqZmxZck5Ka1RxaW45TzlvYjdCdURHd1B2RGVXSUJRWEhyVmJmN3pDeVRaVWljZ01yRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.350/Dayspring.app.tar.gz"
     }
   }
 }
