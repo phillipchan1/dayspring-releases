@@ -1,11 +1,11 @@
 {
-  "version": "1.0.351",
-  "notes": "- ✨ When you view your sentence, Dayspring now shows the verse it reached, with the focus kept nicely tight around that moment",
-  "pub_date": "2026-09-17T23:34:29Z",
+  "version": "1.0.352",
+  "notes": "- Made the menu labels more helpful by clearly naming what’s inside instead of just how to open it.",
+  "pub_date": "2026-09-18T00:01:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFCS1M4SkNsamMrY2FFUFlLM2FmSTI3WGVGNmNoR0FObHpwRThhbTFjNmphU2dnVTFoNVZtNm5VUmFVR0RPMjZ4cVpFTzZkaFNNbTdDREkxRS9CMWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg4MjA0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbEhPblpMRmt6dkM0dTBscXpyUjdhVVZ4TGhXNG9WQS9HdFEzRGR6RFB0QkdUa1VXWjVhNmNzOUtTS2R3UFIvd1RqVVVybS9TUWxvdnEyMlNaRHJLQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.351/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJ2WGVIVVVDRzF4TnBOOXRtMzhpYUNXTXdpK0lROGhUVm8xbFMwOTFBcVR2cmlTVU1ia3Z5bmNlQW9pV05YOFJ1ajJBQWs4Qjc0WG45TGdPeHk0d1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg5ODA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMkNkdEJ6RVJzYmpUMGh6NkREOXJkUnJTMTFkcThDdi9NWm1idko5MW5DeEk0bVcvb0Y2ejluN0FOS2RjMTlLZlNTdHNVaXJFVEk5WlZVQnRGcVNiQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.352/Dayspring.app.tar.gz"
     }
   }
 }
