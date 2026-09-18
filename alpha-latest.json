@@ -1,11 +1,11 @@
 {
-  "version": "1.0.352",
-  "notes": "- Made the menu labels more helpful by clearly naming what’s inside instead of just how to open it.",
-  "pub_date": "2026-09-18T00:01:45Z",
+  "version": "1.0.353",
+  "notes": "- Prevented sharing of real account prayers in public marketing images.\n- Fixed an issue where the app could show a surface without being able to clearly say what it is.",
+  "pub_date": "2026-09-18T02:58:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJ2WGVIVVVDRzF4TnBOOXRtMzhpYUNXTXdpK0lROGhUVm8xbFMwOTFBcVR2cmlTVU1ia3Z5bmNlQW9pV05YOFJ1ajJBQWs4Qjc0WG45TGdPeHk0d1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg5ODA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMkNkdEJ6RVJzYmpUMGh6NkREOXJkUnJTMTFkcThDdi9NWm1idko5MW5DeEk0bVcvb0Y2ejluN0FOS2RjMTlLZlNTdHNVaXJFVEk5WlZVQnRGcVNiQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.352/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRTNXhRTk5kN2p4OTZ4a2crdkpTcTF5ZXA5bk9rbDBQTklUSEFWTDBMeGpDV3Y3ZWViZVByTUo0NkFmNXRqTm5BUEU1eHJ2N2ExYy8vbFROWTFHYUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzAwNDM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbGdpbXRpTjdrTjFGcEd0NkdHSXJXQ0hIMmV0VVd2ZWJqK1dUYm5yUlZBWTR5a2xhR3VjeDJGZk5oazh4dDMvNEtuRGRuQXNGOVoweVVkTFMzblp2QkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.353/Dayspring.app.tar.gz"
     }
   }
 }
