@@ -1,11 +1,11 @@
 {
-  "version": "1.0.358",
-  "notes": "- Improved the Write entry screen so touch writing and controls are easier to use and properly findable.  \n- Added native support for ⌘, natively on iOS to open Dayspring’s in-app Settings.",
-  "pub_date": "2026-09-19T16:43:58Z",
+  "version": "1.0.359",
+  "notes": "- Block native text dragging on iOS to prevent a stranded “phantom” caret.\n- Fix caret placement so it no longer jumps to the end of the entry after the first save.",
+  "pub_date": "2026-09-19T17:03:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnAzMEVVUWhFR0lEY3d2REJvK0JNdkJjRFRINi8vVk9Pc29udG1rVVpqdUpzNjV5SmJSLzQ2bWtBcGpIRGZUOEk5QVp6bkFCVkpOSWZHL3crdjRYb1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM2NDAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKc04reHJOVUF1K0VTd3J4Yzh6VUVpakt6dzl0YjJDemYwZjJIVTAyNWJFUTRGYlFib2c0aDJVUTJ4cmtjR2t5YzlSRXFNcXNpdjFQcWFjK3hDTzBVQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.358/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmc5K2ZPWnFLbDN2SVRkL1RyRzU5bTg3MU1xTHBQOVlocmhOdzJ5RjVGRTBpdzFNcWZoWHVySEtIQlJwdllaWGo1SGFkT2VFakkvSmtncmdnMEZHeWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM3NTQ5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWjVZS2VXM0J5MkNGNktOVXVjSVFJM3NuMzJYb2d5cU5uSkRzVTltdnRBRTJOS0pBK2l2bFRuYkgzNUhQaGhyRWtFb1JSTVJ5THBCZVNQQ0JhN2xmRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.359/Dayspring.app.tar.gz"
     }
   }
 }
