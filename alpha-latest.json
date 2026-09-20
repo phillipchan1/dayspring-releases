@@ -1,11 +1,11 @@
 {
-  "version": "1.0.368",
-  "notes": "- Make R4 show up like a real journal, so entries read clearly at a glance.",
-  "pub_date": "2026-09-20T23:18:51Z",
+  "version": "1.0.370",
+  "notes": "- Keep the wall’s position as you write, so it feels like your journaling stays right where you left it, and remember which page you returned from.",
+  "pub_date": "2026-09-20T23:25:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVrdW5XT3U0RnRqYlVGVTgyejhKK3dMU0gyaEhoVGc5T09VdkVHNnd0cGJ4ZDhqSTl5WlVicXdRSVBiQU9iVFdpZ2ROMFlTWnZXZXA3eUwxU3d3NlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ2NDg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVGJLQm4vNDZLTmtkVWVnSFcxWW5ndkNlUFJhYUg4YXhJb3F0eDh3UmI3U0FkTC9PQmhkaXhKaHdFQU9wbldtb1BwaG15ZUdmZkx5QkIwMU9HT053QXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.368/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVSeG15cnRaR0FDOFZQKzlLY1pvZG1ycEZGN3FDSGRuNWROZG1VL2Q2SUtzVVQ1UEJtUHI2bEV1cWtWcWZNbFp5Yjlia2tXQnNRRzNFbUZlcmdVc0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ2ODQ3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbWNhd1BIdHhCSG9DMUtNbzh1WDBxYXVlWnRYdFE2TG5ERktYbDV3VDNIWmFkNFVpdVpGelptRUxwR1F4RDdqZnQyVldGQTRKTTU5Wjluemt4cStaQ3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.370/Dayspring.app.tar.gz"
     }
   }
 }
