@@ -1,11 +1,11 @@
 {
-  "version": "1.0.364",
-  "notes": "- 🌍 Dayspring now asks for location under Dayspring’s name (not “localhost”), so it feels more natural and trustworthy.\n- The right-hand rail in an open page now has better spacing, a floor, and shows the room the entry was written in.",
-  "pub_date": "2026-09-20T22:46:04Z",
+  "version": "1.0.365",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-09-20T22:49:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFKOEZNVVZybXU4Y2M1ZXgvR2N2V3B1c0MyWHVxcG9OeFg5bkg3SnJyUTM4TFRjSEwvMEZ0MnFjMjd1bm5FK1NRSUo1SDdwUk03RnNMWnRneGRVUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ0NTAwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUkFGcjVKTndMTjAwSTg5WXRlamtHWG5oRkhvS2N2RG53aGpydkdXRzlNbnlEZzJ1Tm9qL2JyWFVvYTZsNW9acCtyVUIrclp4M0tXZDFjWmxqc0p3RHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.364/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmoxVUVqN0l5d3RONk11U1kvSHI4SkJRNGsrQ21pU0xBK1orNGZNcGZlV3orcE9hS3o3SC9xUjdQQUFtb3h2RFN6bitQbmprZGRlMkx5TU1qUDBkZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ0Njk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL0F2WjRqWHkyL1VGN0YwcVdwZFl4clZ6dkIySFYzSmxqOWRSSGdYaVpBWTQ0ZVFjUDlLTzRoTUg5MXpDVndJaDNWdlVqSDg0N251VWROR0RHcDZqRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.365/Dayspring.app.tar.gz"
     }
   }
 }
