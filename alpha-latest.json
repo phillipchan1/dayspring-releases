@@ -1,11 +1,11 @@
 {
-  "version": "1.0.367",
-  "notes": "- 🎉 The flagship experience now includes a paid upgrade option, so the most standout journaling features can be supported directly.\n- Headlines are now able to “own” a frame, making the key moments in your entry feel more clearly organized.",
-  "pub_date": "2026-09-20T23:13:57Z",
+  "version": "1.0.368",
+  "notes": "- Make R4 show up like a real journal, so entries read clearly at a glance.",
+  "pub_date": "2026-09-20T23:18:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtDYkZxTXNtQVY1WDAwbE5USkFyWm9EdnVTSkFyWmo2emEvMXVFOHVESDNVMEFWaXRoY1RYQXI3TnJ4eE4xY1lIR1FyMEVmYXJzdndwWTVYa3JSOWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ2MTUzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeStRelIyeU42NEJHdFl2RWhIMWlLKzRwNEphbGdDUS90aEVKWHdPWXMrQ1ZSUnorYVlkem5KYjREUXlYcm5Ma2I3ZkxhY1M3T1Frcy8wU3AxVkhIQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.367/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVrdW5XT3U0RnRqYlVGVTgyejhKK3dMU0gyaEhoVGc5T09VdkVHNnd0cGJ4ZDhqSTl5WlVicXdRSVBiQU9iVFdpZ2ROMFlTWnZXZXA3eUwxU3d3NlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ2NDg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVGJLQm4vNDZLTmtkVWVnSFcxWW5ndkNlUFJhYUg4YXhJb3F0eDh3UmI3U0FkTC9PQmhkaXhKaHdFQU9wbldtb1BwaG15ZUdmZkx5QkIwMU9HT053QXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.368/Dayspring.app.tar.gz"
     }
   }
 }
