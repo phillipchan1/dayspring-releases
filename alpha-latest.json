@@ -1,11 +1,11 @@
 {
-  "version": "1.0.360",
-  "notes": "- The writing surface now responds to your touch more naturally, so jotting feels smooth and quick.",
-  "pub_date": "2026-09-19T23:59:24Z",
+  "version": "1.0.361",
+  "notes": "- Fixed a small issue where the slash-palette could highlight/select an option when the mouse was resting.",
+  "pub_date": "2026-09-20T15:29:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5CVGpiN2xDaE1RRW1ENkp0UXRIdmxxU1NydWxpTUR0MG14VVZRZVVmeDNhd21OczRUS3cwOFkwQXQ1ZVF3WEM3SmlsZHJEMzlJaG1QM3QwenIrdUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYyNDY1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaXFCY0JHbFRjSGtVK3AxQU9nNGQ1Tnp4c0Q4TWI3VmIraFJ0Tm12cU9CRi9NOTBhNlBvQ2RzdWplRDd2cU51V3Nxb1dndFRrMUhBNGkwQVV2WVBKQmc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.360/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnF4QlFzS0UwVDErTEc2SmlrSzlrR1hucjRYNFdpU2hJOGQ3UkQ1Mjkzc25UcTZFNHdLOEVXTXpPWDlRcVpKRjA4M0paVEcwSHQ5VlN2MzRCNTVQVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE4MjU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNGNnTnc4WnhaV2w4T1NIa2s4MmsyZTg2aDNZbjRGL2FhNGZ1VHZ5bnBDeFp0dXlEWkQ2eDQxazVVOE1sYmxLcWpLYWdJOUVDcTRNbExoVDVyWnppRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.361/Dayspring.app.tar.gz"
     }
   }
 }
