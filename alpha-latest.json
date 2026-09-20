@@ -1,11 +1,11 @@
 {
-  "version": "1.0.363",
-  "notes": "- The editor focus marker is clearer, and the “+” menu now lets you click to dismiss it.",
-  "pub_date": "2026-09-20T15:42:38Z",
+  "version": "1.0.364",
+  "notes": "- 🌍 Dayspring now asks for location under Dayspring’s name (not “localhost”), so it feels more natural and trustworthy.\n- The right-hand rail in an open page now has better spacing, a floor, and shows the room the entry was written in.",
+  "pub_date": "2026-09-20T22:46:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnN6dUdNV09LbUxqM2tZV0hCVEc5d21XalBxRDgzTFRhTGg3V1gvVFJqeklDY0RpbTQ2aFZFQlgydHFMdkhTTVdkQXE0Mkhqdlo4RG9za0FlN3YxYWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE5MDk2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKU2g2cEhXR2pqUTA0d0N5RUJHeUQ0STVnSnhIRWN5ZHJHTGQ4by9yNXdxVUNuZWEyZFZVcFhpeTd4U1JLRkk5MXpOcml3UmlOcWpjMXVPTHZyTi9SREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.363/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFKOEZNVVZybXU4Y2M1ZXgvR2N2V3B1c0MyWHVxcG9OeFg5bkg3SnJyUTM4TFRjSEwvMEZ0MnFjMjd1bm5FK1NRSUo1SDdwUk03RnNMWnRneGRVUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ0NTAwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUkFGcjVKTndMTjAwSTg5WXRlamtHWG5oRkhvS2N2RG53aGpydkdXRzlNbnlEZzJ1Tm9qL2JyWFVvYTZsNW9acCtyVUIrclp4M0tXZDFjWmxqc0p3RHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.364/Dayspring.app.tar.gz"
     }
   }
 }
