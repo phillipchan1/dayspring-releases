@@ -1,11 +1,11 @@
 {
-  "version": "1.0.362",
-  "notes": "- Improved scripture formatting so the scripture “fence” stays on its own line and paragraphs don’t get glued together across a verse.",
-  "pub_date": "2026-09-20T15:35:45Z",
+  "version": "1.0.363",
+  "notes": "- The editor focus marker is clearer, and the “+” menu now lets you click to dismiss it.",
+  "pub_date": "2026-09-20T15:42:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhtYTFnNk5sYkZERVZDZ2kwUEtPdDFmN054MGdsc0RMOTcwUk1UM3BTNHFsQWxNS0l4dzY2UVVEa2tJTUdrSmw1VThFc1JkSDUycWx5cnQ5R2VOcGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE4NjU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRmF0T2VWOUlwNDBYMlZuMTJFTEZEWGZhcSt2TFU4enRlZ2w0ajkvQk9ZNUZUdURvSTFhTUJVVkdiblhzSTN1MHJTajFWd3VuMnVaNTlEVFBBY1JIQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.362/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnN6dUdNV09LbUxqM2tZV0hCVEc5d21XalBxRDgzTFRhTGg3V1gvVFJqeklDY0RpbTQ2aFZFQlgydHFMdkhTTVdkQXE0Mkhqdlo4RG9za0FlN3YxYWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE5MDk2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKU2g2cEhXR2pqUTA0d0N5RUJHeUQ0STVnSnhIRWN5ZHJHTGQ4by9yNXdxVUNuZWEyZFZVcFhpeTd4U1JLRkk5MXpOcml3UmlOcWpjMXVPTHZyTi9SREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.363/Dayspring.app.tar.gz"
     }
   }
 }
