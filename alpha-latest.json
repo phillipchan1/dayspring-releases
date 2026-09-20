@@ -1,11 +1,11 @@
 {
-  "version": "1.0.365",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-09-20T22:49:52Z",
+  "version": "1.0.366",
+  "notes": "- ✨ Added a “Marking Scripture” prototype to help you highlight important phrases as you read\n- You can now dismiss the open chapter pane when you’re done with it\n- Improved citations so their cue stays visible even when there’s no hover",
+  "pub_date": "2026-09-20T22:56:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmoxVUVqN0l5d3RONk11U1kvSHI4SkJRNGsrQ21pU0xBK1orNGZNcGZlV3orcE9hS3o3SC9xUjdQQUFtb3h2RFN6bitQbmprZGRlMkx5TU1qUDBkZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ0Njk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL0F2WjRqWHkyL1VGN0YwcVdwZFl4clZ6dkIySFYzSmxqOWRSSGdYaVpBWTQ0ZVFjUDlLTzRoTUg5MXpDVndJaDNWdlVqSDg0N251VWROR0RHcDZqRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.365/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmx2WUlrOS92R3NOeGJsQm14R2dMZWM2Qm8xbzVERE8zV2Yxd2IvbUMvWXh0Y1B1ZG43ZWwra0JBVk9mRkhRUWVsSjhnMHk3U1RqaUhOb3BvNWkwRFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ1MDcwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL0NLZEJiUTBFZThxdlVwVGZQL3EreUVOTXBJWkhEMHpUdmJsZWw5RW9mZ1RFZ0loSlU0Vko4Mi9ieHY2Q3Qxa1BoNHgwQlB2ZkZHY205cmU0enQ5QlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.366/Dayspring.app.tar.gz"
     }
   }
 }
