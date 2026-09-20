@@ -1,11 +1,11 @@
 {
-  "version": "1.0.359",
-  "notes": "- Block native text dragging on iOS to prevent a stranded “phantom” caret.\n- Fix caret placement so it no longer jumps to the end of the entry after the first save.",
-  "pub_date": "2026-09-19T17:03:39Z",
+  "version": "1.0.360",
+  "notes": "- The writing surface now responds to your touch more naturally, so jotting feels smooth and quick.",
+  "pub_date": "2026-09-19T23:59:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmc5K2ZPWnFLbDN2SVRkL1RyRzU5bTg3MU1xTHBQOVlocmhOdzJ5RjVGRTBpdzFNcWZoWHVySEtIQlJwdllaWGo1SGFkT2VFakkvSmtncmdnMEZHeWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM3NTQ5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWjVZS2VXM0J5MkNGNktOVXVjSVFJM3NuMzJYb2d5cU5uSkRzVTltdnRBRTJOS0pBK2l2bFRuYkgzNUhQaGhyRWtFb1JSTVJ5THBCZVNQQ0JhN2xmRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.359/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5CVGpiN2xDaE1RRW1ENkp0UXRIdmxxU1NydWxpTUR0MG14VVZRZVVmeDNhd21OczRUS3cwOFkwQXQ1ZVF3WEM3SmlsZHJEMzlJaG1QM3QwenIrdUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYyNDY1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaXFCY0JHbFRjSGtVK3AxQU9nNGQ1Tnp4c0Q4TWI3VmIraFJ0Tm12cU9CRi9NOTBhNlBvQ2RzdWplRDd2cU51V3Nxb1dndFRrMUhBNGkwQVV2WVBKQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.360/Dayspring.app.tar.gz"
     }
   }
 }
