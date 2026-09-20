@@ -1,11 +1,11 @@
 {
-  "version": "1.0.361",
-  "notes": "- Fixed a small issue where the slash-palette could highlight/select an option when the mouse was resting.",
-  "pub_date": "2026-09-20T15:29:13Z",
+  "version": "1.0.362",
+  "notes": "- Improved scripture formatting so the scripture “fence” stays on its own line and paragraphs don’t get glued together across a verse.",
+  "pub_date": "2026-09-20T15:35:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnF4QlFzS0UwVDErTEc2SmlrSzlrR1hucjRYNFdpU2hJOGQ3UkQ1Mjkzc25UcTZFNHdLOEVXTXpPWDlRcVpKRjA4M0paVEcwSHQ5VlN2MzRCNTVQVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE4MjU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNGNnTnc4WnhaV2w4T1NIa2s4MmsyZTg2aDNZbjRGL2FhNGZ1VHZ5bnBDeFp0dXlEWkQ2eDQxazVVOE1sYmxLcWpLYWdJOUVDcTRNbExoVDVyWnppRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.361/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhtYTFnNk5sYkZERVZDZ2kwUEtPdDFmN054MGdsc0RMOTcwUk1UM3BTNHFsQWxNS0l4dzY2UVVEa2tJTUdrSmw1VThFc1JkSDUycWx5cnQ5R2VOcGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE4NjU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRmF0T2VWOUlwNDBYMlZuMTJFTEZEWGZhcSt2TFU4enRlZ2w0ajkvQk9ZNUZUdURvSTFhTUJVVkdiblhzSTN1MHJTajFWd3VuMnVaNTlEVFBBY1JIQ1E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.362/Dayspring.app.tar.gz"
     }
   }
 }
