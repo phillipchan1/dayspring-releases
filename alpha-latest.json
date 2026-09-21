@@ -1,11 +1,11 @@
 {
-  "version": "1.0.389",
-  "notes": "- Removed the wall shown above an open page for a cleaner, calmer journaling view.",
-  "pub_date": "2026-09-21T14:18:52Z",
+  "version": "1.0.390",
+  "notes": "✨ Added better insights tracking so Dayspring can remember your preferences and show more tailored reflection support.",
+  "pub_date": "2026-09-21T14:37:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhreFFKcUY1TWhOc2xFeFAwZjF5Y2dtTHdQejV3UzlNTlN2KzUwN2cxSUJjVEtEbWJKejhVb25PY2k5VmtwRlIyaHpvZGRqYkVHK2RKR0JYTjBmV1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDAwNDg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd2VOMGptZ3A4MS9hK0duMlFETHEvNms2VjJ1YWozMVV1UksrcEExcDl6WmlNK1RzV1hnZDJ6OTgrSnFHdXVkMEJJYVFVWDhUQUIwR09BckRiTHF2QkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.389/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJqK0lja0pnZGtyQVhLRW5qWFRHUlZxU0c3ZTVyTnBmL1NWZTBSRmNWSDVYMlc3OWkyaTNLcE1FQTJxSS8zYldVN3hwakhWMXNZYUx5a3drWFM4R2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDAxNTU2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKR3VmQ0tKVksveXhxQzRlWXBubWYvSDdQZ29wU24vVmhUb2JGbXgxT0tnS29BNG44MmFObkQxbitKeGdGM2diQVlDaTQvRGxZK1l1U0R1YjZ4MytQQ1E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.390/Dayspring.app.tar.gz"
     }
   }
 }
