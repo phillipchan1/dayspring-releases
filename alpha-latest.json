@@ -1,11 +1,11 @@
 {
-  "version": "1.0.410",
-  "notes": "- ✨ Open the Altar without having to jump through every subject first.",
-  "pub_date": "2026-09-21T23:07:50Z",
+  "version": "1.0.411",
+  "notes": "- ✨ The app’s first-paint intro experience now saves and loads more reliably by using the same local storage approach as the rest of the journaling flow.\n- The Terms now call the introductory period a “trial,” matching what you see in the app.\n- The Ascent is now named by the calendar.",
+  "pub_date": "2026-09-21T23:45:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtVS0VnbFBRdTByZ0pub1Yyc1FXOG9lUFZ0WXBBbW1GV2p0dDhaNHJEc1BoMmlKODJZbXovVWMxY1dzUmhCV0FqZFEwWmdpQUtaNFRjMDEwdzFiZGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMyMjM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWUc3WHRUTFk2TEE0TWkrbXlMUDJUMjhYeHFjWnduWm84UXpFRm1HRllaTTEreG1JWkZPdm1wbGN1M1hOTEwvUHk3dEozZWNYbURwekZVTHJ5NkljQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.410/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh3YVMxTklmeFRyN2czNjBYMENBcEtTMjg3UzVzc0JSZ1k4LzdsVE1yVm5IcjJKbGIzcE0rTS9nS091MEFEZHRqOGJIdWtxMDY4QzVoSERjSWFUQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDM0NDcyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKY1FpSWtpVHRQU2t2d0h4SGhaNXp2SjRHS2Y5dXU3VnRhY0F3dWYwM2owY2NqSk1FSjVpamJ1VFQ3ZzZQWjBFaTh3L051ak80YmlEL3R5eWdjWFZpRHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.411/Dayspring.app.tar.gz"
     }
   }
 }
