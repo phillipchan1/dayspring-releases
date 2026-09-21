@@ -1,11 +1,11 @@
 {
-  "version": "1.0.403",
-  "notes": "- Make the rail’s up-and-down motion visible during daybreak, so the change feels more real and satisfying.\n- ✨ Bring a preview of the new Contents view that shows closed months and seasons under the writer’s own name, along with each notebook’s covered span.",
-  "pub_date": "2026-09-21T21:07:38Z",
+  "version": "1.0.405",
+  "notes": "- ✨ Brought the new Ascent and Volumes experience to everyone, along with a First Light deck to help you get started.",
+  "pub_date": "2026-09-21T21:18:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnUyM1R3YVVaUUZhWTFFcW5XRk1uMzNHMEJtbjZpMGE2TlBkdHYzVWlWYTRpMmd0bE5Vcms1TTRvWWxUK083dHpNMStCSGl6bWRwSEo5TE1rVUxCM3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI0OTcxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVkUwK2prdEt6TmdYcEpIaFBLa3ZFNjJCYUl0YUV1eGdOSERZcXRMdkRrcEM0dUh0eVpmYzgrMmJQWWZXNkZ5dWJOOVVFeUV3Sk5aV0dzbkNvTjBMRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.403/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNtdUtNUUJjU2dtV2hzVFZtZEZmWlgvVG1JRkphMjNhNXZteXE3bzlzV2h4c0lDUmR0TDZxUlV1WkhpNFRTNmpid3hub2M0TysvVkNZWWlsb1poUndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI1NjIwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKa1RnazVsSytNNG93MHl1QzRKeGlhTTdtQjVON3JyaXVZRUF2aEgycW1XSXJ0NjByYkN5ay9sOEExby9nR0crTlMrcHBDcmppNEZEbU9BZndHZUM0Qmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.405/Dayspring.app.tar.gz"
     }
   }
 }
