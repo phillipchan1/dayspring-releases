@@ -1,11 +1,11 @@
 {
-  "version": "1.0.378",
-  "notes": "- Keeping things smoother: a delete confirmation now stays on the current screen instead of taking you to a neighboring page.",
-  "pub_date": "2026-09-21T03:37:27Z",
+  "version": "1.0.380",
+  "notes": "- You can now rearrange and choose pages on your wall by dragging them, not by tapping their text",
+  "pub_date": "2026-09-21T03:46:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmwvVDBKZ0lLa3ZkZ2xRZExVeldKLytHTWRNRWY1T3k5Y3NQVDR3YkFCb0lLNXRORklnamJvajNlbTBhRDVqeVowYmRPb0lqdExwUWFESVJsb21TZndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYxOTc2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQWh2OFlkWjBkRm9QakR4aTZmeTBld3dXa1dsR2t3cmdHQ0tSZUIxcFM4c2w5V3ZNa2lJZE9NYitXWlRKbkhMNjQ3SVUzNGZGKzRzL3g1U200dkZCQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.378/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRYRzRtbUdRb01qRjRRVjA1VVQ4cHczUWlkWEFLbjhqVEpjWTR0SnNzSCsrN256V1hrYlpqWkhmZ0lGdkZYSk10cHdsQ3QrVHNnY2ZRNmhEckY2b1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYyNDk2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKU0cwOWFZZWRLZTlzVFlMZE9BN2VEcG9NS2JGV3RRMVMrV0tGSnVJRHBack1hblRtZk9CaVJxTi83bytleThxSWxwWm5xRE10TWYwQndEVnhxMURRRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.380/Dayspring.app.tar.gz"
     }
   }
 }
