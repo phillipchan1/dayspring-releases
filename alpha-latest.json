@@ -1,11 +1,11 @@
 {
-  "version": "1.0.394",
-  "notes": "- Added a new way to write: “the climb back,” letting you include month, the “real seasons,” and the year as passages in your entries.",
-  "pub_date": "2026-09-21T17:41:05Z",
+  "version": "1.0.396",
+  "notes": "- Markers now show where each new volume begins on the page wall, making it easier to pick up exactly where you left off.",
+  "pub_date": "2026-09-21T17:49:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5TZkF0Y2RmenVaSHBzSjcxcnllN295bms4Tkg4aHVDbFFtWHJINjkrS0lIMzhFVVhqMllsYWZJQmlhMzhtVGp3c0xMSThpMS9OUXFJWjZRVTFIVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDEyNjIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKT00wUGVjZG1PVTZXU2d2T2lJQncyUk1Gc1A5czlqZlBzNTNVNU9EN2I4SWlkSGdNNlVVbUtVWFIrbzRlNU96ZUhJZmNxNkcxM1g5MHErVE9wa2xHQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.394/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVkZG80UmhTMFl6eXdET216WVpMdVkwVCtMY2p5ZzZ0U1YwWVIyVGxRRzVGc1lKZzBQemNBT2ZMMlRnRUtxK3JCd2RmY2FTMFgxb3gyMVkwQ0YzdGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDEzMTE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcTlHSnBvVnljaUNSRjFobWZnc1lxczN3U2ZyMWFwSzhKYlFqMDlPTnJQN1N5UXpGdGlDbkFKMEpoaDZsdWRQQXluZXNhVldHbWxCbFhvRW1Sd1cwRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.396/Dayspring.app.tar.gz"
     }
   }
 }
