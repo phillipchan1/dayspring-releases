@@ -1,11 +1,11 @@
 {
-  "version": "1.0.384",
-  "notes": "- ✨ Your home screen now tells one continuous story, while your rituals have their own dedicated page.",
-  "pub_date": "2026-09-21T04:06:41Z",
+  "version": "1.0.386",
+  "notes": "- Made it smoother to enter and leave a ritual page.",
+  "pub_date": "2026-09-21T04:57:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtaRFdHeENxSEYyNmpnbmM1ZnpiYnRZUEE4Y2pXUEg4SkN5aHhZZ3JlV1pUZjU4RFlwYWxOWVJrbVU4eEcyV05zT2dnN0lwZFVEUjRJMFFxRXI5MkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYzNzIzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOVg2Snk5ZHdNSlY2bWRHMWdpODY4Q0dtL2hWZjVTZzNHWHZ2RjE4OTlSN3FnQ0xDT2hjeHBjQ0QxQnNmQ285cUR6VmdydnpELzk2Yzh2elhXZFdiQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.384/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVWUW55bDd6clc2VFpEODlHYlRnUmdHb2VkMkhmaW90THhMVHNxYkd2cXZSWUFwYVdiMjVqcFMvMWE1akxwOVIwVng4ZGwybjF5ckd3TnZ5UFFDa1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTY2NzUxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKK0hhVnkyZCtQTVRpbDdDbnhiQlJyR0VsSHJSK05Pc1pld2YrcEEwQ0F4YUFzVEZOMXZJWUxVQ1M0N1lLby9ockhMTWNTc2F1bUJQaStIclFnNlMvQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.386/Dayspring.app.tar.gz"
     }
   }
 }
