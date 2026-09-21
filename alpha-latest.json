@@ -1,11 +1,11 @@
 {
-  "version": "1.0.397",
-  "notes": "- Widened the display so the “told-back” climb now uses the full space, making entries feel more immersive.\n- Updated the Ridge’s “piles” so they now clearly show what each one is.",
-  "pub_date": "2026-09-21T18:49:30Z",
+  "version": "1.0.398",
+  "notes": "- ✨ You can now use Volumes to help you organize your writing, with named months and seasons, and read through a connected thread across multiple volumes.",
+  "pub_date": "2026-09-21T18:54:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnE5L2ZJdWpSL3JLTnJiRlRMNHRLUkpYWTNaem52SGM5S2d4aW9SSWRBYkdSdnlmT3JWN0VPcWZzaHVUOVB3YVVIZHY5UnhFelVvd3d4dmx2VjZEbFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDE2NzEyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKckM1dTdqdHJNaFJueC9vV0VXanhhUXBFOUJaZmR2REZHeFNwc3R1Z1ExMHNMdC9qTy9IVnZBckxJRVBTV0h0UkRVMkxjU2FuUlBCZEFwSWRKR1R6RFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.397/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxqak9ua3BGcG9BNUlWTEQ1eEczb3FxOXFjZlJJTEhMbzFKOEdFWVdFU3crM3N0MWdSalprZElpYmh0SlNjcW1ZRDgwVHovSG44TnNoTmpXZGpyb0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDE3MDI2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ2p2M1JXMEVqUVU5M0FqNmdtaWlxeFVEUURNNGVrNlhudjE4SWpKMGRwLzh0QTkzSEt6T3hBcTczK2FDbjFXQ3ZWMzFTdDcrQlpDYXlNSkJLb3VrRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.398/Dayspring.app.tar.gz"
     }
   }
 }
