@@ -1,11 +1,11 @@
 {
-  "version": "1.0.371",
-  "notes": "- ✨ Made rituals feel more like real desk-space with a guided path and a single question per page.",
-  "pub_date": "2026-09-20T23:35:48Z",
+  "version": "1.0.373",
+  "notes": "- Open a completed ritual again so you can revisit it whenever you want.",
+  "pub_date": "2026-09-21T02:25:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBuUHZOSEl3TGExQ0lsWUZQNjFWK04ycWxGTmRGSkJOMjdYSVhVZ2c2VkdmSTJqa25Gd0krQXU5UnB2MVRZRlJJSkpld3ZiWWUrVzdrcXN6N2VtTHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ3NDc5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMEtvdkRmUFlWSWlWNGcwOWpZa25DOTBYQ3NrKzB5alFibTl2QVlJZjV0aGwrOUcwdHdJMmVkcHFlSldrM1hmUWpvd2d2QTFBNHp4RkVTeFdIRDlsQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.371/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlMcGUvWm8xUWtmcER4ZFFFWFdZckhwa0VWekdZQUVnY3lydFlKckJPdnZMMnMvZzRiTEVmbHhxd0NacE9HT0YrTWNTVnIzYU5OUHNtR295RTRJTHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU3NjIxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKckFzQUoxVFRETUkyWFBFSFNzV1BjY1MrV2xZNkdSNlE0bHFIdHB6U25rblpmL3Nud3U5c3pSV1Q3QUJJMnNObnpUczdMa2hXT1RiOTNLK25HRTVQQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.373/Dayspring.app.tar.gz"
     }
   }
 }
