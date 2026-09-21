@@ -1,11 +1,11 @@
 {
-  "version": "1.0.392",
-  "notes": "- Closed the slash palette automatically when opening Settings or Find, so the screen doesn’t overlap and everything stays easy to use.",
-  "pub_date": "2026-09-21T16:29:03Z",
+  "version": "1.0.393",
+  "notes": "- ✨ Writing prompts and reflections no longer show a stray “naming marker” artifact, so your entries feel cleaner and more natural.",
+  "pub_date": "2026-09-21T16:41:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWms2V1pyTTVLSDRoUHBKTnJHR1FRTzI1TVp2ZE1ONjFjVFVmQ0FCd1NPOTdVWVU3MlR5dzNIa08wWWo2NDg0dENWdTFLQ2cyMlNDWHlhNEpyYjcvZEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDA4MjgwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdm5WV3FQQnRnMXNQRVd3bmkvY003akdLbnROT1dpdnVQNks0cWMrczRKanhhVU0wM3NZRlQrREJybUUxeFR6bTVTZjRjaTg0dGxTU3c5M1NoRG1VQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.392/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh4ZUtJV2Y2TUZoSzBaZ2tJeGo5NnVaQTJ3emszUTFxWUZhRnVJS2dxT0VVMXo4amc1YWxKQm1VYmd5aHMycUxLeS84UVJsNnlpbHZxMXNnM2crMEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDA5MDMzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSUQ0SjZzMFRzZ0dmL2lIaWhrNVhCVjN2YUcvRWJMUTlvYUZ2TXRQME4vRndxSEx1UExCV2kyZWtIWjN1enkvWGtqTDFFSHhTYVN3U3puTFBRTzlRQ3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.393/Dayspring.app.tar.gz"
     }
   }
 }
