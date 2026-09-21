@@ -1,11 +1,11 @@
 {
-  "version": "1.0.393",
-  "notes": "- ✨ Writing prompts and reflections no longer show a stray “naming marker” artifact, so your entries feel cleaner and more natural.",
-  "pub_date": "2026-09-21T16:41:25Z",
+  "version": "1.0.394",
+  "notes": "- Added a new way to write: “the climb back,” letting you include month, the “real seasons,” and the year as passages in your entries.",
+  "pub_date": "2026-09-21T17:41:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh4ZUtJV2Y2TUZoSzBaZ2tJeGo5NnVaQTJ3emszUTFxWUZhRnVJS2dxT0VVMXo4amc1YWxKQm1VYmd5aHMycUxLeS84UVJsNnlpbHZxMXNnM2crMEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDA5MDMzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSUQ0SjZzMFRzZ0dmL2lIaWhrNVhCVjN2YUcvRWJMUTlvYUZ2TXRQME4vRndxSEx1UExCV2kyZWtIWjN1enkvWGtqTDFFSHhTYVN3U3puTFBRTzlRQ3c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.393/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5TZkF0Y2RmenVaSHBzSjcxcnllN295bms4Tkg4aHVDbFFtWHJINjkrS0lIMzhFVVhqMllsYWZJQmlhMzhtVGp3c0xMSThpMS9OUXFJWjZRVTFIVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDEyNjIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKT00wUGVjZG1PVTZXU2d2T2lJQncyUk1Gc1A5czlqZlBzNTNVNU9EN2I4SWlkSGdNNlVVbUtVWFIrbzRlNU96ZUhJZmNxNkcxM1g5MHErVE9wa2xHQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.394/Dayspring.app.tar.gz"
     }
   }
 }
