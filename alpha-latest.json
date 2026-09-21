@@ -1,11 +1,11 @@
 {
-  "version": "1.0.396",
-  "notes": "- Markers now show where each new volume begins on the page wall, making it easier to pick up exactly where you left off.",
-  "pub_date": "2026-09-21T17:49:46Z",
+  "version": "1.0.397",
+  "notes": "- Widened the display so the “told-back” climb now uses the full space, making entries feel more immersive.\n- Updated the Ridge’s “piles” so they now clearly show what each one is.",
+  "pub_date": "2026-09-21T18:49:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVkZG80UmhTMFl6eXdET216WVpMdVkwVCtMY2p5ZzZ0U1YwWVIyVGxRRzVGc1lKZzBQemNBT2ZMMlRnRUtxK3JCd2RmY2FTMFgxb3gyMVkwQ0YzdGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDEzMTE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcTlHSnBvVnljaUNSRjFobWZnc1lxczN3U2ZyMWFwSzhKYlFqMDlPTnJQN1N5UXpGdGlDbkFKMEpoaDZsdWRQQXluZXNhVldHbWxCbFhvRW1Sd1cwRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.396/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnE5L2ZJdWpSL3JLTnJiRlRMNHRLUkpYWTNaem52SGM5S2d4aW9SSWRBYkdSdnlmT3JWN0VPcWZzaHVUOVB3YVVIZHY5UnhFelVvd3d4dmx2VjZEbFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDE2NzEyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKckM1dTdqdHJNaFJueC9vV0VXanhhUXBFOUJaZmR2REZHeFNwc3R1Z1ExMHNMdC9qTy9IVnZBckxJRVBTV0h0UkRVMkxjU2FuUlBCZEFwSWRKR1R6RFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.397/Dayspring.app.tar.gz"
     }
   }
 }
