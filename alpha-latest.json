@@ -1,11 +1,11 @@
 {
-  "version": "1.0.402",
-  "notes": "- ✨ Make it easier to find your older entries by letting Volumes use date-based names, plus keeping the week’s display nicely full-width while you scroll and use the Answer filter.",
-  "pub_date": "2026-09-21T20:47:42Z",
+  "version": "1.0.403",
+  "notes": "- Make the rail’s up-and-down motion visible during daybreak, so the change feels more real and satisfying.\n- ✨ Bring a preview of the new Contents view that shows closed months and seasons under the writer’s own name, along with each notebook’s covered span.",
+  "pub_date": "2026-09-21T21:07:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5pY1I4RlBCYkphRU5vemZ0dEZnLzhneE8rdGNDUEdOTnVVU2hHazg2Z0k2RGNqVWNIR1hoQjJZekVBd2t1dmdraWUxYXBlQkw5Umo4di9NTWpNZmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIzODAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKK2R3MXdOOE1Vd2J2cHVNNnlIWXVuRW5OY3N5MVp1d1Y4UUdjUVNzSHFDS1RzaVhwSUtsOCtmWWZ6YVpoUG5oa2xsMUFkbjRjb3Q2cDZBRGtJYkJXQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.402/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnUyM1R3YVVaUUZhWTFFcW5XRk1uMzNHMEJtbjZpMGE2TlBkdHYzVWlWYTRpMmd0bE5Vcms1TTRvWWxUK083dHpNMStCSGl6bWRwSEo5TE1rVUxCM3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI0OTcxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVkUwK2prdEt6TmdYcEpIaFBLa3ZFNjJCYUl0YUV1eGdOSERZcXRMdkRrcEM0dUh0eVpmYzgrMmJQWWZXNkZ5dWJOOVVFeUV3Sk5aV0dzbkNvTjBMRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.403/Dayspring.app.tar.gz"
     }
   }
 }
