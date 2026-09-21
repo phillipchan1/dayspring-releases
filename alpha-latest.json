@@ -1,11 +1,11 @@
 {
-  "version": "1.0.406",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-09-21T21:27:51Z",
+  "version": "1.0.407",
+  "notes": "- 🎉 Added a new “Volumes” option to the Pages selector, plus a Volume shelf on the calendar for easier browsing. \n- Made “Back” feel smoother and more direct while navigating your days. \n- Updated the calendar header so it reaches the relevant info more clearly at a glance.",
+  "pub_date": "2026-09-21T21:34:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmozQlhQRHhSVmRPV3pVWnlmay8rUnlSVDk1NnlFTndTczJjVzlrRmVXQ2JBc0w2QllRVzNncDNZTURVZjB1NXFqalMxWWdpajNoekdzOGlZbUNKR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI2MjU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeERUdVpLUjV5eTZvVUtIdnBFeXhncTUwS0U0T1REWFQ2VmQ3WHBsNGhrY1JoMzZrVm92OThyKzV3NWRpSlM3SzhxK2kxMzFHeVYzTHovYjdIOTJQQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.406/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhuYXhuTk42ZkJZdUZGSThldzhVRmJmZFJyTThNN0Y2QmVTcVplQ1pZR25SckVyQUROMWZLcGxtdkErTU5DNmo2alBJdVdFZWlDcmVIdElvY3VYYmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI2NTk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbE1MamRnTVRpNmNBTTJ4bExiSE1pMTZld2ViUytXRDY0dmhhbjlSeERsYi9iaDZ6WnBPQkkvdDNDVWRVYW5YQjJGMWE2em9GSEFBVW9OeUhwT25sQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.407/Dayspring.app.tar.gz"
     }
   }
 }
