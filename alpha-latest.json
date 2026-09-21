@@ -1,11 +1,11 @@
 {
-  "version": "1.0.405",
-  "notes": "- ✨ Brought the new Ascent and Volumes experience to everyone, along with a First Light deck to help you get started.",
-  "pub_date": "2026-09-21T21:18:25Z",
+  "version": "1.0.406",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-09-21T21:27:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNtdUtNUUJjU2dtV2hzVFZtZEZmWlgvVG1JRkphMjNhNXZteXE3bzlzV2h4c0lDUmR0TDZxUlV1WkhpNFRTNmpid3hub2M0TysvVkNZWWlsb1poUndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI1NjIwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKa1RnazVsSytNNG93MHl1QzRKeGlhTTdtQjVON3JyaXVZRUF2aEgycW1XSXJ0NjByYkN5ay9sOEExby9nR0crTlMrcHBDcmppNEZEbU9BZndHZUM0Qmc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.405/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmozQlhQRHhSVmRPV3pVWnlmay8rUnlSVDk1NnlFTndTczJjVzlrRmVXQ2JBc0w2QllRVzNncDNZTURVZjB1NXFqalMxWWdpajNoekdzOGlZbUNKR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI2MjU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeERUdVpLUjV5eTZvVUtIdnBFeXhncTUwS0U0T1REWFQ2VmQ3WHBsNGhrY1JoMzZrVm92OThyKzV3NWRpSlM3SzhxK2kxMzFHeVYzTHovYjdIOTJQQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.406/Dayspring.app.tar.gz"
     }
   }
 }
