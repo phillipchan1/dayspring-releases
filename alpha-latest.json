@@ -1,11 +1,11 @@
 {
-  "version": "1.0.408",
-  "notes": "- Fixed the iPad status bar display and resolved the App Store price display so everything looks right.",
-  "pub_date": "2026-09-21T22:27:34Z",
+  "version": "1.0.409",
+  "notes": "- The Ascent now holds up nicely in your hand on phone-sized screens, with better layout for the mountain, targets, and an easy way to back out",
+  "pub_date": "2026-09-21T23:00:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1xanRWdXcvcmxXUURjMSttWlM4THBhczhZZEJySWJFMFhRZ0FiUnU4YVdHd1dhT1NSNVZiWEVFNThNRnVxcHR5UEYrWW5ORE9PanNZYXloL1lvL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMwMDkzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKM3VraE5ZcXlQT1VpakFCS0h6QllYazk4ajZraWxpRmRTTCtOcFJoeHRjSHgvYnFybkQvOU5oQkxSUURKaTlHMVlKUzNJajFSTDFkMkE1YWxBYms2QXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.408/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNlalNoWFlqQVVMZnVrdmRmeUVONVhsUndzVHFhTExaMUxSWTRDd09jYWhnWFBoZDFjd0F6RXJtdTg2WkxRRjJaUTIrQ0VZcTIwVU9GTTV2UEVGTlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMxODEyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKajBpc2VJMFBGdGVGN05NMENJSUhKd2ZWMW1tYUtmU0o2dldTR3JXU01hRDNFM3NQaGNjd3BidmZtRlo4R0psaHpPTVZYRW1MV1haTk1hME85dUdvQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.409/Dayspring.app.tar.gz"
     }
   }
 }
