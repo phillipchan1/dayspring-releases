@@ -1,11 +1,11 @@
 {
-  "version": "1.0.398",
-  "notes": "- ✨ You can now use Volumes to help you organize your writing, with named months and seasons, and read through a connected thread across multiple volumes.",
-  "pub_date": "2026-09-21T18:54:16Z",
+  "version": "1.0.399",
+  "notes": "- ✨ New climb view: choose Week, Month, Season, or Year, and see exactly where you’re standing—plus a “year mountain” laid out across your months.",
+  "pub_date": "2026-09-21T19:55:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxqak9ua3BGcG9BNUlWTEQ1eEczb3FxOXFjZlJJTEhMbzFKOEdFWVdFU3crM3N0MWdSalprZElpYmh0SlNjcW1ZRDgwVHovSG44TnNoTmpXZGpyb0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDE3MDI2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ2p2M1JXMEVqUVU5M0FqNmdtaWlxeFVEUURNNGVrNlhudjE4SWpKMGRwLzh0QTkzSEt6T3hBcTczK2FDbjFXQ3ZWMzFTdDcrQlpDYXlNSkJLb3VrRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.398/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJSU3NuT2pBblY2YlZ1cE5wV3QwSXpQSFBJZFROaFhIbGNLOGVnMDNyUlM5OTFkOGRqYWVCZTh0dzVhcFdmY1hKdXVDZ2NSZWZSYlp3UndxSHR3V3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIwNjUyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRi93VjZlazNHVGJnbHVmWDVFVks3YlN6cWoxdWhuc1VvUmUvT0h5aCtSd012emhUM3F3U2QyZjA5akxYeDMxWWJyS2lydEgvS1k2UjV1eEZmTk5xRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.399/Dayspring.app.tar.gz"
     }
   }
 }
