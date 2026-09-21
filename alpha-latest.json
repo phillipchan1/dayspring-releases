@@ -1,11 +1,11 @@
 {
-  "version": "1.0.390",
-  "notes": "✨ Added better insights tracking so Dayspring can remember your preferences and show more tailored reflection support.",
-  "pub_date": "2026-09-21T14:37:27Z",
+  "version": "1.0.391",
+  "notes": "- ✨ When journaling, Dayspring now helps you read your year as a set of recurring threads you kept coming back to.",
+  "pub_date": "2026-09-21T16:20:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJqK0lja0pnZGtyQVhLRW5qWFRHUlZxU0c3ZTVyTnBmL1NWZTBSRmNWSDVYMlc3OWkyaTNLcE1FQTJxSS8zYldVN3hwakhWMXNZYUx5a3drWFM4R2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDAxNTU2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKR3VmQ0tKVksveXhxQzRlWXBubWYvSDdQZ29wU24vVmhUb2JGbXgxT0tnS29BNG44MmFObkQxbitKeGdGM2diQVlDaTQvRGxZK1l1U0R1YjZ4MytQQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.390/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRXZHRxNG1tdnRJM29JejNTTUQxdWhXQ2F1NnV0c01UN2d6NmZUK29VcTlwWTFtZlhabVRsRDNqZXUrdVM4M3BCSEpucy9vOHBtRGxKZXVRVER1VHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDA3NzAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRTdrUWNQU25McTNkM1l2b3o1ejFLUjJ0L2J6anJnOExiTUF5OXdZemhaVDNUbVhEVFhsOURObVlOQWpqOXpNdmRWQlE3RlJZd21wYzkrZW5vaXltREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.391/Dayspring.app.tar.gz"
     }
   }
 }
