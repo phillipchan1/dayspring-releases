@@ -1,11 +1,11 @@
 {
-  "version": "1.0.382",
-  "notes": "- Fixed the ritual rail so pressing ⌘↵ no longer accidentally toggles focus mode underneath it",
-  "pub_date": "2026-09-21T03:54:33Z",
+  "version": "1.0.384",
+  "notes": "- ✨ Your home screen now tells one continuous story, while your rituals have their own dedicated page.",
+  "pub_date": "2026-09-21T04:06:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhmbG4xUndsSUtRcXVMR1NycXl3VTBzazBJc2NsbjkvUy9GQmRoS0JIaGJseUMyVWNFQk1NNzlHWW9XeklpaHZjdWlSSC9SZDRFVDJqTkZuZW9YeUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYzMDI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTlB0QkRnSzYvNXZlRzZnTzRZRWMzUHQvQWliRWlMM3J0eS9aajIzYWlJTzdtWHRmcEowVFhtUVRVRENVcm84ais0OTcrRTRSZWZ4aDVwWk03SnlaQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.382/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtaRFdHeENxSEYyNmpnbmM1ZnpiYnRZUEE4Y2pXUEg4SkN5aHhZZ3JlV1pUZjU4RFlwYWxOWVJrbVU4eEcyV05zT2dnN0lwZFVEUjRJMFFxRXI5MkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYzNzIzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOVg2Snk5ZHdNSlY2bWRHMWdpODY4Q0dtL2hWZjVTZzNHWHZ2RjE4OTlSN3FnQ0xDT2hjeHBjQ0QxQnNmQ285cUR6VmdydnpELzk2Yzh2elhXZFdiQ1E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.384/Dayspring.app.tar.gz"
     }
   }
 }
