@@ -1,11 +1,11 @@
 {
-  "version": "1.0.388",
-  "notes": "- 🎉 Added a rebuilt welcome tour to help new writers find their way around the app.",
-  "pub_date": "2026-09-21T14:03:24Z",
+  "version": "1.0.389",
+  "notes": "- Removed the wall shown above an open page for a cleaner, calmer journaling view.",
+  "pub_date": "2026-09-21T14:18:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlTTVV0RUJiYUx6Zk9EN2FubHNaVmo0cTZ1S0dyWHZQUG5SODU4dlBqMUlybHhuTXdDQmVYa3N0cXE4a1A1OWdkczZKL2Y0bVQ2SFRrNTc1bElSNlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTk5NTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdTlsWVBTMUVOWXFKcVFaVmdkNkFJYmdRSEdmZWgyNStxbHA5UGN3NW41VllBSFB2RkVjcFcvWDBBMDE4V3FnSXlNYzVHQnpEQVhJZTRJOWREMURUQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.388/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhreFFKcUY1TWhOc2xFeFAwZjF5Y2dtTHdQejV3UzlNTlN2KzUwN2cxSUJjVEtEbWJKejhVb25PY2k5VmtwRlIyaHpvZGRqYkVHK2RKR0JYTjBmV1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDAwNDg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd2VOMGptZ3A4MS9hK0duMlFETHEvNms2VjJ1YWozMVV1UksrcEExcDl6WmlNK1RzV1hnZDJ6OTgrSnFHdXVkMEJJYVFVWDhUQUIwR09BckRiTHF2QkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.389/Dayspring.app.tar.gz"
     }
   }
 }
