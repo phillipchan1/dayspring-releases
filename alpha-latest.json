@@ -1,11 +1,11 @@
 {
-  "version": "1.0.409",
-  "notes": "- The Ascent now holds up nicely in your hand on phone-sized screens, with better layout for the mountain, targets, and an easy way to back out",
-  "pub_date": "2026-09-21T23:00:54Z",
+  "version": "1.0.410",
+  "notes": "- ✨ Open the Altar without having to jump through every subject first.",
+  "pub_date": "2026-09-21T23:07:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNlalNoWFlqQVVMZnVrdmRmeUVONVhsUndzVHFhTExaMUxSWTRDd09jYWhnWFBoZDFjd0F6RXJtdTg2WkxRRjJaUTIrQ0VZcTIwVU9GTTV2UEVGTlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMxODEyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKajBpc2VJMFBGdGVGN05NMENJSUhKd2ZWMW1tYUtmU0o2dldTR3JXU01hRDNFM3NQaGNjd3BidmZtRlo4R0psaHpPTVZYRW1MV1haTk1hME85dUdvQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.409/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtVS0VnbFBRdTByZ0pub1Yyc1FXOG9lUFZ0WXBBbW1GV2p0dDhaNHJEc1BoMmlKODJZbXovVWMxY1dzUmhCV0FqZFEwWmdpQUtaNFRjMDEwdzFiZGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDMyMjM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWUc3WHRUTFk2TEE0TWkrbXlMUDJUMjhYeHFjWnduWm84UXpFRm1HRllaTTEreG1JWkZPdm1wbGN1M1hOTEwvUHk3dEozZWNYbURwekZVTHJ5NkljQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.410/Dayspring.app.tar.gz"
     }
   }
 }
