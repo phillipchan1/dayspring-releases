@@ -1,11 +1,11 @@
 {
-  "version": "1.0.377",
-  "notes": "- ✨ Made it easier to “one entry, one ritual” by continuing from your selected prompt—opening the next answer right from old records.",
-  "pub_date": "2026-09-21T03:22:38Z",
+  "version": "1.0.378",
+  "notes": "- Keeping things smoother: a delete confirmation now stays on the current screen instead of taking you to a neighboring page.",
+  "pub_date": "2026-09-21T03:37:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRKQUVWTzVZWGVLbzBramJ0K3VMdkk3bXlMM1ZlRER0N0wwakw3RGdQVUROUzlMaS90SVFCSTlyai9EUjdLWWVhUHBvNW1Tbk16MnowQllBUGtmb3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYxMDYzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKak0yZnA2TzB4clFwU0tPdVNVT2ZmemtLY0owZ3c2azlhRkNIK25uUXNaK2xzUWpsbFJuSVdiMENCMzQ0eVB3ZFBQNDFsUEFrdnNUNmZXWTFGSHo0RFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.377/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmwvVDBKZ0lLa3ZkZ2xRZExVeldKLytHTWRNRWY1T3k5Y3NQVDR3YkFCb0lLNXRORklnamJvajNlbTBhRDVqeVowYmRPb0lqdExwUWFESVJsb21TZndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYxOTc2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQWh2OFlkWjBkRm9QakR4aTZmeTBld3dXa1dsR2t3cmdHQ0tSZUIxcFM4c2w5V3ZNa2lJZE9NYitXWlRKbkhMNjQ3SVUzNGZGKzRzL3g1U200dkZCQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.378/Dayspring.app.tar.gz"
     }
   }
 }
