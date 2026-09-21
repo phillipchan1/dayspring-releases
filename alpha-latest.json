@@ -1,11 +1,11 @@
 {
-  "version": "1.0.401",
-  "notes": "- 🌟 Season cards now open their thread within the app, and you can move through entries using the ascend/descend actions that scroll up and down the rail.",
-  "pub_date": "2026-09-21T20:24:42Z",
+  "version": "1.0.402",
+  "notes": "- ✨ Make it easier to find your older entries by letting Volumes use date-based names, plus keeping the week’s display nicely full-width while you scroll and use the Answer filter.",
+  "pub_date": "2026-09-21T20:47:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnMvbWRjdW0wTE1ZZ1REN0JHUjRiU1BIUWFlQldmWnBFVCtOZEFzdmNxZ21VZnJZa0QyY2VJUDJDUWVrYjVpZzN6YkorTnVGQlBVUGtneVlBSFRvWmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIyNDE5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSVRKSzVsR2FGNUw1YXJtbjd3VnJ1amhibGFjVWpxUDhGWnEwWG9JQ254SkZnM3hnZnovMHZHQkZ0OWpocU4wZFNmUXoyV3BjeHVkendoVjdCZ29iREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.401/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5pY1I4RlBCYkphRU5vemZ0dEZnLzhneE8rdGNDUEdOTnVVU2hHazg2Z0k2RGNqVWNIR1hoQjJZekVBd2t1dmdraWUxYXBlQkw5Umo4di9NTWpNZmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIzODAxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKK2R3MXdOOE1Vd2J2cHVNNnlIWXVuRW5OY3N5MVp1d1Y4UUdjUVNzSHFDS1RzaVhwSUtsOCtmWWZ6YVpoUG5oa2xsMUFkbjRjb3Q2cDZBRGtJYkJXQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.402/Dayspring.app.tar.gz"
     }
   }
 }
