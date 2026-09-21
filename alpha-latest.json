@@ -1,11 +1,11 @@
 {
-  "version": "1.0.374",
-  "notes": "- ✨ Your journal’s entry now keeps track of when you opened it, so it feels more like a real ritual you return to than text you just edited.",
-  "pub_date": "2026-09-21T02:58:55Z",
+  "version": "1.0.375",
+  "notes": "- ✨ When you open a ritual page, Dayspring now shows it as a ritual on the wall, so it feels more present and easy to follow.",
+  "pub_date": "2026-09-21T03:05:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm92ZTlGa1RnQkFTck5xUEhHblB3UTQvb2dsb0ZkQm5iL3plbGlOTVpUYnd2c01YUS9tcVBXOVF5L3hFbkFIRU9SM1kySURMeUpENkZmVUJWM0VQMlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU5NjgzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMHZNbHZvTFp0MVk5QXkyVFcwRHB1M3FzYi9iMU85c2FxQkhIZG5zOHkycEp5OUNYNkhFdTBVdytVSzM1VVlHV21QcGhRSHhBYnhXcWdBVDZNM0trQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.374/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlPUXV2Zzl6QjlBS2pFbnAyM0J0bzIrSlZteFJvMUxodUx4S014dzdKbWNkTndmUnhVWXpWR2hwbFFZYW9mKzlQM0R3aFJYR0lKYWZFNy90N3ZEdWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYwMDg5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdUgvZ3RaWFFyUkZwMmNielVseUFLVXpYTlBET0RaUzVlUGRCbVVnTnFGa0kzRVJGelIyNEJNSFdlSk1IZXl5ZEZhMU04TjBLdVpWMXFCemhnK0NvQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.375/Dayspring.app.tar.gz"
     }
   }
 }
