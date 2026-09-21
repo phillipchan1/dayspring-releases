@@ -1,11 +1,11 @@
 {
-  "version": "1.0.399",
-  "notes": "- ✨ New climb view: choose Week, Month, Season, or Year, and see exactly where you’re standing—plus a “year mountain” laid out across your months.",
-  "pub_date": "2026-09-21T19:55:10Z",
+  "version": "1.0.400",
+  "notes": "- 🏔️ Added a mountain-view journaling timeline that shows your progress across the whole climb, with a zoomed view by altitude plus a handy flat strip underneath.\n- Added a simplified prototype-style mountain view that zooms per altitude for where you are in the week, month, season, and year.",
+  "pub_date": "2026-09-21T20:10:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJSU3NuT2pBblY2YlZ1cE5wV3QwSXpQSFBJZFROaFhIbGNLOGVnMDNyUlM5OTFkOGRqYWVCZTh0dzVhcFdmY1hKdXVDZ2NSZWZSYlp3UndxSHR3V3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIwNjUyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRi93VjZlazNHVGJnbHVmWDVFVks3YlN6cWoxdWhuc1VvUmUvT0h5aCtSd012emhUM3F3U2QyZjA5akxYeDMxWWJyS2lydEgvS1k2UjV1eEZmTk5xRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.399/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9WYzA0eCt3bVkzTlJoNDE3U3poUFM5VlVSWFpuRWtZWk4waVNESkltdnFUTnB4ZXN4QjdGUE5GMUJFQTBQSXlqUDNQcXZKUWZ0dS91SE9uK083cWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIxNTk0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNHowTHc2ZGg2WUJYYWtkOEZJNjBZVkxudnFqc2c1ZEhBd1Q0b1ZUeHplSEVjQTQydGFwNVlCRC9CU0VMTGN3aE52MFhmeVJnclBZOXR4VXFvbnlmQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.400/Dayspring.app.tar.gz"
     }
   }
 }
