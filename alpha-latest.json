@@ -1,11 +1,11 @@
 {
-  "version": "1.0.375",
-  "notes": "- ✨ When you open a ritual page, Dayspring now shows it as a ritual on the wall, so it feels more present and easy to follow.",
-  "pub_date": "2026-09-21T03:05:50Z",
+  "version": "1.0.376",
+  "notes": "- ✨ Added support for “one entry, one ritual,” so each ritual now has its own dedicated page.",
+  "pub_date": "2026-09-21T03:18:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlPUXV2Zzl6QjlBS2pFbnAyM0J0bzIrSlZteFJvMUxodUx4S014dzdKbWNkTndmUnhVWXpWR2hwbFFZYW9mKzlQM0R3aFJYR0lKYWZFNy90N3ZEdWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYwMDg5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdUgvZ3RaWFFyUkZwMmNielVseUFLVXpYTlBET0RaUzVlUGRCbVVnTnFGa0kzRVJGelIyNEJNSFdlSk1IZXl5ZEZhMU04TjBLdVpWMXFCemhnK0NvQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.375/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJjajQyNkdjcjBqaTR2UitNcS81c0twUE90b2FaNGloRmxNdHdVU2dYTWR6RERuVE1UUzFhR1ZzRnJFRVFseXV4MzAwcnJLQnN5SjEzendzZzM1V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTYwNzgxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcHJIeHlCOGorOUI5dlBOWVkzT0h2Y1c1eFBKaFVQeEo0cnk0UjcrZHprZzZFUGdnNVl0YzdzTmtFckh3cVNsU1hNbnM2MlZrN2tjdXFGU2FGeFpsRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.376/Dayspring.app.tar.gz"
     }
   }
 }
