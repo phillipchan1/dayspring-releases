@@ -1,11 +1,11 @@
 {
-  "version": "1.0.412",
-  "notes": "- Your subscription now clearly shows what it includes, so it’s easy to understand the value right from the start.",
-  "pub_date": "2026-09-22T01:58:58Z",
+  "version": "1.0.413",
+  "notes": "- Updated the subscription details to better explain what you get and where it fits for reviewers.",
+  "pub_date": "2026-09-22T03:05:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVPNy8yZ3hMMzk1RCtCTWc5Sm91dWo5VmRrcGovYSszZDRrQXpMTWZUYTlONUtFb2ZwR1V0dVk3SGN1Wi9OZGJhb0RaQU1lNW43VGc2NWRGS3hpUFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDQyNDU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKc3JPSWxRS29YSUhIeDZqTDlzQWtPSitUVXhlRkxxYm5paW4zSUZkTWo4ZitFQVBlK3FRK3FkVDBiNHpjWXJMWThvVnpOR0VndDk3TnlzeVZPZ2hrRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.412/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm0wSC95NkhmYmg4S09PMVZITUJZOGovUW9SdHMzZGp0U0VzZ2N4WkpsaHFuNnV0NE9ETlFmQnN5bHBUQXY2VitMOXh6Q0ZsL2dwVmY3UnNuWXNTeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDQ2NDc3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKYWE5V1ZLV0s3alozQ21zdXB2ZUIxbnhBRHc1Rm93QXd4UDd5UWFGMmxIeFozeHhCcmRWRGp4dHN0bUV1VjZmTXFQUHYzM1ZCSFcxVTNLRTNmb2ZHRHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.413/Dayspring.app.tar.gz"
     }
   }
 }
