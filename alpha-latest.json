@@ -1,11 +1,11 @@
 {
-  "version": "1.0.415",
-  "notes": "- Widened the ritual page so your entries feel roomier and easier to write on.",
-  "pub_date": "2026-09-23T14:15:36Z",
+  "version": "1.0.417",
+  "notes": "- Make every marking work smoothly inside a ritual",
+  "pub_date": "2026-09-23T14:24:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVDWHNsTmJKRDNNZEducGp3ZENLY0Y0UWIzaW4vUnBTd1daeGd1RDdlcTV2QzJSdlMraHZTMGFWRlltZ2p0My9HaDIvU2I5TCtGcVlnWHVhQmFad0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTczMDYzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKU1NYRmRlektmSmxrRW9PRzdGdmRBYkpFS0JRa1NwTFI1bkZUZk9aZnN2cXIrcjZ6YjRXaUh0U2lCNnBjM2dUWC9Rb1ZtYkdhSnJJelNoaTY5aE9YREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.415/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm92L1hIcENtUVc1b3psNUFLQUx4MTdKQTQyRWxYSnRicDJpeTk2YlRYeTZwSVE3NGdrUzRxb29jSUZkY0VrajFPemhrZFRXNVhCeld2YTVOT3dRT3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTczNTc4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUGdjWW9RelBpQkxFZXBMTUFxYi9wd1NrODFYcEhKWm5wd1J0M0VWSlJFd2dHaHUxTjlwVUkySmI3L3k3V1dUMDRGcFJNUEhadUhzS0NBb2hyWE9YQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.417/Dayspring.app.tar.gz"
     }
   }
 }
