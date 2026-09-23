@@ -1,11 +1,11 @@
 {
-  "version": "1.0.429",
-  "notes": "- Re-tap a tab on mobile without it jumping you around—each tab stays put.\n- The Mobile Journal tab now stays on Pages instead of switching back.",
-  "pub_date": "2026-09-23T19:40:17Z",
+  "version": "1.0.430",
+  "notes": "- Updated the Days 0–9 welcome series to match the new live Resend prompts so the early onboarding feels consistent.",
+  "pub_date": "2026-09-23T19:54:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmwwYkkvNkwwWkRRdytRRFh2ZnhRa0lMcXpmdi9tK0ROOTd0NHFvalN6Qi9kYXpab3NGc1Ryd0h4QzJKdDVmNTdCb2lXV1NmUDNSbWFjQjN4NVJPNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTkyNTYwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeTU1am9Kb3czUzFLYVFWbW9hQk1NbGhNdlpkNTBvOEk1Vkx1N1VLVHl1RWJGa2dhc21jVm1CWXk2ZVBNMFZoQSt5bGZRNnRLNGdaRVMrMXpLWDcyQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.429/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmcyRm9xMVZSU09xMlZ6eXdvTUFtTWY3eWMxMXp4eloxOUpFaFRidnplT0NXQko1S1BhcktsMTA2VnBXU0lXc3VDSzRVRGF4MTg2eDJMZlN2VVk3WkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTkzNDQ3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWFlqVE9XK0xiemx0ZDc2eFMzWUI0bWdDcng2b1J1RzRBZ25IYzR6elArM3FMNy9meFNKdnp2bVB0VEJibkNGZVl5QnZxZmNSL09kTytUbkY4UEx4Qmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.430/Dayspring.app.tar.gz"
     }
   }
 }
