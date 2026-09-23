@@ -1,11 +1,11 @@
 {
-  "version": "1.0.417",
-  "notes": "- Make every marking work smoothly inside a ritual",
-  "pub_date": "2026-09-23T14:24:14Z",
+  "version": "1.0.419",
+  "notes": "- The app can now automatically pick up the current place shown on your Mac for where you’re writing.\n- Read markers stay in sync, so what you’ve read is remembered in the same spot when you come back later.",
+  "pub_date": "2026-09-23T14:36:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm92L1hIcENtUVc1b3psNUFLQUx4MTdKQTQyRWxYSnRicDJpeTk2YlRYeTZwSVE3NGdrUzRxb29jSUZkY0VrajFPemhrZFRXNVhCeld2YTVOT3dRT3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTczNTc4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUGdjWW9RelBpQkxFZXBMTUFxYi9wd1NrODFYcEhKWm5wd1J0M0VWSlJFd2dHaHUxTjlwVUkySmI3L3k3V1dUMDRGcFJNUEhadUhzS0NBb2hyWE9YQmc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.417/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhuYTR3b1ptUDJKVnNHbEFBUjFld25OaXRENXAwSXZ5cWcveEszQWhUWGV4UWExYUJsWGdPR3pZbGFDc3I3eWpEVUtrQ2lobURUOHFDTzFmWlEzeXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc0MzIzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdm9zTG5CeUt6R1B6Tyt1U05hNWdrNkZlNGphNTg1MmkycGwvemtWbmZnWHJaaU45UG9Fc0RMNENmQlJWSDB6K1dycmZRZXYvQVBjREkreUxZUVFJQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.419/Dayspring.app.tar.gz"
     }
   }
 }
