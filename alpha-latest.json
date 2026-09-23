@@ -1,11 +1,11 @@
 {
-  "version": "1.0.424",
-  "notes": "- The page menu now slides up from the bottom like a sheet for easier, thumb-friendly navigation.",
-  "pub_date": "2026-09-23T16:11:47Z",
+  "version": "1.0.425",
+  "notes": "- 🎉 New: a smoother welcome onboarding flow that starts you off with helpful early prompts  \n- Reminders and journal backfill are now handled more reliably in the background so your first entries feel more complete",
+  "pub_date": "2026-09-23T18:16:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZ6SjJ1dElTM3NqS1pCQUI5ZWxldmJJSzQ3NUdHdkpCTk9BVTVsVVNEbXhZS29WY1NWMUVnQjNsV0pYUnpPMEw3S0dBMzBrenZpbUVWNEdLTWRsWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTgwMDI0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ3F3Mnp4NCtCTVZ5a1Q1MllZdmJpc0JwbDJpY2xKMFB5M3lHU0pLU2RUR3lKVUFoaU13TTJRd3Fwa1k1ajJTMVBTNXcxbDVmaEpKRUZhSnkramJXQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.424/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFWcjhrcldmWnhnRmNRem5qa082L2Fvd1o4aWh6alZxMkJQblcyRytBbHAwMmh5cnZFdFlRTjhLMVVaZTJ3NjR3MWNHOVRFdzFNbEZMejN1Ym5PZUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTg3NTQ5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTmVPR3JPeUdXT0lMVS9EQ2Y1bFRtR0xITW1YdUZOZk9YRVVadnhmb3l1OFQ5bDFrM0JDdmNnS2xDVXhISGgvaWw0cVBpekgyNSt5ZHQ4Z0EzN2JURHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.425/Dayspring.app.tar.gz"
     }
   }
 }
