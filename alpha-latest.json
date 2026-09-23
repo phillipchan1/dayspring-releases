@@ -1,11 +1,11 @@
 {
-  "version": "1.0.423",
-  "notes": "- Back-swiping now behaves more predictably: you won’t see a second layer or be able to go back by swiping from the right edge",
-  "pub_date": "2026-09-23T16:07:10Z",
+  "version": "1.0.424",
+  "notes": "- The page menu now slides up from the bottom like a sheet for easier, thumb-friendly navigation.",
+  "pub_date": "2026-09-23T16:11:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmc4Z2h5MnR6VEVmcTNNTVZOL0FabUtNMjFXZkpTRHoxaFlRNXhhblpXeXdaSjBrNW5Wb3RkWnRybzhJbE0wQkRYQy9tcE5JcDBQdE9oZEkvd2x5REFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc5Nzg3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaC91YWgzK2tRL0ZKMUxhNFA1NGpXMEVmd044cjBHbW9IYzFNNC82SVlzM09PcUEwK1B4SlZtMW8wcVEyUTViZ2I5UDJic01IZU1wVk04cS9NdXl4QVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.423/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZ6SjJ1dElTM3NqS1pCQUI5ZWxldmJJSzQ3NUdHdkpCTk9BVTVsVVNEbXhZS29WY1NWMUVnQjNsV0pYUnpPMEw3S0dBMzBrenZpbUVWNEdLTWRsWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTgwMDI0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ3F3Mnp4NCtCTVZ5a1Q1MllZdmJpc0JwbDJpY2xKMFB5M3lHU0pLU2RUR3lKVUFoaU13TTJRd3Fwa1k1ajJTMVBTNXcxbDVmaEpKRUZhSnkramJXQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.424/Dayspring.app.tar.gz"
     }
   }
 }
