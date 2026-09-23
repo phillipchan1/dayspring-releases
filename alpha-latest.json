@@ -1,11 +1,11 @@
 {
-  "version": "1.0.422",
-  "notes": "- Open a ritual page straight from its record using the After option in the side rail",
-  "pub_date": "2026-09-23T15:02:24Z",
+  "version": "1.0.423",
+  "notes": "- Back-swiping now behaves more predictably: you won’t see a second layer or be able to go back by swiping from the right edge",
+  "pub_date": "2026-09-23T16:07:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJ4d2kzQWl4Zkl6c3VCbkY2U3NuRFV1N2lGSlNhZjFxb2pjZDJTQW5TRWV5Z1kxQWpOUXdrcm9vbGQwWE9EZm5hSFFoSGplUHU2dzBnVmxkemM4enc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc1ODk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKandQWlpyQnN6MTBhREZSbzR5NVh4Rkw0cFZiNWY2YXpTQ2xjQ3o0bFA2aUNnYW9LR2F4T2V6ZUhrSExlZWN2cEk1eGxCeWVNUG14Q1NTb0NaOEVNQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.422/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmc4Z2h5MnR6VEVmcTNNTVZOL0FabUtNMjFXZkpTRHoxaFlRNXhhblpXeXdaSjBrNW5Wb3RkWnRybzhJbE0wQkRYQy9tcE5JcDBQdE9oZEkvd2x5REFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc5Nzg3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaC91YWgzK2tRL0ZKMUxhNFA1NGpXMEVmd044cjBHbW9IYzFNNC82SVlzM09PcUEwK1B4SlZtMW8wcVEyUTViZ2I5UDJic01IZU1wVk04cS9NdXl4QVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.423/Dayspring.app.tar.gz"
     }
   }
 }
