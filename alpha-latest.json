@@ -1,11 +1,11 @@
 {
-  "version": "1.0.431",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-09-24T04:46:26Z",
+  "version": "1.0.432",
+  "notes": "- Entry titles now have a delicate underline and sit neatly centered as you type.",
+  "pub_date": "2026-09-24T14:35:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm01dzZ3Z2owZ2VCZkZZZXNhb0JWWGdBeFFCM2ltbkhSdW05cXUwai9OV3AwR2hyd1U0T21YQklZOTJFYzNLMDFXbHRFd2JxQU83QUdXMjhnS3dBaHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjI1MjkwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZXpkWWVmSU9sSnRvdit3THR2LzRDaTdUblh3amtqS1NoRytWMFduaXVrOUVGRy9qMmpTb3ZqbFpDTzZmenF5eEpuaWtEUWJnV0djNTlNS1k3Qmd5RHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.431/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlSeVVENkRXdTBDRXZOdDFpWjZHdTBGeW4xVEFTM2RmNmJ5RFhGYjQwNmQxcCtjUTdwcHNwNC9nb0h4eHlNQXpPdDF6RTJlTE1heXh5dmRSSEdHNndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjYwNjgzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUjFGK1l1aENuNWExS3hvVkczUkxINndmV2E2Z3NxbUpyL2didldxV3B6b3owYTdMVXF5eHFleHhWWEJUNkRhdlBDV2YxakpBeWlvelh0djVLdm90Qnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.432/Dayspring.app.tar.gz"
     }
   }
 }
