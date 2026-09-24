@@ -1,11 +1,11 @@
 {
-  "version": "1.0.433",
-  "notes": "- ✨ You can now start journaling as a guest, without creating an account.",
-  "pub_date": "2026-09-24T14:56:38Z",
+  "version": "1.0.434",
+  "notes": "- The Back to journal button now stays clear of the theme toggle on the guest screen.",
+  "pub_date": "2026-09-24T16:36:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnIvWDhvb2NoS01tc3YyTWlsVS9RK1JQYTNTb2E0UWhpNHkySTJGTnoxYlk1VEVlK2s2NWJQbGFKSGFaUGo2djJQNk9VZ3czalFmbTAwZVRZQjQ0VHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjYxOTUzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQXI2RDgvTUF0YUkra3RhOEU4QkcrZ2llOHhGUFNCT0xyTlNGVGlKUXEzSzJTaGg5VFhxWENZZ3dRNnloSzl2WEFNejk5bjVxRHozQkRvM0IzUjRnQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.433/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNMQ2NsRGlwRjZWUGIzcVNVTkdLSHFsL0g0by91NExiN1FxamtNdHpPa1hWbXlDaTRtemp1QXBMcElBelhOOVJFc2hRbStoYWxDeEZPRnNFZTd0bndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjY3OTAwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ0RRVFhBQWpuc3RoWTNSaWtvNFB2SERvM2tUN25pZlcvaHhrQnc3amxIQitkMk4wbnU1Y1NScWZMMVFIQ20xaFpEdXM1Q0o5RXVBbnpva0NueVlaRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.434/Dayspring.app.tar.gz"
     }
   }
 }
