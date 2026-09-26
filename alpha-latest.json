@@ -1,11 +1,11 @@
 {
-  "version": "1.0.437",
-  "notes": "- Launch straight into your journal when you’re offline, instead of seeing a “your trial has ended” message.",
-  "pub_date": "2026-09-26T15:59:44Z",
+  "version": "1.0.438",
+  "notes": "- ✨ Scripture rituals now open with a passage and keep it close as you reflect.",
+  "pub_date": "2026-09-26T18:16:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5IS3RnL0svVzNqaGtuVjFBWjhXZVNwdWJrYjJtZUtCRGw2c2NTaXBndmk3aHRSNGw0cEM0QnprZTZCK0czYVBjUlNVQkVaQ3F6dUFUeUpYN0pmaWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDM4NTM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMHZZTHRGSU03OFBpV0NXNmdSUTc2SEphNnYvMXc1OVRtRE96b2NkenRmZ3AxZHF6N2lSVXQ4NWl5OEkwV1JIZnNtTDNVMWx4cGlzb2V2Y3RVQVRUQkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.437/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhPWFQ0YkIwcHR4NW9QZVd1a2Q4c0VJTDJqYlNvTk9GbFcwa2EvOWlxcm04OVIrU1Z1KzVDVmU3MWxyNFYzOWpRN095SmF2WDdNMHp0Zm5iMGtQRFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQ2NzM0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaEM0dSswUmJxVHJyNDFXZVdZMVVTU2E0UmJmOXYwazlNcGhxOGIyT1BuTGdqbWxZQUVPbjcxbXBPSnFWT2F2VnVFMzAzcmpZekV1N0lFQ2JVdy8yQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.438/Dayspring.app.tar.gz"
     }
   }
 }
