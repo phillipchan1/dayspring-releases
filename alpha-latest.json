@@ -1,11 +1,11 @@
 {
-  "version": "1.0.440",
-  "notes": "- ✨ Connect a passage to your reflection and see how the words speak to you.",
-  "pub_date": "2026-09-26T21:17:59Z",
+  "version": "1.0.441",
+  "notes": "- Your scripture ritual now reads back the way it was written.",
+  "pub_date": "2026-09-26T21:33:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9qQTE5Y0k3MjFLUmhsa3kyZ2JYRVdLMUJVc1p3ZTh1eC9GYVFubEFORG8rUVN3NDRuVGZZMEM2SGdxVVZmUUExSk92TFp3TGVMY0lMN3FYV2lSeUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDU3NjE2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUjhXZ1N1YkhBUFJSM1FmdVNnakxYNEtyVGRBK3o2Z2M3VUM0T1FSaHRRUDBHNVhLTm91VEF5Q0ZSc1ZlQjQzeS9SeW4xUlE5bmIrcjZQN0JPTHZ3Q0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.440/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRhK1VPRExHeXNyY1hVWUFXbkVvbU5rU244UFJkRFRxNHpOSmJpV2NwcWMwUTI3dVUyQk12WWs3U3hKeDdndTZVdzFJR3d1MXBHeWVQbHhpYTRXRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDU4NTIwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRTdYTXBXY0EyVFp0UkdrZ1c1LzBHbGJqZWpNMXlSL1JONVZxQkhRUCtTbzIzMkZidGFFYWE3YVh4K2o4QXVYbUgrb01KbVBqdTJhNkt0UFpFV3RnQlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.441/Dayspring.app.tar.gz"
     }
   }
 }
