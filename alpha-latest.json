@@ -1,11 +1,11 @@
 {
-  "version": "1.0.434",
-  "notes": "- The Back to journal button now stays clear of the theme toggle on the guest screen.",
-  "pub_date": "2026-09-24T16:36:42Z",
+  "version": "1.0.435",
+  "notes": "- You can now search for things you’ve written, and you’ll know when there’s nothing to find.",
+  "pub_date": "2026-09-26T15:19:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNMQ2NsRGlwRjZWUGIzcVNVTkdLSHFsL0g0by91NExiN1FxamtNdHpPa1hWbXlDaTRtemp1QXBMcElBelhOOVJFc2hRbStoYWxDeEZPRnNFZTd0bndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjY3OTAwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ0RRVFhBQWpuc3RoWTNSaWtvNFB2SERvM2tUN25pZlcvaHhrQnc3amxIQitkMk4wbnU1Y1NScWZMMVFIQ20xaFpEdXM1Q0o5RXVBbnpva0NueVlaRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.434/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9NRllLVTJLWTdJNWoxMVBPNGhFVDZZRXBib0h6emM4ZTBKcTBaQXMwZ2svaWRFWlByOFpteWhWN1F3ZkZTM09xZGJmUGNkMGR0ZGFwRmFmRUtLb2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDM2MTM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaWhNVksvekpsSkJ3S1JBUC9WSjRVSDEwRGhxNXR2aXc5SXcraUVnR3dIaXlSdEsxQ3RYTng2WElhVkhrRjhyblhlZ2w1UjE0Vm9nVHk0WUxuRU1GQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.435/Dayspring.app.tar.gz"
     }
   }
 }
