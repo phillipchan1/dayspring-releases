@@ -1,11 +1,11 @@
 {
-  "version": "1.0.438",
-  "notes": "- ✨ Scripture rituals now open with a passage and keep it close as you reflect.",
-  "pub_date": "2026-09-26T18:16:37Z",
+  "version": "1.0.439",
+  "notes": "- The way back now stays in the same place throughout the app, making it easier to find your bearings.",
+  "pub_date": "2026-09-26T18:39:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhPWFQ0YkIwcHR4NW9QZVd1a2Q4c0VJTDJqYlNvTk9GbFcwa2EvOWlxcm04OVIrU1Z1KzVDVmU3MWxyNFYzOWpRN095SmF2WDdNMHp0Zm5iMGtQRFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQ2NzM0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaEM0dSswUmJxVHJyNDFXZVdZMVVTU2E0UmJmOXYwazlNcGhxOGIyT1BuTGdqbWxZQUVPbjcxbXBPSnFWT2F2VnVFMzAzcmpZekV1N0lFQ2JVdy8yQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.438/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9wSVl2WEdvVUJZaUJRRENMeGp0Z0tDUXNmYnJEL0tYNTNRc1JQcmVlZU1IcWhuc3F2VDNIS0lPK2NHSDJCQTZQY28wMFdIRFhoM3FUZ2k3VGZ0NmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQ4MTEyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdDBQVit5T0dOZVpRdlNOd0kxY1d4ZGg2VFR5VTNaMFZVU1MvVlNkWXVZa1ZKbGRSTkNqTE1TdFdrK2R5eWRuOVRXdFVOSEh3dGdVbnc3Q3RseHg4QWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.439/Dayspring.app.tar.gz"
     }
   }
 }
