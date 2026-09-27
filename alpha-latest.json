@@ -1,11 +1,11 @@
 {
-  "version": "1.0.441",
-  "notes": "- Your scripture ritual now reads back the way it was written.",
-  "pub_date": "2026-09-26T21:33:11Z",
+  "version": "1.0.442",
+  "notes": "- The top bars now use one consistent font, size, and color for a calmer, more cohesive look.",
+  "pub_date": "2026-09-27T02:21:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRhK1VPRExHeXNyY1hVWUFXbkVvbU5rU244UFJkRFRxNHpOSmJpV2NwcWMwUTI3dVUyQk12WWs3U3hKeDdndTZVdzFJR3d1MXBHeWVQbHhpYTRXRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDU4NTIwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRTdYTXBXY0EyVFp0UkdrZ1c1LzBHbGJqZWpNMXlSL1JONVZxQkhRUCtTbzIzMkZidGFFYWE3YVh4K2o4QXVYbUgrb01KbVBqdTJhNkt0UFpFV3RnQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.441/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm55emdpcStPOVNUdjB1OWVPTXlrZWxqb0FjL3pjN2xyMjNrOWR2UXE0SlpoekROUGFCRWNXQUhqd1BMb3ZvVmNkQlVWVE91cUJ6ZzJpWFdmVllFS3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDc1NzY3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ1JVU1dEUXZITDRnK3JMZ1R2VkZER1htdnhUa0RmdkRCckVETTJXTVZPaG5RaTFuWW0zWWtveEZseXA2Y3oxT1JHMjlNYlpZNWo3Y1NiOUVxYlVZRHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.442/Dayspring.app.tar.gz"
     }
   }
 }
