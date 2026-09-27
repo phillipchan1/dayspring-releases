@@ -1,11 +1,11 @@
 {
-  "version": "1.0.447",
-  "notes": "- Long ritual answers now keep the line you’re writing in view, so it’s easier to stay connected to your entry.",
-  "pub_date": "2026-09-27T15:12:50Z",
+  "version": "1.0.448",
+  "notes": "- Quotes now keep a passage’s words whole—or leave them out.",
+  "pub_date": "2026-09-27T15:17:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtmYlZTanpjaTJoVUw3a0Vnb3l6cjN2SncycCs1Mi9FREhWS1N5NVFWY1Zpc3BOVWpUZmljVzRxMlU1K3lGemxwek81eHhnYVc5cWRNTkxzSzJxcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIyMTE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWmxLMExHVk0xM2xlZFZpQzFlVy9vc25CSTdjazZ6Y1lTMFFLM3VFWGUrZC9QVjd6LzVCNW1pSHQ5RWJSc0dYTUxyMTFLU2ExVGhub09uZ1RZbTJnQ3c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.447/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhJMjdzMkgzL2JNSGFpNzFrWkVOOGZueXV6VUIrYXdmRzlaaXVYUUdELytVanBKOUwxTitRd2J3VktndlVCSkhkWk5uNkh0bDBJQXYxc1BRNGV0ZkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIyMzgyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaUU5QWREQU9qVmhFL1BhRXM4Tm9aWUQrYWFnb05Kd1ZRT0VESmdSVmVaUkE0am9Zbng1MlMxZy9ORERTWCtOOVVsNWRnUW95UTFZZlpFbFJCTjVoQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.448/Dayspring.app.tar.gz"
     }
   }
 }
