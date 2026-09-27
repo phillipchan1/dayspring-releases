@@ -1,11 +1,11 @@
 {
-  "version": "1.0.446",
-  "notes": "- Chapters now load in full, the leaf view fits neatly on Mac, and passages keep their paragraph breaks.",
-  "pub_date": "2026-09-27T15:05:23Z",
+  "version": "1.0.447",
+  "notes": "- Long ritual answers now keep the line you’re writing in view, so it’s easier to stay connected to your entry.",
+  "pub_date": "2026-09-27T15:12:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnY0V2FqN1FQdU5iemRKU05OSnhTK1JrbjVOOUNmbUVVSTBVY3dlZXRmRXdHeTRRWHdaeTk1dENDQis3L2V0ajVsejVjeDYrZHE2L1RUWkNLMjk1QVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIxNjI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMHZTY3lPd0tabkt2NjFFVVVDRVpFc05kYXcyZnNHQ0ZFNG50NkhWSGJ6WjhrMU1UWlBEL1UvLzVtTUd1VE56VHVybjljNkRBdnYzc1EwcHloYTJuQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.446/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtmYlZTanpjaTJoVUw3a0Vnb3l6cjN2SncycCs1Mi9FREhWS1N5NVFWY1Zpc3BOVWpUZmljVzRxMlU1K3lGemxwek81eHhnYVc5cWRNTkxzSzJxcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIyMTE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWmxLMExHVk0xM2xlZFZpQzFlVy9vc25CSTdjazZ6Y1lTMFFLM3VFWGUrZC9QVjd6LzVCNW1pSHQ5RWJSc0dYTUxyMTFLU2ExVGhub09uZ1RZbTJnQ3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.447/Dayspring.app.tar.gz"
     }
   }
 }
