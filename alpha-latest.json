@@ -1,11 +1,11 @@
 {
-  "version": "1.0.445",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-09-27T06:54:50Z",
+  "version": "1.0.446",
+  "notes": "- Chapters now load in full, the leaf view fits neatly on Mac, and passages keep their paragraph breaks.",
+  "pub_date": "2026-09-27T15:05:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm12UzI2L1h2cVlYMkFubXpNaGtyWFM2Q0N4Z1gzWVM5dHhwL25BTzlwaFc5OXhXWWxaYzRDVDEza00rRExQL0lCNFE1akVpMWRVQ0hpbm9NNjlDTXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDkyMjM1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVmtKVFExWDdNVE54TkY4UDFYbk5kWHpTV2s0ay9kREp1TjEzbkxESUppZVFWZkhVL3h2N1p2U3IvdWEvT1cydnd0NUhKTit2cWhBbmlZRHpFdmlHQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.445/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnY0V2FqN1FQdU5iemRKU05OSnhTK1JrbjVOOUNmbUVVSTBVY3dlZXRmRXdHeTRRWHdaeTk1dENDQis3L2V0ajVsejVjeDYrZHE2L1RUWkNLMjk1QVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIxNjI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMHZTY3lPd0tabkt2NjFFVVVDRVpFc05kYXcyZnNHQ0ZFNG50NkhWSGJ6WjhrMU1UWlBEL1UvLzVtTUd1VE56VHVybjljNkRBdnYzc1EwcHloYTJuQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.446/Dayspring.app.tar.gz"
     }
   }
 }
