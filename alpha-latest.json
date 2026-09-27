@@ -1,11 +1,11 @@
 {
-  "version": "1.0.442",
-  "notes": "- The top bars now use one consistent font, size, and color for a calmer, more cohesive look.",
-  "pub_date": "2026-09-27T02:21:01Z",
+  "version": "1.0.443",
+  "notes": "- Finished rituals now stay right where they are when you edit them, instead of moving into the composer.",
+  "pub_date": "2026-09-27T02:31:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm55emdpcStPOVNUdjB1OWVPTXlrZWxqb0FjL3pjN2xyMjNrOWR2UXE0SlpoekROUGFCRWNXQUhqd1BMb3ZvVmNkQlVWVE91cUJ6ZzJpWFdmVllFS3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDc1NzY3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ1JVU1dEUXZITDRnK3JMZ1R2VkZER1htdnhUa0RmdkRCckVETTJXTVZPaG5RaTFuWW0zWWtveEZseXA2Y3oxT1JHMjlNYlpZNWo3Y1NiOUVxYlVZRHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.442/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlLQ0U0T1RGVWo1SVk1LzUrMGNmMkgyRkdoR09FVUZVcENaaUI5NXBZTG5tVlBPMmh5OE9HSVBnWHk5SHB0OTRFaldmb0VlWlRiYTZ3UXhBQUlFa1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDc2NDQwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUjhQQ3dvTkhBa2swZDJDbUxUd1IzenVIK29PdEdTRnRYRFJCVzhReUVtL3d3OWJ3TCtEaG9jcE1DQjYxbWFsTVcyNXVRV0FhOTdsU3RJK0gwemthQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.443/Dayspring.app.tar.gz"
     }
   }
 }
