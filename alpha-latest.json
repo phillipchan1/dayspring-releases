@@ -1,11 +1,11 @@
 {
-  "version": "1.0.448",
-  "notes": "- Quotes now keep a passage’s words whole—or leave them out.",
-  "pub_date": "2026-09-27T15:17:59Z",
+  "version": "1.0.450",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-09-28T18:53:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhJMjdzMkgzL2JNSGFpNzFrWkVOOGZueXV6VUIrYXdmRzlaaXVYUUdELytVanBKOUwxTitRd2J3VktndlVCSkhkWk5uNkh0bDBJQXYxc1BRNGV0ZkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIyMzgyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaUU5QWREQU9qVmhFL1BhRXM4Tm9aWUQrYWFnb05Kd1ZRT0VESmdSVmVaUkE0am9Zbng1MlMxZy9ORERTWCtOOVVsNWRnUW95UTFZZlpFbFJCTjVoQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.448/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtrZk9xMlJ2eDhEK09ZVjRSSTgyZFhrM2ZmQzd0VWpkak5OL0sxamw1c1V5anZZdXhDTFhIeW90eVVqOUYwNUthY2JVZ1RjaXYyUW1DZWhrNm03K0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjIxNzI5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNUJnYWV2cW1vdURyQ214UzNZNmllQ2g3RkFkSTNBMGUyUkpaZjBEQ2s0N1V0NXJETFBiVXJ1OWJ0TXg4eFNCdGxoeXdVdjlrOWkzdTBiUzlNRDJEQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.450/Dayspring.app.tar.gz"
     }
   }
 }
