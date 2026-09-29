@@ -1,11 +1,11 @@
 {
-  "version": "1.0.452",
-  "notes": "- You can keep writing as a guest and enjoy your own Bible rituals along the way.",
-  "pub_date": "2026-09-29T15:31:31Z",
+  "version": "1.0.453",
+  "notes": "- The You menu stays on screen when you need it.\n- Guest sync is quieter, and it’s easier to continue a passage.",
+  "pub_date": "2026-09-29T16:29:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBxZC9Ed0NMWGNVZG05aWNMMUV1UTBuNDM4VzY5Y21lblVBQVp2dDJlZ0tDQ3ZaeEhLZFA4NHBtWEdGSit3VktqQ0NQUGN1Uk1kRm8rVVgyeVBYMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk2MDI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcUU5WkFjVWFKb3Q3cmpNZktHd2ZZYkRyREZzTElHbEdwcU5iVXpjTitZb1VCVy8zWGF2VHhncEhEQ2NNbDhpN3c2dWV0c2l3OUZTdEFBa1l0d1RYQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.452/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdTa0xkdUZIdVNjWVRvU0lnRkNId3JOc0pFY1pOblVjUTNFRFZpdnAyVVhLYjhXQ0lJMTVuLzdoTU8yQTIwcWorRFVnQUhBS0RBcERlQXZHK3YzZHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk5NDY2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKKzliQWtyQnROYmdTYW5aTHlGdytoYkFZWFp0RGlna3RvVTUyN0VENHZHamRlNWJicHFvNmtlWHI3VWdibzUweVZzZXl5UElNbUFoOXhaSVExMkNyQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.453/Dayspring.app.tar.gz"
     }
   }
 }
