@@ -1,11 +1,11 @@
 {
-  "version": "1.0.451",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-09-28T19:03:21Z",
+  "version": "1.0.452",
+  "notes": "- You can keep writing as a guest and enjoy your own Bible rituals along the way.",
+  "pub_date": "2026-09-29T15:31:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnR1UUFjbmJnaHNjK1RlRXZXR2xlMHVMc05RaEx4WnJ1VmhFRHNVdWdXSmlHVDdDL2NrL2F0eXVmTG5vKzZlY3VXOGtwT01YUzI1eFpLdzJMVnlVU1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjIyMzA1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNnNmVFZpM21iK1EyQTBqUWhyaUdQVkFEdCtHNlVVQTRZRXFVZGQrZHcxSndDM3l4L21sZWkrclMydlRhZGg1MlhhZGVSVmhPbm5wMGtRQ09YT0NqQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.451/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBxZC9Ed0NMWGNVZG05aWNMMUV1UTBuNDM4VzY5Y21lblVBQVp2dDJlZ0tDQ3ZaeEhLZFA4NHBtWEdGSit3VktqQ0NQUGN1Uk1kRm8rVVgyeVBYMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk2MDI1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcUU5WkFjVWFKb3Q3cmpNZktHd2ZZYkRyREZzTElHbEdwcU5iVXpjTitZb1VCVy8zWGF2VHhncEhEQ2NNbDhpN3c2dWV0c2l3OUZTdEFBa1l0d1RYQlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.452/Dayspring.app.tar.gz"
     }
   }
 }
