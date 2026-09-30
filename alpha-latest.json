@@ -1,11 +1,11 @@
 {
-  "version": "1.0.455",
-  "notes": "- Use Control–Command–F to enter full screen.",
-  "pub_date": "2026-09-30T14:41:00Z",
+  "version": "1.0.456",
+  "notes": "- Your scripture ritual now reopens right beside its passage, making it easier to pick up where you left off.",
+  "pub_date": "2026-09-30T14:51:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9HblN6NUs5NFBQTk5hR2JlTzJ2NWtIOUhUbW1GZkMwelQ2N2tFV0ZadHl2V2tJa1cyRlJ5ZEFsZmFCMGdEOU4rVDVTN0dZZHRmYjBZUjZiek1kWXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzc5NDE1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTXA0aWpBNEJPNW5KK0dSUC9SeG84b3ROZmJmQWNRT1J4eUlSb3hqUXFZNG9FNWxGZFY5YlNSanl5a1c5VEJWaDY3WlpOUUdwUGQvQ2JoL2poOE5JQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.455/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdxMnlaeDBTUmZOeHpFMFlOZ2VUdEgvWDRQeHduRW1wb3VTdUcvOUI3ZWp5aVJMV3NtK0NsbkdaZ0l2RGlWWDFwTlNlSmFETGtjUzM1aDhGb2lNTGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzc5OTY4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKY2xEVGQ3ZEpOa0ZpY2JZOEhHL2VYa093YUQrVjYzaDNJRUdoeTlGR1ZIRUVSWjUwOWtkbFVmb004WVB0bGpFWUNDRlRlV3lxQzU3ZncrdldCRVhXRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.456/Dayspring.app.tar.gz"
     }
   }
 }
