@@ -1,11 +1,11 @@
 {
-  "version": "1.0.456",
-  "notes": "- Your scripture ritual now reopens right beside its passage, making it easier to pick up where you left off.",
-  "pub_date": "2026-09-30T14:51:04Z",
+  "version": "1.0.457",
+  "notes": "- ✨ Open your Bible from the shelf and choose where to begin.",
+  "pub_date": "2026-09-30T15:05:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdxMnlaeDBTUmZOeHpFMFlOZ2VUdEgvWDRQeHduRW1wb3VTdUcvOUI3ZWp5aVJMV3NtK0NsbkdaZ0l2RGlWWDFwTlNlSmFETGtjUzM1aDhGb2lNTGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzc5OTY4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKY2xEVGQ3ZEpOa0ZpY2JZOEhHL2VYa093YUQrVjYzaDNJRUdoeTlGR1ZIRUVSWjUwOWtkbFVmb004WVB0bGpFWUNDRlRlV3lxQzU3ZncrdldCRVhXRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.456/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnR5QTNwYUZUY2dqZllmR0JvUmZLSE41T0RvVkgzQ1dPdGpxRm1xWHpLT3VVNUVKZExaekRGTlVzWWduak0rTkxLZnRIK1VtelA4amYrWURaYnF4WmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzgwOTA5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSlg4V2hSU3JFMy9zYUlLQm1KQ25waTZNbCtWbXRyOTFjUTJrdmM1azBaY3hnVThXVUYwdWQ0UHpVY09BTHFDbGc4VFp6SGVBU0pqMGx6UFlmd3lXQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.457/Dayspring.app.tar.gz"
     }
   }
 }
