@@ -1,11 +1,11 @@
 {
-  "version": "1.0.458",
-  "notes": "- Scripture is now organized like a Bible, making it easier to find the passage you’re looking for.",
-  "pub_date": "2026-09-30T15:38:11Z",
+  "version": "1.0.459",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-09-30T16:53:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdZQUNvUkc5SDJYYVYzMVlWOERsL3pyUjlBdmNzeFUyWFVvdHdRbUp3UHM0T1NaUEtpaHAxNWx5aWFwWG93Mllwb0ZOaHJzdVhMK2svWkpkVjZQTXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzgyODM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKb0pBN2tqZFl4VUdRMXU5WUlWVC9mSm1nbnlLZ3pjc3V3Q0ZqMXZFUUx3RVJBb0JZVHNCZkRVeHEwazdTdzRMSGluZnFrNGo3UVA0bGZSaXJ1d0tYQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.458/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmx6R1h5ZndjMlI5MlU4U09BK1NjSFVHU2JxM2RNUFRvRm9GSDBEczg2YVJQRmhuMjNVZXZvK3NKdTJnYk5qMTBHcktRSk10SENUTjVJQTBHOVl0YmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg3MzY3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKeStGdEhXbks2NjVNeFI2L3B1YnJuTmowN0pzbDVoNzR1R0pWcGFXTGl3NWJoQjRTVkZ2SzR1dHdsYnJMNjN2VCtHS2REVlZnUVlNRjQ2SXVuUGFBQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.459/Dayspring.app.tar.gz"
     }
   }
 }
