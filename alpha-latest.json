@@ -1,11 +1,11 @@
 {
-  "version": "1.0.453",
-  "notes": "- The You menu stays on screen when you need it.\n- Guest sync is quieter, and it’s easier to continue a passage.",
-  "pub_date": "2026-09-29T16:29:19Z",
+  "version": "1.0.454",
+  "notes": "- Entries opened from Pages now stay nicely centered in typewriter mode.",
+  "pub_date": "2026-09-30T14:37:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdTa0xkdUZIdVNjWVRvU0lnRkNId3JOc0pFY1pOblVjUTNFRFZpdnAyVVhLYjhXQ0lJMTVuLzdoTU8yQTIwcWorRFVnQUhBS0RBcERlQXZHK3YzZHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk5NDY2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKKzliQWtyQnROYmdTYW5aTHlGdytoYkFZWFp0RGlna3RvVTUyN0VENHZHamRlNWJicHFvNmtlWHI3VWdibzUweVZzZXl5UElNbUFoOXhaSVExMkNyQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.453/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnQvVlFrNkRtMElaaythNUd1T2owRVpCejRacnFHNmhVZVlqNGdsdDJ5K1hRWUtrbFNub3RjSzV3NjVaeHhacnpXY3pnOVlpdVNRYldSMnlpOFFmUFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzc5MTI4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNHhZcFlJVHBtYnlHMjBwbEFJR2NjTWlqZEptZzNqTEI5WnYrTWc2amprck15em45ZUdQUEpVNXdoWWdPd0NxMWQvQU9sZlU3TkZ3QXZWeEFBWVd2QlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.454/Dayspring.app.tar.gz"
     }
   }
 }
