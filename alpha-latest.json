@@ -1,11 +1,11 @@
 {
-  "version": "1.0.467",
-  "notes": "- The editor’s writing margin now stays comfortable at every screen width.",
-  "pub_date": "2026-10-01T15:58:21Z",
+  "version": "1.0.469",
+  "notes": "- Esc now closes one layer at a time during a ritual, with clearer verse numbers and spacing.",
+  "pub_date": "2026-10-01T16:14:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdjazZDQms2aWI0d0U2QllqRnBnVDMrWll4TytCMUJDS1JRRkV4Ky9xejkwaWEwQTBVMGl3YUxqcmcxUUV4U0crcjd3VHdxbmhNZm5pY25Sdld1c2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcwMzkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOUtva1F6VTJncU12bHRqVENqekxQMTRreG54QWloK3lQamNkYkh5S3ljWFE0U2NKMXdVYXFOMzJKNGJrMEZKcE81b3duQVlheXB2MkZFYW5tNitDRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.467/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNJZHpRUzJkKy9qa3RxcFdET240SHN0TUJhZDlmZzZLQ1B3RURNNC9Ga3NJb01iRmNDS2hzUjlmYW9ZV25SeGdGN29rMitaT3V4U0NWWXZHeUdVUEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcxMzkxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUFQ4NGZ3UUxKYkhMamE1OTdvT2J3VjdIN3VrUXFHMnp3V2cwZVcxUW1ieGxzd3FMd1FlUDFTMEdEL2FwTFRzS3g0M3MwRWE5SElrcGFoNFFtT2tKQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.469/Dayspring.app.tar.gz"
     }
   }
 }
