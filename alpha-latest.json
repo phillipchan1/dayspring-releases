@@ -1,11 +1,11 @@
 {
-  "version": "1.0.466",
-  "notes": "- Your journal pages now read just as you wrote them, with nothing changed along the way.",
-  "pub_date": "2026-10-01T15:51:16Z",
+  "version": "1.0.467",
+  "notes": "- The editor’s writing margin now stays comfortable at every screen width.",
+  "pub_date": "2026-10-01T15:58:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm0rUy80d01jNHdYVGw4QkVIb29DOE1rVXZKZ2tFQSsrYXNwUnJ3WGd6dWFNUk5uUmt6K2I4a0F4MUVNOHgrQlczcWRPYytFV21LTTNad0NndG9CWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcwMDIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKdkIva3M0a20zUWlJQlora2xBUzBseXlUTlVWaVUycmZYT3RMWW5KVnVxeiszZjdiVndFbUxnN1V5bXE1WXVEQ0pNM1JJRzU1R0d1UXdvSkJNdGhXRFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.466/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdjazZDQms2aWI0d0U2QllqRnBnVDMrWll4TytCMUJDS1JRRkV4Ky9xejkwaWEwQTBVMGl3YUxqcmcxUUV4U0crcjd3VHdxbmhNZm5pY25Sdld1c2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcwMzkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOUtva1F6VTJncU12bHRqVENqekxQMTRreG54QWloK3lQamNkYkh5S3ljWFE0U2NKMXdVYXFOMzJKNGJrMEZKcE81b3duQVlheXB2MkZFYW5tNitDRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.467/Dayspring.app.tar.gz"
     }
   }
 }
