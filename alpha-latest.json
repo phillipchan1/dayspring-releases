@@ -1,11 +1,11 @@
 {
-  "version": "1.0.461",
-  "notes": "- The journal page feels more at home, with clearer dates, smoother line breaks, and tidier lists and quotes.",
-  "pub_date": "2026-10-01T04:18:09Z",
+  "version": "1.0.462",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-10-01T04:23:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnB3Y3diWkhxVnJ5UFdORE0vTzIvWFRCNGdZYU1Kd1Q3QWhZd3FQREFnaVdSdytMM2QvTzd1bzcyckY1OFg5Y1E1Ym9vZWlWbFQ3WTRrWFp1Mmg1QWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODI4Mzk2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMEFCM1lmUlMwekljbElJaVExdGlYTWpvdDhwUVlNWDJWWi83bDljTjNrRHFwdVNSb2kzL0FteXA0OWJSbk5jZldpOXBXU2k3TFEzenE2aHNPbXgvQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.461/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRRSVkraFhBcnh6Ni9lZFhkRkZ6bVRNOVFGNjU2WTNkc2VMdk84aU9OVFZLSGtlT3E0eWsxM3JJQUhIemJyMHdSbGpSTjYrT0NYSUZXbjFsRTZ4Y0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODI4NzA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcldORVZRRGllRGdsbVFUa2NXMU9hRG9neWZrdnZBSUY0V2orVnp6Y1U0ZjN4aGZLNXBwUURqQlQxT3ZqOWpNYnZpWW1NNlBNa3NzbDhlUkhBbHZ6RHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.462/Dayspring.app.tar.gz"
     }
   }
 }
