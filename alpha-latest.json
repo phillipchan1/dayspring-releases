@@ -1,11 +1,11 @@
 {
-  "version": "1.0.471",
-  "notes": "- Your line breaks now stay right where you put them—no more settling into new places.",
-  "pub_date": "2026-10-01T17:05:37Z",
+  "version": "1.0.472",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-10-01T19:26:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9zZGF3QVpxYzM4ZGlsZGxoUHNjSGswR0JBWXNDWWYrT1N6b2xySEdqSG1UalMxSy9udTBOcTVtcWJvb3lQck5YenBjdEg5c3hpQ3ZZVlBOejhFblFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc0NDc0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOTJPaHdYQUtqRklKUmpUMVlOSDRFVW1tMStlOU40eFdsVUtCK2hXblZrcExVYVVOcjVGT1hTdXVXNTcvZG9JVUEzYXpET0dtNHNPUUsyVlE3V2pZQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.471/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmcyWHJtMVJZcU83SUdDbExCVkxaRkNkdXNmVHEyTWJ5bEw3NlFvVmE1QUpjdXpTUmV2NkxXbkJxcWFQdm5ha3pHSDJNWFpaM29SOE5laXorZk40SVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODgyOTU4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOWdhaUhQUXduRTY0L3ZFY3lKQzBOR1JhNjViNlZ6Z3daOTJBdEJBZmxpeWx3Nmd4ait2OWd5OVRFc0xaL21RbWRYdmF6Q05nVkIzdTV0dEhXaWduRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.472/Dayspring.app.tar.gz"
     }
   }
 }
