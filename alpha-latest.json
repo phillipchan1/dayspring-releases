@@ -1,11 +1,11 @@
 {
-  "version": "1.0.464",
-  "notes": "- Plainsong’s body text is back to its intended style, and Cloister’s vertical line is gone.",
-  "pub_date": "2026-10-01T14:43:50Z",
+  "version": "1.0.465",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-10-01T14:58:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9OMy8vcE5SQnZ5YUxQUXFmNUtqMnFLOXJSNFZYUDhhdVpyZjY2RDJ2WUh0emcva1JzdjBVd2RSRThQNGFxZEx1bjB5c25ITEc1eVZEejBSTDVtYWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY2MTQ4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWmFDWUxOVGN0V0tvY0EyUFYvQVpvaXM1TnJiMU1DUmtNUm1mUW1pL2g2V3dwNXpmQ2V6SjdRS203R2ZBdmFDZXRjK3g5NElCcVI1R0p5aFpVWXlhQ1E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.464/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBlbnlSYzM0RXUreUV0bFMyVkhCZEtOV1FoWlZITVVQOUh1WDE2N2FWN1d2c28rdnlzVmh3UmtRUURHemhqNmF0aXhsVDI4ZU9adXBaLzQzTU5rNmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY2ODE0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWEozaTlwYkRhMm91anB0SS8ySHY5a0JFdVNCQ0kzSTY1ME5uZFJNdmFGQkwxVFFieUNUbFp0eWM4dkFtR3BjWWUvTERNcWRBRys3TW1xVm40bEhMQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.465/Dayspring.app.tar.gz"
     }
   }
 }
