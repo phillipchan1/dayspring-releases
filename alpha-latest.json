@@ -1,11 +1,11 @@
 {
-  "version": "1.0.470",
-  "notes": "- Voices, faces, and ritual text now feel more balanced alongside your writing.",
-  "pub_date": "2026-10-01T16:22:14Z",
+  "version": "1.0.471",
+  "notes": "- Your line breaks now stay right where you put them—no more settling into new places.",
+  "pub_date": "2026-10-01T17:05:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxBWkZSc3hJZWZvRUlOTWFjdFdRU1V6OC9Lbk41QmxtV3BxaDUzK05GZ0NXV1hqSXhQOXlsb0VaNlNWOTZCL0xGeTViODdDUkoyd3BHc1BpMEtZQWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcxODY5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL0o3Y2ZvYm5KV2JjemxROGhTKzdvYjdadWpDaERqdkhrQmptOW5XZ3VyU25GM1BCNE8rZzRIQ2kvV3hxWmg0SkhWckxnR2FQc0ZDY3FFQmJZbW55QXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.470/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9zZGF3QVpxYzM4ZGlsZGxoUHNjSGswR0JBWXNDWWYrT1N6b2xySEdqSG1UalMxSy9udTBOcTVtcWJvb3lQck5YenBjdEg5c3hpQ3ZZVlBOejhFblFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc0NDc0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOTJPaHdYQUtqRklKUmpUMVlOSDRFVW1tMStlOU40eFdsVUtCK2hXblZrcExVYVVOcjVGT1hTdXVXNTcvZG9JVUEzYXpET0dtNHNPUUsyVlE3V2pZQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.471/Dayspring.app.tar.gz"
     }
   }
 }
