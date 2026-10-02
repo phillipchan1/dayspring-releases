@@ -1,11 +1,11 @@
 {
-  "version": "1.0.484",
-  "notes": "- A verse in a ritual no longer shows an extra line beside the spine.",
-  "pub_date": "2026-10-02T16:28:14Z",
+  "version": "1.0.485",
+  "notes": "- Your reading highlights now light up the right chapter and verse.",
+  "pub_date": "2026-10-02T17:06:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJQVVVTQ21rOUtTQXhYYzMzbXlWc1J2YWZwVEFtVWV3ZmJCSlpHRUpEM0R5blJOQmZQdDczSitLL1A5WTlOcS9ISjNGYWFURXJvRVlvTjVVa1N1QVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU4NjQyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMlJwaVlFVzQvRFRnZmdxVEc1L0ZkNmRnYkhhYWhmYUVjM3NWQVlCNi9PcUdQaU1hRk03SjVGdjJEVHc4bW9PMVZ3VEovMWE2MVhVZk5SZG1lQUFpQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.484/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlFQTdXKzFrRjlRN3ZMc2Q2bDVqYXdQV1FjdkVkZjQ1dTlKNEI1MjFmbXNBVVVPWDlUR0p5WXA5NUdONm4ya1pWaURkc3Q3TVR6cEgreUF4MExMMHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYwOTUyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL2c0YVd6MWlpd1hrekVTbnJNWUZtSlloUlNlOE10NllkaDFVOUVhUzI3OVlQRTA3WWJaSmZVMUN2ekxQY1QxK0VWYlhuV092SElkZW44UnJuYTZKQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.485/Dayspring.app.tar.gz"
     }
   }
 }
