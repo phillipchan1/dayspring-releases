@@ -1,11 +1,11 @@
 {
-  "version": "1.0.483",
-  "notes": "- Signing out on one device no longer signs you out on your other devices.",
-  "pub_date": "2026-10-02T15:50:29Z",
+  "version": "1.0.484",
+  "notes": "- A verse in a ritual no longer shows an extra line beside the spine.",
+  "pub_date": "2026-10-02T16:28:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnB1cU90RnJadGg5dXNhbWNjejBBQnZaU3pueTA3SVBlSS9VVnlPQWs1dHBkeU9lUGJxUWFLZ1U0UGlmWTBVNTJnU0tXblF5aGFzVlJOQnB1NjFrcndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU2MzY1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRXlhWUZXdGdzMmR2UTJPV1lNZ0hJUG9UaW1EblFKYnd6eEkreFMrODdXNXJsTWtYL2VzSjhqcGcwUzF6NlBLbTNQRlBaQlFDUm5icXVFa1VqUkpDQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.483/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJQVVVTQ21rOUtTQXhYYzMzbXlWc1J2YWZwVEFtVWV3ZmJCSlpHRUpEM0R5blJOQmZQdDczSitLL1A5WTlOcS9ISjNGYWFURXJvRVlvTjVVa1N1QVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU4NjQyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMlJwaVlFVzQvRFRnZmdxVEc1L0ZkNmRnYkhhYWhmYUVjM3NWQVlCNi9PcUdQaU1hRk03SjVGdjJEVHc4bW9PMVZ3VEovMWE2MVhVZk5SZG1lQUFpQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.484/Dayspring.app.tar.gz"
     }
   }
 }
