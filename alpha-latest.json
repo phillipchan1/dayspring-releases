@@ -1,11 +1,11 @@
 {
-  "version": "1.0.485",
-  "notes": "- Your reading highlights now light up the right chapter and verse.",
-  "pub_date": "2026-10-02T17:06:40Z",
+  "version": "1.0.486",
+  "notes": "- ✨ Photos that belong together now appear as a tidy row, keeping each set together in your entries.",
+  "pub_date": "2026-10-02T17:27:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlFQTdXKzFrRjlRN3ZMc2Q2bDVqYXdQV1FjdkVkZjQ1dTlKNEI1MjFmbXNBVVVPWDlUR0p5WXA5NUdONm4ya1pWaURkc3Q3TVR6cEgreUF4MExMMHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYwOTUyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKL2c0YVd6MWlpd1hrekVTbnJNWUZtSlloUlNlOE10NllkaDFVOUVhUzI3OVlQRTA3WWJaSmZVMUN2ekxQY1QxK0VWYlhuV092SElkZW44UnJuYTZKQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.485/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRYVWVtZjdvZHY1SFkzNldtVzRtUG5FaDZiVDBkd2JPVHovSTJOakVtTUI3ZmZ2emZCbXBrcHhvYlc3SWNKVTh0WUFTQU9WVk9pMWJVQTNyVWFvRVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYyMjIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWi9JMWhNcklnQXNTdndwbUdEREttcVFFdlVuTWVnbTFMTUplaTlJSWpNTkpWQWpKbVIrSDliSXVhcE5jcEJIVjVRenR6ZlN5UXIydjFMM2tKbGgvQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.486/Dayspring.app.tar.gz"
     }
   }
 }
