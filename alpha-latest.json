@@ -1,11 +1,11 @@
 {
-  "version": "1.0.486",
-  "notes": "- ✨ Photos that belong together now appear as a tidy row, keeping each set together in your entries.",
-  "pub_date": "2026-10-02T17:27:58Z",
+  "version": "1.0.487",
+  "notes": "- ✨ Photo sets now fill the column neatly and move together when you drop them.",
+  "pub_date": "2026-10-02T17:45:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRYVWVtZjdvZHY1SFkzNldtVzRtUG5FaDZiVDBkd2JPVHovSTJOakVtTUI3ZmZ2emZCbXBrcHhvYlc3SWNKVTh0WUFTQU9WVk9pMWJVQTNyVWFvRVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYyMjIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWi9JMWhNcklnQXNTdndwbUdEREttcVFFdlVuTWVnbTFMTUplaTlJSWpNTkpWQWpKbVIrSDliSXVhcE5jcEJIVjVRenR6ZlN5UXIydjFMM2tKbGgvQkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.486/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnA1cHVxdWszNEI3Q0RadWl3OC9GZWdVODR5c0VkMUtQb2JOY1V4RUVZUDZHRyszYmgvQUsxUEQzc3ZxdjdJKyt1Sk9DRysvUzIxT0JBZDR3U2FDckFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYzMjU5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbjY3K0JtbDF2cDVUWVpCZ25ySFREdUR6aDRTQ1d0dm84N3IxYzZHRTFqK2ppYWlXc3ZoY29HSEU5R3ZlUXNUUXl6Q0RXbitIczR3Tk1FcFZseGw1Q3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.487/Dayspring.app.tar.gz"
     }
   }
 }
