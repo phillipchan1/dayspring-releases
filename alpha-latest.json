@@ -1,11 +1,11 @@
 {
-  "version": "1.0.477",
-  "notes": "- Keep a little inspiration close by: the scripture beside your page is always there to draw from.",
-  "pub_date": "2026-10-02T06:14:19Z",
+  "version": "1.0.478",
+  "notes": "- Your scripture ritual now lets you know when you’re signed out and offers a way to sign back in.",
+  "pub_date": "2026-10-02T06:26:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnRaZTdtU1JnRUIzY3kwMERad0ZBOHNrVzlGTUttK2h0blpSSnk2eHBKWFhDMFYwWDQ4L2ZZbG5NYmhuTGtzVVhDMjJzQkhWN2RxYmdFUnVJa2JKWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTIxODE1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNFNWYUFDVGJsRXdQVW5Ibm5odStBRFNEbHFYQ3hzUGtFNEtTMHR6ek5aVWk2bmEzSW9ic0I3TWE0ZGdJenlGdFY3YlYyS0wzaFRXMVI1VkhwSTRKQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.477/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFpc21yc1BqQThOM3hSZ2lqZjVodDZ0VUxLS1Yyelh2Q0tlOWhFenZxUzBBa3FEZ2Yyc3ZpbEwrT1VGV09VVXJ6Q1F5VjQxNlFCZHhhTnA3MElRZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTIyNTMzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ0lIMmE2dm1pU3NTVEpqUGE5S0xlbnp6RkI1cHdkMmNSSU1PRzN3NGRGNHZLNFpRUlFORHNHNG1FU0M5K215WTMrUEZVTlBnbm43TzJKVlloNlJYQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.478/Dayspring.app.tar.gz"
     }
   }
 }
