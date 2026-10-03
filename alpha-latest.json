@@ -1,11 +1,11 @@
 {
-  "version": "1.0.492",
-  "notes": "- Fixed an iPad editing quirk that could move the cursor unexpectedly when tapping below your text and pressing Backspace.",
-  "pub_date": "2026-10-03T19:40:06Z",
+  "version": "1.0.493",
+  "notes": "- Cards now show your photos themselves, and photo-only pages let them take center stage.",
+  "pub_date": "2026-10-03T21:39:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJkYldKejFiUE1uOUJLaWhlOTZvUVB2NmIreC9rLzdjNUNsd0xXc09sQjcxMUFDZFl3N3VEVHZObUExSXRxUjVoWkczMC9KTlkwUVVDNWFINHBMb1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU2NTQ4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQUt5bXhsYTZJSWY4QzBmYktTK1VrQjFtZUx4MHpSRTlqMk1kRU1ReGloVlo5RngwSStmTkJLQjBpNHFWY1R1akJpajVJMjB3RVN2VjM5dlVWV2M2Qnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.492/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlTcEVvUkRsK2diS3BVMkhDQ05wbFBnYUJ6ZnJVV0NRbG1Ba0RQZDcrQnkzK1cvNTFBL2xCNWpVY2pkM2FDQS9oWWR3RmNkNWhtR1ZsY1Bna1dHaEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDYzNzM2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaXpYMEVQUFJ2RHF3OUFuQklFMHlta3J4YVBzZTdUd0ZuTzZXeWlMRW9VVHZ4RTlRTGsvcll4RWJpZWFQczVFRUJ3VHRSNURFdFpicjU2dlowZlFYQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.493/Dayspring.app.tar.gz"
     }
   }
 }
