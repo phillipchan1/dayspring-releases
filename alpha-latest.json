@@ -1,11 +1,11 @@
 {
-  "version": "1.0.490",
-  "notes": "- Selecting words in a scripture reflection no longer accidentally swipes to another slide.\n- Long-press now works on the journal wall on iPad, and deleting an open page takes you back to the list.",
-  "pub_date": "2026-10-03T16:45:49Z",
+  "version": "1.0.491",
+  "notes": "- Photos in your entries list now show up like little prints, in their own colors.",
+  "pub_date": "2026-10-03T19:36:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdWR2ljUnBSN0VKLzV2MlNvYnVuajg5VUc0V2lsd3pEQ0llN01JV0xFeXNOUUxMOU03ZFpkc1M5WjYzTVJ0azlBM0dRN2RRZW9HU2ZnVTBDZkZSMndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDQ2MDcyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTGVEbU42am5RM0FEcktmQW1iMWladUl4MUdHVEtmQkJIdm42dktuSjE0RTFTRDZEN2xvcEVVMXRkZG8zdTM4YnZTQ3QzU2FFY1dTdG9ieU4zSjBvQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.490/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZxMHZJdVpBQTdYdWU5alhrTWY3TWg0Q2s1elIxTGZKN0toOFI0cFNMNXNqa0hVNVc5SjlaQXpGUi9VT2k1cVJXMEJDNEk0MzVITi9xQmFGZ2MzSGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU2MzEwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ1VCMkRGdG1kTmR1aldYL2gxWm1NM0I3WXB6ZWZVSHhEcFl2NkdtSHhMUEtHUzBiNHg3SU1KYkFBM1NCRTFCZjNYZEdrUDkxcWhtdXdKSzdPQjB5Q2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.491/Dayspring.app.tar.gz"
     }
   }
 }
