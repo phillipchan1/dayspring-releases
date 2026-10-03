@@ -1,11 +1,11 @@
 {
-  "version": "1.0.491",
-  "notes": "- Photos in your entries list now show up like little prints, in their own colors.",
-  "pub_date": "2026-10-03T19:36:32Z",
+  "version": "1.0.492",
+  "notes": "- Fixed an iPad editing quirk that could move the cursor unexpectedly when tapping below your text and pressing Backspace.",
+  "pub_date": "2026-10-03T19:40:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZxMHZJdVpBQTdYdWU5alhrTWY3TWg0Q2s1elIxTGZKN0toOFI0cFNMNXNqa0hVNVc5SjlaQXpGUi9VT2k1cVJXMEJDNEk0MzVITi9xQmFGZ2MzSGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU2MzEwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ1VCMkRGdG1kTmR1aldYL2gxWm1NM0I3WXB6ZWZVSHhEcFl2NkdtSHhMUEtHUzBiNHg3SU1KYkFBM1NCRTFCZjNYZEdrUDkxcWhtdXdKSzdPQjB5Q2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.491/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJkYldKejFiUE1uOUJLaWhlOTZvUVB2NmIreC9rLzdjNUNsd0xXc09sQjcxMUFDZFl3N3VEVHZObUExSXRxUjVoWkczMC9KTlkwUVVDNWFINHBMb1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU2NTQ4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQUt5bXhsYTZJSWY4QzBmYktTK1VrQjFtZUx4MHpSRTlqMk1kRU1ReGloVlo5RngwSStmTkJLQjBpNHFWY1R1akJpajVJMjB3RVN2VjM5dlVWV2M2Qnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.492/Dayspring.app.tar.gz"
     }
   }
 }
