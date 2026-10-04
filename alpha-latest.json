@@ -1,11 +1,11 @@
 {
-  "version": "1.0.493",
-  "notes": "- Cards now show your photos themselves, and photo-only pages let them take center stage.",
-  "pub_date": "2026-10-03T21:39:47Z",
+  "version": "1.0.494",
+  "notes": "- The iPad toolbar is easier to tap, and the margin column now stays neatly on the page.",
+  "pub_date": "2026-10-04T03:52:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlTcEVvUkRsK2diS3BVMkhDQ05wbFBnYUJ6ZnJVV0NRbG1Ba0RQZDcrQnkzK1cvNTFBL2xCNWpVY2pkM2FDQS9oWWR3RmNkNWhtR1ZsY1Bna1dHaEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDYzNzM2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaXpYMEVQUFJ2RHF3OUFuQklFMHlta3J4YVBzZTdUd0ZuTzZXeWlMRW9VVHZ4RTlRTGsvcll4RWJpZWFQczVFRUJ3VHRSNURFdFpicjU2dlowZlFYQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.493/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5QV2FSS2hKY1k0Q2ZoVXNCbTdZMkdSMDhqdTlwOU5MWHY2TTdLNTJaelFoOWZpWmF6TlMzVURSMjRhQWN1dy9FT3NlWTE3Y0RNbEgvOHo1VjVhb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg2MDU1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaHZlelN6Wks2NzBHeXkySmMvMGxlMWllM2RNdGFqOGlxV0lRdEpIS3YyT2xJbEpRcVI0c2ptRU0rK0NhK3ZuR3NjbmsxZDNSbXVkeG11bkZCSVcvQVE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.494/Dayspring.app.tar.gz"
     }
   }
 }
