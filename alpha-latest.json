@@ -1,11 +1,11 @@
 {
-  "version": "1.0.496",
-  "notes": "- As you write, your passage now rises to the top line of the page, keeping your words in view.",
-  "pub_date": "2026-10-04T05:17:34Z",
+  "version": "1.0.497",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-10-04T06:17:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxxM052M3BJVXJmQzE2eGI2WDlkTHBQRWQzcE5iTEtiL2kvVmtOaGMwaGFZZUdmS1VNYzh4QSs0c2tKYzFPQWRtUjQ1VXZvVE44TGFXYnhKY2o5b1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDkxMTYyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcUN2ZG5POHAxTm05Mm9WTWJ6U1Q2SEJ4ajhuYzJvZTdwdkNMbjFkYjROOGJBN1doV2JWSFlBMTlVMTUxOHF3WUNhWllXVjBNUHNhNDlJeDlTQ3NjREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.496/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmpMYzNvS09pT0JVUjl6dGIxSFh6ejdZWHllaDFMYUdYa1owZHpmOTJ6ZmtrZEFDMXlwRHRRaXJsV3pkZzhzRnRtZFdmZHkwOFNscVdpd3hOWU1Gb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk0NzY1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKK0lmMjA0MXQrak9hQ21DOTU4S1VINEJCVjN5czlxdFhxTUM2aWZZbGNnNVJERUJBR1BZZU9wYU1NMHVQd2R5KzRqQWcwY3Z2anBIVm9Fckg0T1paRFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.497/Dayspring.app.tar.gz"
     }
   }
 }
