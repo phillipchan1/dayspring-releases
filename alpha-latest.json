@@ -1,11 +1,11 @@
 {
-  "version": "1.0.495",
-  "notes": "- The writing frame now feels at home with or without it, works beautifully on iPad, and gently fades away once you start writing.",
-  "pub_date": "2026-10-04T04:31:40Z",
+  "version": "1.0.496",
+  "notes": "- As you write, your passage now rises to the top line of the page, keeping your words in view.",
+  "pub_date": "2026-10-04T05:17:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJDZnlndFdUUG1oTjB0eHl5WU5KYzM2NnFlcklwTUF6SkJicXRMTnY4TjBOV1lyTFBMREtFcmcrUGI4RFR2czdWTjc3ZWNGK1BFWXRtc2J4M2QrYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg4NDU2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbnU0aFFOb3RDSGlwdDNkRzZxR3psRHlQT2dITlhZam1JWDB3aHRtKzVab2E0ZHEvazd5eWM3KzZiNXFiMFAwRklPK2ZxbWJUNnhPeHAxYU1iVVRaRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.495/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxxM052M3BJVXJmQzE2eGI2WDlkTHBQRWQzcE5iTEtiL2kvVmtOaGMwaGFZZUdmS1VNYzh4QSs0c2tKYzFPQWRtUjQ1VXZvVE44TGFXYnhKY2o5b1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDkxMTYyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcUN2ZG5POHAxTm05Mm9WTWJ6U1Q2SEJ4ajhuYzJvZTdwdkNMbjFkYjROOGJBN1doV2JWSFlBMTlVMTUxOHF3WUNhWllXVjBNUHNhNDlJeDlTQ3NjREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.496/Dayspring.app.tar.gz"
     }
   }
 }
