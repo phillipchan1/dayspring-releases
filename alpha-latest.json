@@ -1,11 +1,11 @@
 {
-  "version": "1.0.498",
-  "notes": "- Nighttime colors now follow your chosen palette, so your journal feels more like yours after dark.",
-  "pub_date": "2026-10-04T06:30:45Z",
+  "version": "1.0.499",
+  "notes": "- Photos now open in the viewer right from an entry, even on your phone.",
+  "pub_date": "2026-10-04T18:05:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdEcm95QnNGcWdEWGs3azdIbHVqS015SVgvZVAycmJJbmZhd2RiaFZRTTh6KzZxU0d5YlcyQ3NrM0c5V285RGRRcDI2RzBFazdZSzJRMXJNM3luSncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk1NTU1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRS90dkJEeU5FdWcrNGVsWElwVXJKZkpZakI3d2wvS256MnlTZkZMRC9xMzZkcWc0N1JOQXorR2pmK09mamJEMUdBeG44b2JuYWZyd2xwbnpxUnVnQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.498/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdiREtMR3dzZ2gxL1JpbzV1cVo2cnV3ZjIzWnJuZGthWnRNWUY4dWdiMjVEbHJyWlNsUkhFZkRvMUdoSFJzRklqMWVINUpIVnBFakJFVWJaU1ROK0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM3MjczCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaXEwK2ZmOXhqYWVqaFpJaUFiOW5pWFI4a2FpT1lqQnkzYUk4M2NzR2VqeU43REI1VmZCaFRRbytJMnBwdmVhd1FuemgxVFp0Zi9xRkNWbXMrWGFyRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.499/Dayspring.app.tar.gz"
     }
   }
 }
