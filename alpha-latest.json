@@ -1,11 +1,11 @@
 {
-  "version": "1.0.499",
-  "notes": "- Photos now open in the viewer right from an entry, even on your phone.",
-  "pub_date": "2026-10-04T18:05:24Z",
+  "version": "1.0.500",
+  "notes": "- The phone reader bar has a calmer, cleaner look.",
+  "pub_date": "2026-10-04T18:27:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdiREtMR3dzZ2gxL1JpbzV1cVo2cnV3ZjIzWnJuZGthWnRNWUY4dWdiMjVEbHJyWlNsUkhFZkRvMUdoSFJzRklqMWVINUpIVnBFakJFVWJaU1ROK0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM3MjczCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaXEwK2ZmOXhqYWVqaFpJaUFiOW5pWFI4a2FpT1lqQnkzYUk4M2NzR2VqeU43REI1VmZCaFRRbytJMnBwdmVhd1FuemgxVFp0Zi9xRkNWbXMrWGFyRGc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.499/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBzT1ZyQkxNOU8zOVJQM0lUZk1QMWhLZFRWTGU0R211YXNDQUIwd2laeC8vN1EyMWRzUGxrR2M1am9YOTRzNVk0UGI0KzBLU1FYcTZTVGdMTlAyREFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM4NTcyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMkRTTWVVSzF4K3U3dmJTZ3RGcWNOdElqNVRPTmN5ODR2M2t3bmlpM2NhQ0RJVVluUmFsbEhZTU1EN3ZlcWlZSDdROVdncUN1Mm1WYmRWMk9Ld3AvREE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.500/Dayspring.app.tar.gz"
     }
   }
 }
