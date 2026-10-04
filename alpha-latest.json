@@ -1,11 +1,11 @@
 {
-  "version": "1.0.494",
-  "notes": "- The iPad toolbar is easier to tap, and the margin column now stays neatly on the page.",
-  "pub_date": "2026-10-04T03:52:28Z",
+  "version": "1.0.495",
+  "notes": "- The writing frame now feels at home with or without it, works beautifully on iPad, and gently fades away once you start writing.",
+  "pub_date": "2026-10-04T04:31:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5QV2FSS2hKY1k0Q2ZoVXNCbTdZMkdSMDhqdTlwOU5MWHY2TTdLNTJaelFoOWZpWmF6TlMzVURSMjRhQWN1dy9FT3NlWTE3Y0RNbEgvOHo1VjVhb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg2MDU1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaHZlelN6Wks2NzBHeXkySmMvMGxlMWllM2RNdGFqOGlxV0lRdEpIS3YyT2xJbEpRcVI0c2ptRU0rK0NhK3ZuR3NjbmsxZDNSbXVkeG11bkZCSVcvQVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.494/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJDZnlndFdUUG1oTjB0eHl5WU5KYzM2NnFlcklwTUF6SkJicXRMTnY4TjBOV1lyTFBMREtFcmcrUGI4RFR2czdWTjc3ZWNGK1BFWXRtc2J4M2QrYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg4NDU2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbnU0aFFOb3RDSGlwdDNkRzZxR3psRHlQT2dITlhZam1JWDB3aHRtKzVab2E0ZHEvazd5eWM3KzZiNXFiMFAwRklPK2ZxbWJUNnhPeHAxYU1iVVRaRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.495/Dayspring.app.tar.gz"
     }
   }
 }
