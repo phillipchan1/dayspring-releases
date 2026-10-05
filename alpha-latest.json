@@ -1,11 +1,11 @@
 {
-  "version": "1.0.501",
-  "notes": "- Dropped photos now appear on the page right away and come into colour as they save.",
-  "pub_date": "2026-10-05T05:51:19Z",
+  "version": "1.0.502",
+  "notes": "- Corrected a small detail in the What's New notes.",
+  "pub_date": "2026-10-05T14:46:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9lV0g2Tnd2UWt2T21vRWhmMmNUVnF4WEorcjVEK3VQcXBLWHZSSzFUaUdhUzhTQUxrV29QVkdlT0VnOHBNNlY3eDZCRFB4VjNxK3Jhb0c4aDRZOHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc5NTgxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTEdwcVdPc01TcEs0VVRETUMzNmljaGRWcUhOR0dMUHkyZEtwZk96QW9Jd0QrM044c3lQS2NHYldrS2h3dVU4Q2NOLzY0ZTRUYVZyS3U0b3JFVGNFQUE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.501/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmx2ODdKdmw4ODlTWHlnZk13ZHA4WkMzRER1bUZFRUNwUTVZY2xXbWdiVmJsY3JHRmQ0VHRwZTBLczhOYXNMbmc5R2VFbi9ERG5pMDFxQTBEUXE0Q3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjExNjgwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKc0hRd1hBMGJIdXFOMks0ZjRkU3I2MDk0UHdYQXl5UGhockhKdDBLNTI2RHhPNk8xYmNlWTJmVzBobXk4NWV6V1F1WkRkTS9iL3djZkszU1RIQXk3RHc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.502/Dayspring.app.tar.gz"
     }
   }
 }
