@@ -1,11 +1,11 @@
 {
-  "version": "1.0.500",
-  "notes": "- The phone reader bar has a calmer, cleaner look.",
-  "pub_date": "2026-10-04T18:27:11Z",
+  "version": "1.0.501",
+  "notes": "- Dropped photos now appear on the page right away and come into colour as they save.",
+  "pub_date": "2026-10-05T05:51:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBzT1ZyQkxNOU8zOVJQM0lUZk1QMWhLZFRWTGU0R211YXNDQUIwd2laeC8vN1EyMWRzUGxrR2M1am9YOTRzNVk0UGI0KzBLU1FYcTZTVGdMTlAyREFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM4NTcyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMkRTTWVVSzF4K3U3dmJTZ3RGcWNOdElqNVRPTmN5ODR2M2t3bmlpM2NhQ0RJVVluUmFsbEhZTU1EN3ZlcWlZSDdROVdncUN1Mm1WYmRWMk9Ld3AvREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.500/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9lV0g2Tnd2UWt2T21vRWhmMmNUVnF4WEorcjVEK3VQcXBLWHZSSzFUaUdhUzhTQUxrV29QVkdlT0VnOHBNNlY3eDZCRFB4VjNxK3Jhb0c4aDRZOHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc5NTgxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTEdwcVdPc01TcEs0VVRETUMzNmljaGRWcUhOR0dMUHkyZEtwZk96QW9Jd0QrM044c3lQS2NHYldrS2h3dVU4Q2NOLzY0ZTRUYVZyS3U0b3JFVGNFQUE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.501/Dayspring.app.tar.gz"
     }
   }
 }
