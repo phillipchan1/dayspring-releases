@@ -1,11 +1,11 @@
 {
-  "version": "1.0.502",
-  "notes": "- Corrected a small detail in the What's New notes.",
-  "pub_date": "2026-10-05T14:46:22Z",
+  "version": "1.0.503",
+  "notes": "- Leaving the editor now returns you to the page smoothly, right where you left off.",
+  "pub_date": "2026-10-08T23:13:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmx2ODdKdmw4ODlTWHlnZk13ZHA4WkMzRER1bUZFRUNwUTVZY2xXbWdiVmJsY3JHRmQ0VHRwZTBLczhOYXNMbmc5R2VFbi9ERG5pMDFxQTBEUXE0Q3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjExNjgwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKc0hRd1hBMGJIdXFOMks0ZjRkU3I2MDk0UHdYQXl5UGhockhKdDBLNTI2RHhPNk8xYmNlWTJmVzBobXk4NWV6V1F1WkRkTS9iL3djZkszU1RIQXk3RHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.502/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5DakxnZ0psZDJuVXl0ZzM1YnVPYWIxUWdrZUFNU3dpL09WNGx2YS9GRUQyelVaV1AybGZXbyt3ZEhmODhodHg0ak5BeDN5TDN3VmgwTE5zM0FIZmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAxMjg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ1VSSk9udnBwNVo1Skw1YXUxdnVEQ0FWejF4WDcvYnYwN0xGVC9rWUZrQjNRV3NZbFplemxKei8wRExqT1dydTAyc3JqT1o4dHlLRjloSkN6MUk0Q3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.503/Dayspring.app.tar.gz"
     }
   }
 }
