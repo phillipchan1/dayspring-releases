@@ -1,11 +1,11 @@
 {
-  "version": "1.0.509",
-  "notes": "- Time horizons are now consistent across Altar, Lamp, and Pages, with week, month, season, year, and all-time views.",
-  "pub_date": "2026-10-10T16:35:43Z",
+  "version": "1.0.510",
+  "notes": "- Every room now feels a little more at home, with a shared frame, bar, and When view.",
+  "pub_date": "2026-10-10T18:44:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnAzNXBXM3ZDTXlDN3k1TDNJSjRQcm1CVmQ3YWNxQlVPSDFrS2JOLzRLMGN6TjNFM3B2eVV3MjZlcDZUK2hHc3RKMEsvcVBXQktKTE9yMktzdEE5SUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjUwMjkyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKOFkxUzBmdTF0dmIzRXJoK05ndklYanExc25VaTNMVi9JQVI3VjhNZzF1QWFibXJNejNzdkNiR3Rna1lQYUxtOFpFbndsbVczcVJySVpEaWZHbmtkQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.509/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlZaHV4ZWdRY2l1UzNHRzRoYmVzbjgyNU9mNjlkeHRrd1RYbEEyYUpjWEFVZTZtMGdIUDZCT09NZFJTdVl1QmtUd2xFVytKWDY0a2tJTkFUZnhkU0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjU3OTkzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNHdYaklKdzVsOWN6Uzd1NGZEbXRaVjFkN1JuN05EaE9wd1RzNnNEYnFqZTFoYlBLODBReWxWbXlmZkswTlRTSWtYR3UzWGZIeUZPb3J1NGtTS0hWQXc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.510/Dayspring.app.tar.gz"
     }
   }
 }
