@@ -1,11 +1,11 @@
 {
-  "version": "1.0.506",
-  "notes": "- The “Look for” sheet now stays above the wall’s volume control.",
-  "pub_date": "2026-10-10T15:50:54Z",
+  "version": "1.0.507",
+  "notes": "- Your journal has a fresh, clean look with Archivo, a new sans-serif font.",
+  "pub_date": "2026-10-10T16:00:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhGTVZuYnl6TksrMW9Hdk1mZVZxYXZPT2txTG5GVWx5NWp2YWN2L1U2WmNsaHRVY3Mra2JYeFFNWDhQZXlkZHNGMEh4SVBESDVPZjF1WENocTZvMWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjQ3NTkwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQ3NsZEMwcmFWaWZ2WTBVVG91S3ZKL2taTUJwTko4MS9zRG93cmVXL0RtNW9YS2d4ZWZlVUgvL21PTnAxcEozR1VtMUErcmUyVXM4Q0NwMHk5bXl2QVE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.506/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnAySWtLc2tSMVlhZ1pZak5Rb2xCVk1QRE83Wis2TkVZMlErb1QzWnZyOXZHNmNXVng1NllraVY1aHEza2tVbzFiNEcrQVBIRkFyM3dtQnMzOEh2andRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjQ4MTg5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKRTVvbkpEeEt6RS9xM2xCbGw4cWdOLzVMRW8xZm9uTGNockEvaS9pVDV4ZDdaVWdxNWVkRVYvZ1FuNjVFdXZ0ODdlTFMrOGx4aHJOZVpLQjllL1NlQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.507/Dayspring.app.tar.gz"
     }
   }
 }
