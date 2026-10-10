@@ -1,11 +1,11 @@
 {
-  "version": "1.0.504",
-  "notes": "- Your reading and writing pages now line up, so nothing shifts as you move between them.",
-  "pub_date": "2026-10-08T23:48:23Z",
+  "version": "1.0.505",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-10-10T15:36:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm5oYWR6NWMxQVdEcFlSYlFwRHpsRzhsUFVRMURQNTRZQUc5eW5uQTlmRmtLQUFBNnQzdDU1Rjh2MUhDVzdJWUM2eHA2WENsZFZ5aXRaTnFwTk1lekFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAzNDcwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKazVxZnZndGpHMGxTNkV2Q295aDd6N3NzWnJIb3U0YVJxaURNTlRGaGlvWUEvN3hPdzdFdXZqMUNiZExmWWZLTlFGaDFGWUlCZVhUQ1VjRTB3RGRuQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.504/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxMcmhsUTZOZGVhd25Uai9sTmhSWGtESFlvWUt1R0FNR1FIcFFWcDhVYUcvOG5ZRVlFQXp0clVnSncvMm5WOFZIQUI4bXcxcEVBT1p6Q0FOWHU5R3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjQ2NzQxCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKc1VnNGVYTTk0a2txN0dKaTQ3bTUvdUZwTmpyekErVkhJZnZMRU95SU5PMzhQNjA3aWZvVkhvRmxBckliSkZ4TytZQ1FoWHBRNGlrM0tqMnArUWdtQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.505/Dayspring.app.tar.gz"
     }
   }
 }
