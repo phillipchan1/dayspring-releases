@@ -1,11 +1,11 @@
 {
-  "version": "1.0.512",
-  "notes": "- The reading view now leaves a little breathing room after the title.",
-  "pub_date": "2026-10-12T15:25:33Z",
+  "version": "1.0.513",
+  "notes": "- The scrollbar stays out of sight while you write, leaving your journal a little calmer.",
+  "pub_date": "2026-10-13T13:26:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmo5c0tGVXYxQmgzVnFBeVcrSkFaSTlvazYrbW9IRVJCenVSWEN5dUcvbEdjdERnMFF4emsyekhUaXM4S3ZGV0ZWSjg3UjUwc0tZYnlJcGMvTXduRHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODE4ODIyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTVozeFRVbjY0TkdOMTdnb3FPTnEvaTU4RzVxdENRVitLTjZFK3JkU3l3TGw2N3ZQblVGTmUxd2V3cjFnZkFhYlNHd0JlNlIwb25RdnJ1OEpOUHRTQWc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.512/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVZNVFULzczdVdNY21QNytFalNzWjRuVE5DRldXQUhCVEJnZzNZbEFsNXZVZEVYdXpBREVZcVF1dEJTK0swbHR3TkhVU1B6SFQ2OFVyVVlQd2JxWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODk4MTQ1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKWDNWUVljZkZETGVadWl6TUUxcHhMbmpLN0xpQlFZT01lSHdIdlZVdG5oc2tTbWJYRHFNL0VsOXpGNGY5ekowMTA1WE9NOXZZektucnpmeU9ZZ2E4Q3c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.513/Dayspring.app.tar.gz"
     }
   }
 }
