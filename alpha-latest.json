@@ -1,11 +1,11 @@
 {
-  "version": "1.0.515",
-  "notes": "- The + stays on the line you’re writing until you move the mouse.",
-  "pub_date": "2026-10-16T14:09:53Z",
+  "version": "1.0.516",
+  "notes": "- Settings has a little more room to breathe on larger screens.",
+  "pub_date": "2026-10-17T16:29:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnF2Z1krcDI4cGs1dXlTVW1GN0tzY0swc1VvWHo3dEhzYnQvVEtORVhDTm9TdUQvaGJzQUE3b3VXd2JvcnVXaHQ0bTZLQkhKc1B1ME5kQWRrZ1hIcUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTYwMTU3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKMVpwOEFLZ0RGK0g5VEFzazIvQjNvbmZtRzcwU3YxNllmb294dU1GTnBlNm10bk5xN0ZLV2dKT3VUYmZMdjZLUVhZcTNCVkNDWUN2M01lcEhwRjU3REE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.515/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxGdVpYSWp3cis1YldOTEtHWTB2em1iOEdmRndtN05KNm5nU0dCTnBUbDlZd0hvOTJFdWF1UXI4RzR6Z3dtaDY1RnR2NVNxYUd2ejlIKzBWT2YzZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU0NzM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVWJ4MCt0dXV5aWRseTBrNEFiOFZpLzYvViszaUNCWnJHMVpnMHBhbXdDdWtrbmNROGdiREsvN3VTL0Z1SFNpRlhjZ214dk05bCtUWnY5V1NnQXAxQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.516/Dayspring.app.tar.gz"
     }
   }
 }
