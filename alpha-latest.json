@@ -1,11 +1,11 @@
 {
-  "version": "1.0.516",
-  "notes": "- Settings has a little more room to breathe on larger screens.",
-  "pub_date": "2026-10-17T16:29:54Z",
+  "version": "1.0.517",
+  "notes": "- Find Dayspring on Instagram from Settings → About, alongside the other helpful links.",
+  "pub_date": "2026-10-19T05:31:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxGdVpYSWp3cis1YldOTEtHWTB2em1iOEdmRndtN05KNm5nU0dCTnBUbDlZd0hvOTJFdWF1UXI4RzR6Z3dtaDY1RnR2NVNxYUd2ejlIKzBWT2YzZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU0NzM3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVWJ4MCt0dXV5aWRseTBrNEFiOFZpLzYvViszaUNCWnJHMVpnMHBhbXdDdWtrbmNROGdiREsvN3VTL0Z1SFNpRlhjZ214dk05bCtUWnY5V1NnQXAxQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.516/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWms1NE5yRmFUazZXelZlS1Vlbng3Ny8rRWp5K2NGcjRjY0o2QnExS1E3ZGpaS0lXYnZ4dUNlRnZIQlhhWTF1ayt5ek9MMGF4YlBsaTZmRmZoL2pwNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg4MDA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVEEzdnVXUWovdkFkaWsxTXl0bEtXelFFdDhySS9Dd0wvOVIra1AwdVNyZGgxL1hsS2RhZHRFQ2hmblo1SW9MV2w1ZWZ5NEhjRGNNcGV6L2RGajl6Q0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.517/Dayspring.app.tar.gz"
     }
   }
 }
