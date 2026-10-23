@@ -1,11 +1,11 @@
 {
-  "version": "1.0.517",
-  "notes": "- Find Dayspring on Instagram from Settings → About, alongside the other helpful links.",
-  "pub_date": "2026-10-19T05:31:38Z",
+  "version": "1.0.518",
+  "notes": "- Choose how the typewriter effect works in the regular editor: off, only while focused, or always on.",
+  "pub_date": "2026-10-23T14:43:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWms1NE5yRmFUazZXelZlS1Vlbng3Ny8rRWp5K2NGcjRjY0o2QnExS1E3ZGpaS0lXYnZ4dUNlRnZIQlhhWTF1ayt5ek9MMGF4YlBsaTZmRmZoL2pwNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg4MDA3CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVEEzdnVXUWovdkFkaWsxTXl0bEtXelFFdDhySS9Dd0wvOVIra1AwdVNyZGgxL1hsS2RhZHRFQ2hmblo1SW9MV2w1ZWZ5NEhjRGNNcGV6L2RGajl6Q0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.517/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnM2ZmlNc1BERmFWNjZMaDlVcmhEUDE0dEZhTVU2bjBSZElmSy9pYmsrSmNQN2s0KzlKdUxyVGJsL1JaSElFcTRTcWlrcGZKOWpScW55Zkp4SUV4cWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY2Nzk0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUk02ZGdmQmgwMFFqRndNVy91c0xpVlJhVVFxSEVHWFpvb3JOQ25DM0dCVG1ZUVVxVG9XM0J2S1dacGxsSHJpOTVSRmp0VXlWb3FnWW1ndHIwbUVkQnc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.518/Dayspring.app.tar.gz"
     }
   }
 }
