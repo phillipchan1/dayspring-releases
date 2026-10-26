@@ -1,11 +1,11 @@
 {
-  "version": "1.0.518",
-  "notes": "- Choose how the typewriter effect works in the regular editor: off, only while focused, or always on.",
-  "pub_date": "2026-10-23T14:43:58Z",
+  "version": "1.0.519",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-10-26T14:04:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnM2ZmlNc1BERmFWNjZMaDlVcmhEUDE0dEZhTVU2bjBSZElmSy9pYmsrSmNQN2s0KzlKdUxyVGJsL1JaSElFcTRTcWlrcGZKOWpScW55Zkp4SUV4cWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY2Nzk0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUk02ZGdmQmgwMFFqRndNVy91c0xpVlJhVVFxSEVHWFpvb3JOQ25DM0dCVG1ZUVVxVG9XM0J2S1dacGxsSHJpOTVSRmp0VXlWb3FnWW1ndHIwbUVkQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.518/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmh4N0lKdGJad1ExNS9iMDFQMEZsMkh5WlZBczVwN2k3cGtKL1d3a1Y3Z082OTdHYXk5ZlhVYjJYaW83SElCa083dHRBR2IxMEU5T1hMODgrM25TTndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIzNTk2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZ0sxQlord0RFTndoQ3IrbFZJMGJ4UlNSc2pYVWtoVGxreHVaS2cxdFhtREFtUTJwNVVrTE9HRjlZRFd0bzBIMjcycUJPYk1sRFQ4YnkwK1doN0ExQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.519/Dayspring.app.tar.gz"
     }
   }
 }
