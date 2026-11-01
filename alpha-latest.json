@@ -1,11 +1,11 @@
 {
-  "version": "1.0.520",
-  "notes": "- The writing font menu now stays open while you scroll through your options.",
-  "pub_date": "2026-11-01T15:10:25Z",
+  "version": "1.0.521",
+  "notes": "- Give your journal a fresh feel with four new typefaces: Lora, Merriweather, Literata, and Lato.",
+  "pub_date": "2026-11-01T15:24:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm1OZjdqNnYzdEtzdTdPaFhSRlV2clU5cDZRVlNHdTUxSS9wcm9EcDB3a21DMSsweE5SOW1WVnMyUG5PVG13eXc5aFZ6N1p4cW9MdmM5ajlQc2x1UGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ1OTg2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKaDQ5VDhSaWE2MW90aFVWYWhPaHU5VVRkU1NoNllWYS9yZlRhYnErVWN6dXBLRzh5Ym04MlZ1dmcrRzNsRDBmUXV3QVRGdXZPYWs5LzRKeGpKeDZrQnc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.520/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlFSEpUQUxQZU5iNEU0YnV6RWxxa1h6TFV1azN1WUxjbEFCQzU2ZGtRcm9kazBwSTV6NDAwWHlJZW5Kd3lJc0lYalpvYTF6Y2hqV1VYeHI3R21iQ2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ2NzM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQUJhckVOTFo2aHJJWkdiV0kxVCs1ZHdxTFVkMnZGd0VCNHJVcnJ3K2VNQTBEbTVDekZHd1pSRzIvRDhuS0w3RjUrNS95ZHVpWDZJQkhyY2lHV1dXQWc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.521/Dayspring.app.tar.gz"
     }
   }
 }
