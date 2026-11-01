@@ -1,11 +1,11 @@
 {
-  "version": "1.0.522",
-  "notes": "- Going back now returns you to the period you left, with a note to let you know.",
-  "pub_date": "2026-11-01T16:47:22Z",
+  "version": "1.0.523",
+  "notes": "- 🎉 Photo viewing now supports swipe-through paging, pinch and double-tap zoom, and an easy pull-down close.\n- Writing feels more natural, with familiar keyboard shortcuts and smoother formatting, editing, search, and photo controls.\n- Getting around is smoother, with finger-tracked pages and sheets, swipe-back navigation, and better keyboard focus.\n- Your Life Map loads quickly, updates as you add or remove items, and lets you undo changes.\n- App lock is easier to use, with clear passcode dots, quick unlock on the final digit, and a shake when a PIN is incorrect.",
+  "pub_date": "2026-11-01T17:18:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNPZGlsK1hGVWdNdElmdGVjRmF2QS92SUVGZHE4dWJWSE1ZQ0c5QklWQU9XbDRzaWJya0FjT2RmNllYQVlrY2wzd014S3dGRVlGMkx0MUtEQWEwUkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTUxODA5CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKb1RRZWVNWFBaTnExZGdVN0RzL29rMHcrdE1lL0RCajZTZjBNSXdwaVdtT2hreDM1c2Q4S1VmZnN3MnlPdks1Njd1cERvTG5rcVd5Rkt2bGhYMXA0QkE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.522/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtCWWFBcEZEc0VvVHVEbm9tVG04TkZUc1NLVHRac3kwSHpoVVhaMEVaVnRoZUJ0WlhWQnRmeXA2STl4ZGZrMWtqTjdtZWpZTmgrM3l2WVBmYVJLNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTUzNjY0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSzF0d1d6OHRsM0pPOW9GQzE0WnhWT3FxUklkSzdMU2RBeHcvUnBxTTMxRlEwMzRSUlgwcUM5V3dWaEU1bEp4aVN1YStzb3RjaWY4RlphT2I1WFR3RFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.523/Dayspring.app.tar.gz"
     }
   }
 }
