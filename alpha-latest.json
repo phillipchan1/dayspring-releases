@@ -1,11 +1,11 @@
 {
-  "version": "1.0.523",
-  "notes": "- 🎉 Photo viewing now supports swipe-through paging, pinch and double-tap zoom, and an easy pull-down close.\n- Writing feels more natural, with familiar keyboard shortcuts and smoother formatting, editing, search, and photo controls.\n- Getting around is smoother, with finger-tracked pages and sheets, swipe-back navigation, and better keyboard focus.\n- Your Life Map loads quickly, updates as you add or remove items, and lets you undo changes.\n- App lock is easier to use, with clear passcode dots, quick unlock on the final digit, and a shake when a PIN is incorrect.",
-  "pub_date": "2026-11-01T17:18:59Z",
+  "version": "1.0.524",
+  "notes": "- ✨ Scan pages or pick photos on iOS to add them to your journal.\n- Enjoy gentle haptic feedback and handy native menus on Mac and iOS.\n- Open Settings or find what you need right from the Mac menu bar.",
+  "pub_date": "2026-11-01T17:30:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmtCWWFBcEZEc0VvVHVEbm9tVG04TkZUc1NLVHRac3kwSHpoVVhaMEVaVnRoZUJ0WlhWQnRmeXA2STl4ZGZrMWtqTjdtZWpZTmgrM3l2WVBmYVJLNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTUzNjY0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKSzF0d1d6OHRsM0pPOW9GQzE0WnhWT3FxUklkSzdMU2RBeHcvUnBxTTMxRlEwMzRSUlgwcUM5V3dWaEU1bEp4aVN1YStzb3RjaWY4RlphT2I1WFR3RFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.523/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhmKy9hOU11RDU5V3RLZjJmcktxS0hnYmtkUnB2V3lNZGR0UldkNFk5VHdqK3VGS1JPREFhZ3RUVEVWVFpXY1JzZFMzemJ5L1hnQ3R0bHNGbTVJNnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTU0NjI2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbUpKaEpwN09wSjN1QldjYjV5TjJpMUdTbUMwUTNqL3h1VVhndEhmdCtHT0NYeEpqZzFLeldxTk1zaWtKQk85eHdvUTFrZmdZcUwzdXB0emlwbEZpQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.524/Dayspring.app.tar.gz"
     }
   }
 }
