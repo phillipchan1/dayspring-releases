@@ -1,11 +1,11 @@
 {
-  "version": "1.0.524",
-  "notes": "- ✨ Scan pages or pick photos on iOS to add them to your journal.\n- Enjoy gentle haptic feedback and handy native menus on Mac and iOS.\n- Open Settings or find what you need right from the Mac menu bar.",
-  "pub_date": "2026-11-01T17:30:38Z",
+  "version": "1.0.525",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-11-03T14:42:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhmKy9hOU11RDU5V3RLZjJmcktxS0hnYmtkUnB2V3lNZGR0UldkNFk5VHdqK3VGS1JPREFhZ3RUVEVWVFpXY1JzZFMzemJ5L1hnQ3R0bHNGbTVJNnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTU0NjI2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbUpKaEpwN09wSjN1QldjYjV5TjJpMUdTbUMwUTNqL3h1VVhndEhmdCtHT0NYeEpqZzFLeldxTk1zaWtKQk85eHdvUTFrZmdZcUwzdXB0emlwbEZpQ2c9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.524/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnNGdjlGc2U5YmVrd3hzWnNwbzNXMDRJaVFBUzVSWlhkclJTV29hZFdPNWEvU2FhRERhREs3bTFEN0k2UFAzMU9GdXFFdTdoVVpOOXF3SVZ0YzdTUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE3MTEwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUENBYTZCRlRXYnpLRTRtaDNkZkZuTzRYbzJhM0xqNWI3Ym5PbFlGcVN6em1teHRXSUQwa0t0R2s0YUY2SHB4am8vaXJtVnJmQ3gyZklHNmRaak41QlE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.525/Dayspring.app.tar.gz"
     }
   }
 }
