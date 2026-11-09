@@ -1,11 +1,11 @@
 {
-  "version": "1.0.526",
-  "notes": "- Inline formatting now behaves more reliably when selecting text on your phone or desktop.",
-  "pub_date": "2026-11-08T19:10:53Z",
+  "version": "1.0.527",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-11-09T19:21:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm0vdEYyWERZVU8wZ2d0NGI5cFVoTFNhUHQrTThQRVNFazlBa2I5aWdvUFZjbTNYcGNRTkxUeEVSRkxwaGpkcGU5ZVNwQUc4US9ETG1odmszRXVOYndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY1MTk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKUmJ1b0IvMU1yUVYxbkFVT3FjYm5NVjc5anVpbUJCNk1qd2J1U3FuY2s4V1RhRTlXdjJvN0hkVUZ6bDhMZ09oZiswdWtpQnJRN20rSFZQZVN2ZGVQQmc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.526/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWms4UmpPbUI4VGRKSnRyRjBud1lXQVUwN0lma20zdGJva3diUEhzcmhQVFV2UWkyRFpvQUxYM0lzMnJidU91QXpTUFdrNEVkeFVrZWc1YmIvczRlelE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjUyMTk2CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKS1dLN2dOaTRDTVRwTFJTaUtWN3pYTHAzZnZjTVhvb2FvV1VRR2Q5QVZBQk1ROXJrRHVKRWI0TkRDa3EvWnJJMUxHVnh3am93Z2kvNWJSc3ZoVGxlRGc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.527/Dayspring.app.tar.gz"
     }
   }
 }
