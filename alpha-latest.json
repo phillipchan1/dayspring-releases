@@ -1,11 +1,11 @@
 {
-  "version": "1.0.533",
-  "notes": "- ✨ Give Plainsong a fresh look with popular editor-inspired color palettes.",
-  "pub_date": "2026-11-10T15:58:32Z",
+  "version": "1.0.534",
+  "notes": "- See your Plainsong palette take effect as soon as you choose it.",
+  "pub_date": "2026-11-10T21:54:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmxDRmhvNFB4OExadmxxZmRrdXF1L2g4Y3ZxVHp6NFIxMUhqZUxLSi9MajFJdlc5UlFUQ1g3ZHdCWVd4dkhmWFVZMm9BWGg4MzF6b01oWnBGdmhHZ3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI2NDgyCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKbERNekJFeXJObXpXSWhWazUyWGY2Y0hoUmF4SUdDeWQ5aDRkRnpBMjM3alRHd1I3bWRXeGJTb1ZhQ2tiUkFwck5wQWp3eDgrZnpXM05nbVdoMUtHREE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.533/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmcrclJlZzg3THRIa1lZUHJqYTh3YjJyUEtXZXR1bUJkR3kyS0d1T1htQXQ5ekk1cVBQWGRrNlZlWlBzb2MxSWZYVURBenlzVG9LdStzQXJuc090M2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ3ODM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcnhoYnZYbEJ5MXpodFFldUZEWEZrS0NOZ1JrOXRja3hjeWtsVzVGNDRHZC8zOElHYVVKVTZZd09zcmEzUWR0UjNTV2g3aVpsZ1lPenlxc3luOXE3RFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.534/Dayspring.app.tar.gz"
     }
   }
 }
