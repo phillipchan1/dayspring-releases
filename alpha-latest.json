@@ -1,11 +1,11 @@
 {
-  "version": "1.0.534",
-  "notes": "- See your Plainsong palette take effect as soon as you choose it.",
-  "pub_date": "2026-11-10T21:54:45Z",
+  "version": "1.0.535",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-11-12T16:52:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmcrclJlZzg3THRIa1lZUHJqYTh3YjJyUEtXZXR1bUJkR3kyS0d1T1htQXQ5ekk1cVBQWGRrNlZlWlBzb2MxSWZYVURBenlzVG9LdStzQXJuc090M2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ3ODM4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKcnhoYnZYbEJ5MXpodFFldUZEWEZrS0NOZ1JrOXRja3hjeWtsVzVGNDRHZC8zOElHYVVKVTZZd09zcmEzUWR0UjNTV2g3aVpsZ1lPenlxc3luOXE3RFE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.534/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmdLTEl6U2JLYll1RWVQUW9udlJaelFaTHVlWU0wY0x2ay9PMzFuYUV2NXErSDUzRExPVEUxM21pLzgzZjFpNHZmbUFYYWZDWTFyUlpYSHQ1anFKMlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTAyNDk0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKVE1EYUp1RGxyUSt6K1FHQmVLbWZlbHFFUFRLK0hLdHV6aXFNMi9ydUJUa3FKOWJGYVJJZzB4U25VNlVZVzQyWTJYdnFrSkYxd0NWcVFaMU9GTDgvQkE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.535/Dayspring.app.tar.gz"
     }
   }
 }
