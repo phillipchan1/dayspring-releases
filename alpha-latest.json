@@ -1,11 +1,11 @@
 {
-  "version": "1.0.549",
+  "version": "1.0.550",
   "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-11-14T18:24:15Z",
+  "pub_date": "2026-11-14T20:39:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmhmT0hvTjhhS1BkSXVianpmcHVIcFdwMkYvd29VWldWcHJlT1ltc1BhVDQ1dWNLMlJmNWlFRVZ1MlRpUTBlQXB2OXdQUzNRNHRzcTNUdlZndnZhRnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjgwODI0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQlBHKzIyTC84RjFFOWZiVXhPdmpWdlJLZlk5bkFYTW5vNDBzdGQxYUtOZlE3bEdQdHU3Z3hQaThMNVFtWm53RCtkeEh1VXFKZmJ1YS9qQkM5QzBtRHc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.549/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnFoNEZ2MUpGbGgxcWdSWUoyRWNnZkZyRWR1aU5nbzZMd0tMUXppc3RkVUs2M3pvMGJ4TEVLOWhQbmtiOVhObnZLU0V4cTkyMWcvVys5SHQ2WnZhQndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg4OTQ4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKQVVuL3NsQ0lyUDVNSTFFNDgzVjhGQmVBcjMvUys5UVVROGhkZ1hHSmRzVkVSUUNHV3V5NFpyRi9ienJVNkVxNGdZbXovMk81U3NvMnVCUll3MDVERFE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.550/Dayspring.app.tar.gz"
     }
   }
 }
