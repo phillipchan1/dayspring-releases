@@ -1,11 +1,11 @@
 {
-  "version": "1.0.555",
-  "notes": "- Email and password sign-in now works for users who moved over to the Worker.",
-  "pub_date": "2026-11-16T00:12:46Z",
+  "version": "1.0.556",
+  "notes": "- The signed-out and trial status pill now fits more comfortably on phones.",
+  "pub_date": "2026-11-16T03:32:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnA0R0xybnZyRVdGTDdFOTVlbDFnLytaWmluZGFDZ3J5UysydHBBR1V2WGl5OEMwZ3JIY1NqdjhNOE10SHQzdWFKY2VsZXMzaE1xcDFwUnZsZ1d0eGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzg4MTA4CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZkhod0pUbm8yOWNybGJsc3V3K0RBekg1bnRhWXdsKzNEcnJNM3pab1MzUFNTN3Z4eG1aMlZkVlRLWUlINHlIMktGOG8xV0ZKdVFkNHY4ZHJrQkJ4QXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.555/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnVnY2dYR3Q4UmRNaHpEUmh0eHNhRmVQc3RlYTd5b1I2SWVBVzJvc000MjU4T2pGN1R5N1NLYjc3aDZCSklxeEptSWVJWkgyMTIxZVR0TkZBTjZwbmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODAwMTEzCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKd1diMkVGa3IyMHB4dlB1dlltd05pZGNVQjJJb0xJVGgrTHgvVUdyRWEyQnpwZForbjlMbWNmbW1RSVJRL3dpblJFL3lqalpFai9qRlh4R1RlbXkyQ0E9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.556/Dayspring.app.tar.gz"
     }
   }
 }
