@@ -1,11 +1,11 @@
 {
-  "version": "1.0.560",
-  "notes": "- Sign in once and stay signed in—the apps no longer sign you out right afterward.",
-  "pub_date": "2026-11-16T04:10:16Z",
+  "version": "1.0.561",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-11-16T04:23:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWm9VUmN2S1RhZkVkV2JYMFNyT2RkczdkMTNhd2dPZUtVZVMrT0tXSnVQelE3Ulpta2JheUMvRlFwTVRVcGtRenYrSDNzQWdlSmhxVjErSlFySnJuMFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODAyMzkwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKNWx0V0ZQZFNqa2Z0RzlzZ0RNRzdxYzFES2ZPSFptSi9aR21OcjZqQjMrZWFSdHA5RnI3N1FrNnp2TDlERSt6K1Y1VS9uMnB0azhMZ0V0NCtBNW4zQ0E9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.560/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnBYRmF6cFpvR1pKWUg0cHVjblZYQ1A4UDY1L1loa1k0SHhZSUw0OWJ1dVNZcHdDL2hTQU45b0NtcHlTS1hTN1Ewd2VhZW1Wakl2dnQzVnBlNmF3WEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODAzMTU0CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTHdCdjZ1OFR4Wk1qNmtHdUxkVFZDU1JRRCsxMUtxVmJlVXd3MjZtbW1DNTl2S1lnQkEyU0g0VUdPTXVTOHRVMWlXdE1EdGF1amlqRlQzNE1NYjVCQmc9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.561/Dayspring.app.tar.gz"
     }
   }
 }
