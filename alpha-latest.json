@@ -1,11 +1,11 @@
 {
-  "version": "1.0.553",
-  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
-  "pub_date": "2026-11-15T17:16:38Z",
+  "version": "1.0.554",
+  "notes": "- Google and Apple sign-in are working again on iOS and Mac.",
+  "pub_date": "2026-11-15T23:57:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWmlMRktER3oyUm0vaXlHYk44c0ZXUGtXSER4WjlhcDBUYlZFYUJnR0UwaTBVL0pyMzJ5VHNJNDN1Rk9OUUFLcmpkbXl0UUZueUZjRGV6L0p5VzRDZUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzYzMTk1CWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKZklRTTRjZ3JJT1hjK00zanpsZlJFR2VyakpNMndmdTJMd1ZHSy9KcWtpVEx0SHhDbmZoOGxVSG5tMkRUdUcyQ1JPNnYxSm9aSVpVK25rV1dPN3doQlE9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.553/Dayspring.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZCVzJxcGIrdkh0eDVwazdwN1NhNkFKaVBJd1pzWDVqQmlrOXBQWWpxZk9sUzJUUTNodkFVcW5GL3EzRmw4RkNTcTNKdGlHTFkvblg0MUtXeXA4amdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzg3MjMwCWZpbGU6RGF5c3ByaW5nLmFwcC50YXIuZ3oKTC9YV1NJVmNZL0NGb1hwMWExM3lQbFUwTytMYXhuZ0pwbHhhVE50bXBCUEZjTUZYWlUwTGVadXQ1VlJzblZYbDZHUGtFaTk2bTlJcFJvUW5oMUxtQ2c9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.554/Dayspring.app.tar.gz"
     }
   }
 }
