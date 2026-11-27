@@ -1,11 +1,11 @@
 {
-  "version": "1.0.568",
-  "notes": "- Switch between light and dark with ⌘⇧L.",
-  "pub_date": "2026-11-27T16:13:25Z",
+  "version": "1.0.569",
+  "notes": "✨ Minor improvements and behind-the-scenes fixes.",
+  "pub_date": "2026-11-27T16:33:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnJvNDlERU84THJXcndLWExaVWNUVU5sRmdPczFuOURyaGJvd20rNXZ2bU0zazl6OXVvQ2JIeXFyaU41eCsySHpHQnh4d1B4UVB1b1ZubU43R1ZEQkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk2MTAwCWZpbGU6RGF5c3ByaW5nIEFscGhhLmFwcC50YXIuZ3oKR2YyMWgxWXA1UllFOENDK2s4d0RZRml4NGUxdVZNMVFIWUhDVDZEejRnSWlhNDU0dUZkUElmazBrK0tqU0wwbC85UG13U0p4LzR0OXlTcmVNS2NmQXc9PQo=",
-      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.568/Dayspring.Alpha.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaDJOZEVIeFVCWnZPWkJ2ZExjQ2dOT2xuZUszei9VQVFLM285Rzk5SXhGbUFFZVcwZDhKdW9hSlJybkVqSitCNmJRVEgzV0ovREN3RnVzbTN0OTNlZENUZEkxRzBPQ1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk3MzU1CWZpbGU6RGF5c3ByaW5nIEFscGhhLmFwcC50YXIuZ3oKS24xT2I2YWd2UmpHS2pVWHVQNzJ5S2owQ3dxbEw4ZUdFWG1SVzBscDFWM1YzRERzbVBtZC94Vk9TMHlKYTZsU2szWWk2Y1VkMCtzUjFmSkluT3o0REE9PQo=",
+      "url": "https://github.com/phillipchan1/dayspring-releases/releases/download/alpha-v1.0.569/Dayspring.Alpha.app.tar.gz"
     }
   }
 }
